@@ -7,4 +7,5 @@ DC 3 Docházka - Uživatelská dokumentace
 .. toctree::
    :titlesonly:
    
+   prihlaseni
    
