@@ -21,6 +21,16 @@ Přihlášení do aplikace lze provést na obrazovce, která je `dostupná na ad
 
 3. Tlačítko Přihlásit – po zadání přihlašovacího jména a hesla, klikněte na tlačítko Přihlásit. Kliknutím na tlačítko dojde k přihlášení uživatele.
 
+Pokud si heslo nepamatujete, můžete ho jednoduše obnovit. Na obrazovce pro přihlášení, klikněte na nadpis **Nedaří se Vám přihlásit?**
+
+.. note:: Po 5 neúspěšných pokusech bude Váš účet zablokován a nebude možné heslo obnovit!. V tomto případě kontaktujte vždy konzultanta společnosti DATACENTRUM systems & consulting a.s.
+
+.. image:: /Img/Prihlaseni2.PNG
+
+Poté se zobrazí obrazovka Obnovení hesla. Zde zadejte Vaší e-mailovou adresu a klikněte na tlačítko **Odeslat**.
+
+.. image:: /Img/Prihlaseni3.PNG
+
 Vícefaktorové ověření
 -------------------------
  
