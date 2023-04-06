@@ -15,6 +15,12 @@ Přihlášení do aplikace lze provést na obrazovce, která je `dostupná na ad
 
 .. image:: /Img/Prihlaseni1.PNG
 
+1. Přihlašovací jméno – zde zadejte přihlašovací jméno
+
+2. Heslo – zde zadejte heslo
+
+3. Tlačítko Přihlásit – po zadání přihlašovacího jména a hesla, klikněte na tlačítko Přihlásit. Kliknutím na tlačítko dojde k přihlášení uživatele.
+
 Vícefaktorové ověření
 -------------------------
  
