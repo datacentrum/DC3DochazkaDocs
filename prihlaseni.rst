@@ -23,7 +23,7 @@ Přihlášení do aplikace lze provést na obrazovce, která je `dostupná na ad
 
 Pokud si heslo nepamatujete, můžete ho jednoduše obnovit. Na obrazovce pro přihlášení, klikněte na nadpis **Nedaří se Vám přihlásit?**
 
-.. note:: Po 5 neúspěšných pokusech bude Váš účet zablokován a nebude možné heslo obnovit!. V tomto případě kontaktujte vždy konzultanta společnosti DATACENTRUM systems & consulting a.s.
+.. note:: Po 5 neúspěšných pokusech bude Váš účet zablokován a nebude možné heslo obnovit!. V tomto případě vždy kontaktujte konzultanta společnosti DATACENTRUM systems & consulting a.s.
 
 .. image:: /Img/Prihlaseni2.PNG
 
@@ -41,7 +41,7 @@ Pokud si heslo nepamatujete, můžete ho jednoduše obnovit. Na obrazovce pro p�
 
 .. note:: Heslo musí být dlouhé minimálně 8 znaků a obsahovat velké, malé písmeno, číslo a speciální znak (např. tečka atd.).
 
-.. note:: Zapamatujte si nové heslo a nikomu nesdělujte Vaše přihlašovací údaje!
+.. note:: Zapamatujte si nové heslo a nikomu nesdělujte Vaše přihlašovací údaje.
 
 
 Vícefaktorové ověření
