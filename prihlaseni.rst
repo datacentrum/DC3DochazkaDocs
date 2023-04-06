@@ -13,6 +13,8 @@ Každý uživatel má přidělené uživatelské jméno a heslo pomocí kterého
 
 Přihlášení do aplikace lze provést na obrazovce, která je `dostupná na adrese <https://dochazka.datacentrum.cz/dtc/login>`__.
 
+.. image:: /Img/Prihlaseni1.PNG
+
 Vícefaktorové ověření
 -------------------------
  
