@@ -27,9 +27,22 @@ Pokud si heslo nepamatujete, můžete ho jednoduše obnovit. Na obrazovce pro p�
 
 .. image:: /Img/Prihlaseni2.PNG
 
-Poté se zobrazí obrazovka Obnovení hesla. Zde zadejte Vaší e-mailovou adresu a klikněte na tlačítko **Odeslat**.
+- Poté se zobrazí obrazovka Obnovení hesla. Zde zadejte Vaší e-mailovou adresu a klikněte na tlačítko **Odeslat**.
 
 .. image:: /Img/Prihlaseni3.PNG
+
+- Po úspěšném zadání e-mailové adresy bude zobrazená hláška: **Žádost o obnovení Vašeho hesla byla uspěšně odeslána**.
+
+- Zkontrolujte si Vaši e-mailovou adresu. Na Váš e-mail dorazí zpráva s vygenerovaným odkazem.
+
+- Klikněte na vygenerovaný odkaz.
+
+- Zobrazí se obrazovka pro nastavení nového hesla. Zde zadejte nové heslo a potvrzení hesla.
+
+.. note:: Heslo musí být dlouhé minimálně 8 znaků a obsahovat velké, malé písmeno, číslo a speciální znak (např. tečka atd.).
+
+.. note:: Zapamatujte si nové heslo a nikomu nesdělujte Vaše přihlašovací údaje!
+
 
 Vícefaktorové ověření
 -------------------------
