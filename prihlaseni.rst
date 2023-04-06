@@ -7,6 +7,7 @@ Přihlášení do aplikace
   
 Přihlášení pomocí jména a hesla
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Každý uživatel má přidělené uživatelské jméno a heslo pomocí kterého lze se přihlásit do aplikace.
 
 Vícefaktorové ověření
 -------------------------
