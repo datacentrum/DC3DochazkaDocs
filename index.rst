@@ -8,4 +8,5 @@ DC 3 Docházka - Uživatelská dokumentace
    :titlesonly:
    
    prihlaseni
+   muj-profil
    
