@@ -5,6 +5,7 @@ Přihlášení do aplikace
   :local:
   :depth: 2
   
+.. _prihlaseni_jmeno_heslo:
 Přihlášení pomocí jména a hesla
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Pokud se uživatelé do systému přihlašují pomocí jména a hesla, má každý uživatel vygenerované své přihlašovací jméno a heslo.
@@ -64,8 +65,7 @@ Pokud se uživatelé do systému přihlašují pomocí vícefaktorového ověře
 
 Pokud uživatel již má nastavené dvoufaktorové ověřování, přihlášení do aplikace bude probíhat ve dvou krocích:
 
-1. Zadání přihlašovacích údajů na přihlašovací obrazovce. Postup je vysvětlen v kapitole 
-:ref: `Přihlášení pomocí jména a hesla`
+1. Zadání přihlašovacích údajů na přihlašovací obrazovce. Postup je vysvětlen v kapitole :ref:`prihlaseni_jmeno_heslo`
 
 2. Zadání ověřovacího kódu na níže uvedené obrazovce. Následující obrazovka se zobrazí vždy po uspěšném zadání přihlašovacích údajů.
 
