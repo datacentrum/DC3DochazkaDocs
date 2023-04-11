@@ -51,7 +51,7 @@ Vícefaktorové ověření
 -------------------------
 
 Pokud se uživatelé do systému přihlašují pomocí vícefaktorového ověření, má každý uživatel vygenerované své přihlašovací jméno a heslo a následně je vyžadován ověřovací kód.
-Přihlášení do aplikace lze provést na obrazovce, která se automaticky zobrazí každému nepřihlášenému uživateli. Postup pro přihlášení je stejný jako v kapitole Přihlášení pomocí jména a hesla.
+Přihlášení do aplikace lze provést na obrazovce, která se automaticky zobrazí každému nepřihlášenému uživateli. Postup pro přihlášení je stejný jako v kapitole :doc:`Přihlášení pomocí jména a hesla </DC 3 Docházka - Uživatelská dokumentace/prihlaseni>`.
 Po zadání přihlašovacích údajů se zobrazí níže uvedená obrazovka **Nastavení dvoufaktorového ověřování**
 
 .. image:: /Img/Vicefaktorove2.PNG
