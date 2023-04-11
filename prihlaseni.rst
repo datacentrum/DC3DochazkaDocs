@@ -7,11 +7,11 @@ Přihlášení do aplikace
   
 Přihlášení pomocí jména a hesla
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Každý uživatel má přidělené uživatelské jméno a heslo pomocí kterého lze se přihlásit do aplikace.
+Pokud se uživatelé do systému přihlašují pomocí jména a hesla, má každý uživatel vygenerované své přihlašovací jméno a heslo.
 
 .. note:: Nikdy nikomu nesdělujte přihlašovací údaje k vašemu uživatelskému účtu.
 
-Přihlášení do aplikace lze provést na obrazovce, která je `dostupná na adrese <https://dochazka.datacentrum.cz/dtc/login>`__.
+Přihlášení do aplikace pomocí jména a hesla lze provést na níže uvedené obrazovce, která se automaticky zobrazí každému nepřihlášenému uživateli.
 
 .. image:: /Img/Prihlaseni1.PNG
 
@@ -20,6 +20,9 @@ Přihlášení do aplikace lze provést na obrazovce, která je `dostupná na ad
 2. Heslo – zde zadejte heslo
 
 3. Tlačítko Přihlásit – po zadání přihlašovacího jména a hesla, klikněte na tlačítko Přihlásit. Kliknutím na tlačítko dojde k přihlášení uživatele.
+
+Obnova zapomenutého hesla
+-------------------------
 
 Pokud si heslo nepamatujete, můžete ho jednoduše obnovit. Na obrazovce pro přihlášení, klikněte na nadpis **Nedaří se Vám přihlásit?**
 
@@ -39,7 +42,7 @@ Pokud si heslo nepamatujete, můžete ho jednoduše obnovit. Na obrazovce pro p�
 
 - Zobrazí se obrazovka pro nastavení nového hesla. Zde zadejte nové heslo a potvrzení hesla.
 
-.. note:: Heslo musí být dlouhé minimálně 8 znaků a obsahovat velké, malé písmeno, číslo a speciální znak (např. tečka atd.).
+.. note:: Ve výchozím nastavení musí být heslo dlouhé minimálně 8 znaků a obsahovat velké, malé písmeno, číslo a speciální znak (např. tečka atd.). Požadavky na sílu hesla lze individuálně upravovat.
 
 .. note:: Zapamatujte si nové heslo a nikomu nesdělujte Vaše přihlašovací údaje.
 
