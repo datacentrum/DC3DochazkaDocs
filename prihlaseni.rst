@@ -63,6 +63,7 @@ Pokud se uživatelé do systému přihlašují pomocí vícefaktorového ověře
 2. Tlačítko Přihlásit – po zadání ověřovacího kódu, klikněte na tlačítko Přihlásit. Kliknutím na tlačítko dojde k přihlášení uživatele a nastavení dvoufaktorového ověřování.
 
 Pokud uživatel již má nastavené dvoufaktorové ověřování, přihlášení do aplikace bude probíhat ve dvou krocích:
+
 1. Zadání přihlašovacích údajů na přihlašovací obrazovce. Postup je vysvětlen v kapitole **Přihlášení pomocí jména a hesla**
 
 2. Zadání ověřovacího kódu na níže uvedené obrazovce. Následující obrazovka se zobrazí vždy po uspěšném zadání přihlašovacích údajů.
@@ -72,7 +73,7 @@ Pokud uživatel již má nastavené dvoufaktorové ověřování, přihlášení
 1. Zadejde vygenerovaný kód do pole **Ověřovací kód**
 
 2. Tlačítko Přihlásit – po zadání ověřovacího kódu, klikněte na tlačítko Přihlásit. Kliknutím na tlačítko dojde k přihlášení uživatele.
- 
+
 Přihlášení pomocí Azure AD
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
