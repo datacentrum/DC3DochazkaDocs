@@ -77,6 +77,9 @@ Pokud uživatel již má nastavené dvoufaktorové ověřování, přihlášení
 
 Přihlášení pomocí Azure AD
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. note:: Přihlášení přes Azure AD je dostupné v závislosti na konrétní implementaci a za podmínky, že klient využívá pro ověřování Single-sign-on přes MS Azure AD.
+
 Přihlášení do aplikace pomocí Azure AD lze provést na níže uvedené obrazovce, která se automaticky zobrazí každému nepřihlášenému uživateli.
 
 .. image:: /Img/Azure1.PNG
@@ -85,6 +88,10 @@ Přihlášení do aplikace pomocí Azure AD lze provést na níže uvedené obra
 
 Přihlášení pomocí Google Workspace
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. note:: Aplikace podporuje přihlášení pomocí Google Workspace. Přihlášení je dostupné v závislosti na konrétní implementaci.
  
 Přihlášení pomocí Okta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. note:: Aplikace podporuje přihlášení pomocí účtu OpenID Connect Okta. Přihlášení je dostupné v závislosti na konrétní implementaci.
