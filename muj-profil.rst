@@ -10,7 +10,7 @@ Nastavení jazyka a formátu
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Nastavení jazyka a formátu lze provést v profilu přihlášeného uživatele. Pro zobrazení profilu postupujte podle následujících kroků:
 
-- Přihlaste se do aplikace pomocí Vaších přihlašovacích údajů. Postup přihlášení je vysvětlen v kapitole **Přihlášení**.
+- Přihlaste se do aplikace pomocí Vaších přihlašovacích údajů. Postup přihlášení je vysvětlen v kapitole :doc:`Přihlášení do aplikace <prihlaseni>`**Přihlášení**.
 
 .. image:: /Img/JazykFormat1.PNG
 
