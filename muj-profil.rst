@@ -14,9 +14,9 @@ Nastavení jazyka a formátu lze provést v profilu přihlášeného uživatele.
 
 .. image:: /Img/JazykFormat1.PNG
 
-1. Na horní liště klikněte na Vaše jméno
+1. Na horní liště klikněte na Vaše jméno nebo šipku vpravo od jména 
 
-2. Z rozbalovacího seznamu vyberte **Můj profil**. Kliknutím na **Můj profil** se zobrazí obrazovka Můj profil, která má několík záložek.
+2. Z rozbalovacího seznamu vyberte **Můj profil**. Kliknutím na **Můj profil** se zobrazí podrobné informace o vlastním uživatelském profilu. Obrazovka Můj profil má několík záložek.
 
 .. image:: /Img/JazykFormat2.PNG
 
@@ -26,9 +26,9 @@ Nastavení jazyka a formátu lze provést v profilu přihlášeného uživatele.
 
 5. Klikněte na rozbalovací seznam pod nadpisem **Formát** a vyberte požadované formátování datůmu, měn apod.
 
-6. Pro uložení změn v profilu uživatele klikněte na tlačítko **Uložit**
+6. Pro uložení změn v profilu uživatele klikněte na tlačítko **Uložit**.
 
-
+.. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
 
 Změna hesla
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
