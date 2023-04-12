@@ -77,7 +77,12 @@ Pokud uživatel již má nastavené dvoufaktorové ověřování, přihlášení
 
 Přihlášení pomocí Azure AD
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Přihlášení do aplikace pomocí Azure AD lze provést na níže uvedené obrazovce, která se automaticky zobrazí každému nepřihlášenému uživateli.
+
+.. image:: /Img/Azure1.PNG
  
+1. Klikněte na tlačítko Azure AD. Kliknutím na tlačítko dojde k přihlášení uživatele.
+
 Přihlášení pomocí Google Workspace
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
