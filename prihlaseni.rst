@@ -89,9 +89,9 @@ Přihlášení do aplikace pomocí Azure AD lze provést na níže uvedené obra
 Přihlášení pomocí Google Workspace
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. note:: Aplikace podporuje přihlášení pomocí Google Workspace. Přihlášení je dostupné v závislosti na konrétní implementaci.
+.. note:: Aplikace podporuje přihlášení pomocí Google Workspace. Přihlášení je dostupné v závislosti na konkrétní implementaci.
  
 Přihlášení pomocí Okta
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. note:: Aplikace podporuje přihlášení pomocí účtu OpenID Connect Okta. Přihlášení je dostupné v závislosti na konrétní implementaci.
+.. note:: Aplikace podporuje přihlášení pomocí účtu OpenID Connect Okta. Přihlášení je dostupné v závislosti na konkrétní implementaci.
