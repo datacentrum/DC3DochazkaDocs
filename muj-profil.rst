@@ -46,9 +46,9 @@ Pokud heslo ke svému účtu znáte a chcete ho změnit, postupujte takto:
 
 3. Pro změnu hesla zadejte následující údaje:
 
- - Staré heslo – zde zadejte Vaše aktuálně platné heslo do systému
- - Nové heslo – zde zadejte nové heslo, které nahradí Vaše aktuálně platné heslo. Nové heslo se nesmí shodovat se stávajícím heslem.
- - Potvrzení hesla – potvrďte nové heslo. Zadané nové heslo a potvrzení hesla si navzájem musí odpovídat.
+  - Staré heslo – zde zadejte Vaše aktuálně platné heslo do systému
+  - Nové heslo – zde zadejte nové heslo, které nahradí Vaše aktuálně platné heslo. Nové heslo se nesmí shodovat se stávajícím heslem.
+  - Potvrzení hesla – potvrďte nové heslo. Zadané nové heslo a potvrzení hesla si navzájem musí odpovídat.
  
 4. Pro uložení změn klikněte na tlačítko **Změnit heslo**.
 
