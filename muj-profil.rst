@@ -32,6 +32,31 @@ Nastavení jazyka a formátu lze provést v profilu přihlášeného uživatele.
 
 Změna hesla
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Pokud heslo ke svému účtu znáte a chcete ho změnit, postupujte takto:
+
+- Přihlaste se do aplikace pomocí Vaších přihlašovacích údajů. Postup přihlášení je vysvětlen v kapitole :doc:`Přihlášení do aplikace <prihlaseni>`.
+
+.. image:: /Img/Heslo1.PNG
+
+1. Na horní liště klikněte na Vaše jméno nebo šipku vpravo od jména.
+
+2. Z rozbalovacího seznamu vyberte **Změnit heslo**. Kliknutím na **Změnit heslo** se zobrazí obrazovka pro změnu hesla.
+
+.. image:: /Img/Heslo2.PNG
+
+3. Pro změnu hesla zadejte následující údaje:
+
+ - Staré heslo – zde zadejte Vaše aktuálně platné heslo do systému
+ - Nové heslo – zde zadejte nové heslo, které nahradí Vaše aktuálně platné heslo. Nové heslo se nesmí shodovat se stávajícím heslem.
+ - Potvrzení hesla – potvrďte nové heslo. Zadané nové heslo a potvrzení hesla si navzájem musí odpovídat.
+ 
+4. Pro uložení změn klikněte na tlačítko **Změnit heslo**.
+
+5. Kliknutím na tlačítko **Storno** se vrátíte na úvodní obrazovku, ale nové heslo nebude uložené.
+
+.. note:: Ve výchozím nastavení musí být heslo dlouhé minimálně 8 znaků a obsahovat velké, malé písmeno, číslo a speciální znak (např. tečka atd.). Požadavky na sílu hesla lze individuálně upravovat.
+
+.. note:: Zapamatujte si nové heslo a nikdy nikomu nesdělujte přihlašovací údaje k vašemu uživatelskému účtu.
 
 Odhlášení z aplikace
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
