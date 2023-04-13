@@ -60,3 +60,14 @@ Pokud heslo ke svému účtu znáte a chcete ho změnit, postupujte takto:
 
 Odhlášení z aplikace
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Pro odhlášení z aplikace postupujte takto:
+
+.. image:: /Img/Odhlasit1.PNG
+
+1. Na horní liště klikněte na Vaše jméno nebo šipku vpravo od jména.
+
+2. Z rozbalovacího seznamu vyberte **Odhlásit**. Kliknutím na **Odhlásit** se zobrazí obrazovka s potvrzením o úspěšném odhlášení.
+
+.. image:: /Img/Odhlasit2.PNG
+
+.. note:: Obrazovka s potvrzením o úspěšném odhlášení se může lišit v závislosti na vybraném způsobu přihlášení.
