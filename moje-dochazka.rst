@@ -7,7 +7,7 @@ Moje docházka
   
 Výkaz docházky osoby
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Hlavní menu aplikace obsahuje odkaz Docházka **(1)**. Při najetí myši na odkaz se zobrazí Výkaz docházky osoby **(2)**.
+Přihlášený uživatel může zobrazit výkaz docházky osoby. Hlavní menu aplikace obsahuje odkaz Docházka **(1)**. Při najetí myši na odkaz se zobrazí Moje docházka **(2)**.
 
 .. image:: /Img/Vykaz1.PNG
 
