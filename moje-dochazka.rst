@@ -7,12 +7,19 @@ Moje docházka
   
 Výkaz docházky osoby
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Hlavní menu aplikace obsahuje odkaz Docházka **(1)**. Při najetí myši na odkaz se zobrazí Výkaz docházky osoby **(2)**.
+
+.. image:: /Img/Vykaz1.PNG
 
 Tabulka měsíčního výkazu
 --------------------------
 
+.. image:: /Img/Vykaz2.PNG
+
 Tabulka zůstatků
 --------------------------
+
+.. image:: /Img/Zustatky1.PNG
 
 Plán docházky osoby
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
