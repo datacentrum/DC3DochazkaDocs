@@ -45,3 +45,14 @@ Samoschvalitelné události
 Smazání události
 ----------------------------
 
+Editace výkazu docházky
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+-dostupné pro vedoucího
+
+Schvalování údalostí docházky
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+Schvalování měsíce
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
