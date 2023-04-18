@@ -73,6 +73,21 @@ V Měsíčním výkazu docházky osoby je dostupná tabulka zůstatků. Postup z
 
 .. image:: /Img/Zustatky1.PNG
 
+V horní části tabulky **(1)** se nachází souhrn zůstatků:
+
+- Odpracováno / měsíční fond - kolík hodin bylo skutečně odpracováno a jaký je měsíční fond.
+
+- Absence - kolík hodin zaměstnanec ve výbranem měsící chýběl.
+
+- Saldo / saldo celkem - saldo v aktuálím měsící a saldo za celé období.
+
+- Zůstatek dovolené k - zůstatek dovolené ke konci měsíce v hodinách a přepočet zůstatku na dny.
+
+Zůstatky čerpání události plánu docházky lze zobrazit kliknutím na ikonu **i (2)**. Zde je zobrazen seznám události (např. dovolená, sick day, atd.) a přehled čerpání.
+
+.. image:: /Img/Zustatky2.PNG
+
+
 Plán docházky osoby
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
