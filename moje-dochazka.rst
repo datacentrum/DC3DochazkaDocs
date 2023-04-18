@@ -5,6 +5,7 @@ Moje docházka
   :local:
   :depth: 2
   
+.. _moje_dochazka:
 Moje docházka
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Přihlášený uživatel může zobrazit výkaz vlastní docházky. Hlavní menu aplikace obsahuje odkaz Docházka **(1)**. Při najetí myši na odkaz se zobrazí Moje docházka **(2)**.
@@ -17,7 +18,7 @@ Kliknutím na **Moje docházka** se zobrazí obrazovka **Moje docházka** s výk
 
 Tabulka měsíčního výkazu
 --------------------------
-Tabulka měsíčního výkazu vlastní docházky je dostupná na obrazovce **Moje docházka**. Posup zobrazení je vysvětlen v kapitole **Moje docházka**.
+Tabulka měsíčního výkazu vlastní docházky je dostupná na obrazovce **Moje docházka**. Posup zobrazení je vysvětlen v kapitole :ref:`moje_dochazka`.
 
 .. note:: Vedoucí pracovník může zobrazit tabulku měsíčního výkazu podřízeného zaměstnance.
 
