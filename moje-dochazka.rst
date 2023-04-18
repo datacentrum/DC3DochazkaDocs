@@ -11,13 +11,27 @@ Přihlášený uživatel může zobrazit výkaz vlastní docházky. Hlavní menu
 
 .. image:: /Img/Vykaz1.PNG
 
-Kliknutím na **Moje docházka** se zobrazí tabulka **Moje docházka** s výkazem docházky
+Kliknutím na **Moje docházka** se zobrazí obrazovka **Moje docházka** s výkazem docházky za vybraný měsíc.
 
+.. image:: /Img/Vykaz2.PNG
 
 Tabulka měsíčního výkazu
 --------------------------
+Tabulka měsíčního výkazu vlastní docházky je dostupná na obrazovce **Moje docházka**. Posup zobrazení je vysvětlen v kapitole **Moje docházka**.
 
-.. image:: /Img/Vykaz2.PNG
+.. note:: Vedoucí pracovník může zobrazit tabulku měsíčního výkazu podřízeného zaměstnance.
+
+.. image:: /Img/Vykaz3.PNG
+
+Hlavní menu aplikace obsahuje odkaz Docházka **(1)**. Při najetí myši na odkaz se zobrazí Výkaz docházky **(2)**. Kliknutím na Výkaz docházky se zobrazí tabulka s přehledem osob.
+
+.. image:: /Img/Prehled1.PNG
+
+Vyberte osobu ze seznámu a klikněte na jméno **(3)**. Kliknutím se zobrazí měsíční výkaz docházky vybrané osoby.
+
+.. image:: /Img/Vykaz4.PNG
+
+
 
 Tabulka zůstatků
 --------------------------
