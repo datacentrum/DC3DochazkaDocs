@@ -40,7 +40,7 @@ Výkaz docházky obsahuje:
  
  .. image:: /Img/DetailDne2.PNG
  
- - Typ směny. Při najetí myši na směnu (1) lze zobrazit detail směny.
+ - Typ směny. Při najetí myši na **Směnu (2)** lze zobrazit detail směny.
 
 .. image:: /Img/Smena1.PNG
 
