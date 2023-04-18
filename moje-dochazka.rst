@@ -44,6 +44,18 @@ Výkaz docházky obsahuje:
 
 .. image:: /Img/Smena1.PNG
 
+- Směna od/do - čas začátku a konce směny.
+
+- Příchod - čas příchodu na pracoviště.
+
+- Odchod - čas odchodu z pracoviště.
+
+- Odpracováno - kolik hodin bylo odpracováno.
+
+- Absence - kolik hodin zaměstnanec na pracovišti chyběl.
+
+- +/- kolik hodin zaměstnanec odpracoval navíc nebo kolík hodin chybí.
+
 - Měsíc výkazu docházky. Automatický se zobrazí aktuání měsíc, ale kliknutím na ikonu kalendáře **(6)** lze vybrat jiný měsíc a rok.
  
 .. image:: /Img/Mesic1.PNG
