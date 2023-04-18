@@ -16,6 +16,7 @@ Kliknutím na **Moje docházka** se zobrazí obrazovka **Moje docházka** s výk
 
 .. image:: /Img/Vykaz2.PNG
 
+.. _tabulka_mesicniho_vykazu:
 Tabulka měsíčního výkazu
 --------------------------
 Tabulka měsíčního výkazu vlastní docházky je dostupná na obrazovce **Moje docházka**. Posup zobrazení je vysvětlen v kapitole :ref:`moje_dochazka`.
@@ -66,10 +67,9 @@ Výkaz docházky obsahuje:
 
 .. image:: /Img/StromPodrizenosti2.PNG
 
-
-
 Tabulka zůstatků
 ---------------------------
+V Měsíčním výkazu docházky osoby je dostupná tabulka zůstatků. Postup zobrazení výkazu docházky je vysvětlen v kapitole :ref:`tabulka_mesicniho_vykazu`. 
 
 .. image:: /Img/Zustatky1.PNG
 
