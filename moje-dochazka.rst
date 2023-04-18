@@ -50,7 +50,7 @@ Výkaz docházky obsahuje:
 
 
 Tabulka zůstatků
---------------------------
+---------------------------
 
 .. image:: /Img/Zustatky1.PNG
 
