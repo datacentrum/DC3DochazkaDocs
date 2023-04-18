@@ -34,19 +34,19 @@ Vyberte osobu ze seznámu a klikněte na jméno **(3)**. Kliknutím se zobrazí 
 
 Výkaz docházky obsahuje:
  
- - Datum. Kliknutím na **Datum (4)** se zobrazí detail dne, který obsahuje průchody, intervaly, příplatky, saldo, poznámky.
+- Datum. Kliknutím na **Datum (4)** se zobrazí detail dne, který obsahuje průchody, intervaly, příplatky, saldo, poznámky.
  
 .. image:: /Img/DetailDne1.PNG
  
 .. image:: /Img/DetailDne2.PNG
  
- - Typ směny. Při najetí myši na **Směnu (5)** lze zobrazit detail směny.
+- Typ směny. Při najetí myši na **Směnu (5)** lze zobrazit detail směny.
 
- .. image:: /Img/Smena1.PNG
+.. image:: /Img/Smena1.PNG
 
- - Měsíc výkazu docházky. Automatický se zobrazí aktuání měsíc, ale kliknutím na ikonu kalendáře **(6)** lze vybrat jiný měsíc a rok.
+- Měsíc výkazu docházky. Automatický se zobrazí aktuání měsíc, ale kliknutím na ikonu kalendáře **(6)** lze vybrat jiný měsíc a rok.
  
- .. image:: /Img/Mesic1.PNG
+.. image:: /Img/Mesic1.PNG
 
 
 Tabulka zůstatků
