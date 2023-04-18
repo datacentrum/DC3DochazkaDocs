@@ -60,6 +60,13 @@ Výkaz docházky obsahuje:
  
 .. image:: /Img/Mesic1.PNG
 
+.. note:: Vedoucí pracovník může zobrazit strom podřízenosti na obrazovce s výkazem docházky. Kliknutím na **Strom podřízenosti** se zobrazí seznam podřízených zaměstnanců
+
+.. image:: /Img/StromPodrizenosti1.PNG
+
+.. image:: /Img/StromPodrizenosti2.PNG
+
+
 
 Tabulka zůstatků
 ---------------------------
