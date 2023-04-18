@@ -44,6 +44,11 @@ Výkaz docházky obsahuje:
 
  .. image:: /Img/Smena1.PNG
 
+ - Měsíc výkazu docházky. Automatický se zobrazí aktuání měsíc, ale kliknutím na ikonu kalendáře **(3)** lze vybrat jiný měsíc a rok.
+ 
+ .. image:: /Img/Mesic1.PNG
+
+
 Tabulka zůstatků
 --------------------------
 
