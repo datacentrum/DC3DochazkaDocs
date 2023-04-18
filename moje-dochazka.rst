@@ -42,7 +42,7 @@ Výkaz docházky obsahuje:
  
  - Typ směny. Při najetí myši na **Směnu (2)** lze zobrazit detail směny.
 
-.. image:: /Img/Smena1.PNG
+ .. image:: /Img/Smena1.PNG
 
 Tabulka zůstatků
 --------------------------
