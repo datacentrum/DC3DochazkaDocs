@@ -122,9 +122,29 @@ Každy přihlašený uživatel může zobrazit vlastní plánovací kalednář. 
 
 - Uživatel si může změnit zobrazení kalendáře. Kliknutím na Měsíc/Týden/Den/Agenda **(4)** lze změnit zobrazení kalendáře.
 
-
 Tabulka zůstatků
 --------------------------
+V planovácím kalendáři docházkových události je dostupná tabulka zůstatků. Postup zobrazení planovácího kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. 
+
+.. image:: /Img/Zustatky3.PNG
+
+- Kliknutím na znák sumy **(1)** lze schovat/rozbalit tabulku zůstatků.
+
+V horní části tabulky **(2)** se nachází souhrn zůstatků:
+
+- Nárok dovolené na začátku roku - nárok dovolenoé na začátku roku v hodinách (v závorkach přepočet na dny).
+
+- Zůstatek dovolené k *datům* - zůstatek dovolené k začátku měsíce v hodinách (v závorkach přepočet na dny).
+
+- Čerpání dovolené v měsíci - kolík hodin (dnů) dovolené bylo čerpáno v daném měsíci.
+
+- Zůstatek dovolené k *datům* - zůstatek dovolené ke konci měsíce v hodinách (v závorkach přepočet na dny).
+
+- Zůstatek dovolené na konci roku - zůstatek dovolené na konci roku v hodinách (v závorkach přepočet na dny).
+
+Zůstatky čerpání události plánu docházky lze zobrazit kliknutím na ikonu **i (3)**. Zde je zobrazen seznám události (např. dovolená, sick day, atd.) a přehled čerpání.
+
+.. image:: /Img/Zustatky4.PNG
 
 Založení nové události
 --------------------------
