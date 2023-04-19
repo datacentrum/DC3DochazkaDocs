@@ -91,7 +91,7 @@ Plán docházky osoby
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Přihlášený uživatel může zobrazit plán docházkových událostí. Hlavní menu aplikace obsahuje odkaz Docházka **(1)**. Při najetí myši na odkaz se zobrazí Plán docházky **(2)**.
 
-.. image:: /Img/Plan1.PNG
+.. image:: /Img/PlanDochazky1.PNG
 
 Kliknutím na **Plán docházky** se zobrazí obrazovka **Plán docházkových událostí** s kalendářem docházkových událostí.
 
