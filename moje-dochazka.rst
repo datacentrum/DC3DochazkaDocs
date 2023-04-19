@@ -87,6 +87,7 @@ Zůstatky čerpání události plánu docházky lze zobrazit kliknutím na ikonu
 
 .. image:: /Img/Zustatky2.PNG
 
+.. _plan_dochazky_osoby:
 Plán docházky osoby
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Přihlášený uživatel může zobrazit plán docházkových událostí. Hlavní menu aplikace obsahuje odkaz Docházka **(1)**. Při najetí myši na odkaz se zobrazí Plán docházky **(2)**.
@@ -105,6 +106,11 @@ Plán docházky osoby lze zobrazit z výkazu vlatstní docházky. Postup zobraze
 
 Plánovací kalendář
 --------------------------
+Každy přihlašený uživatel může zobrazit vlastní plánovací kalednář. Posup zobrazení je vysvětlen v kapitole :ref:`plan_dochazky_osoby`.
+
+.. image:: /Img/Kalendar2.PNG
+
+
 
 Tabulka zůstatků
 --------------------------
