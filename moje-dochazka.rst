@@ -120,6 +120,9 @@ Každy přihlašený uživatel může zobrazit vlastní plánovací kalednář. 
 
 .. image:: /Img/DetailUdalosti1.PNG
 
+- Uživatel si může změnit zobrazení kalendáře. Kliknutím na Měsíc/Týden/Den/Agenda **(4)** lze změnit zobrazení kalendáře.
+
+
 Tabulka zůstatků
 --------------------------
 
