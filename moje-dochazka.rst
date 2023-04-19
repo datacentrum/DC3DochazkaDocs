@@ -95,6 +95,12 @@ Přihlášený uživatel může zobrazit plán docházkových událostí. Hlavn�
 
 Kliknutím na **Plán docházky** se zobrazí obrazovka **Plán docházkových událostí** s kalendářem docházkových událostí.
 
+.. image:: /Img/Kalendar1.PNG
+
+Plán docházky osoby lze zobrazit z výkazu vlatstní docházky. Postup zobrazení výkazu docházky je vysvětlen v kapitole :ref:`moje_dochazka`. Na obrazovce **Moje docházka** klikněte na **Můj plán docházky (3)**. Kliknutím se zobrazí obrazovka **Plán docházkových událostí** s kalendářem docházkových událostí. 
+
+.. image:: /Img/MojeDochazka1.PNG
+
 Plánovací kalendář
 --------------------------
 
