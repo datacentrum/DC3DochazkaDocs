@@ -110,7 +110,15 @@ Každy přihlašený uživatel může zobrazit vlastní plánovací kalednář. 
 
 .. image:: /Img/Kalendar2.PNG
 
+- V kalendáři se automatický zobrazí aktuání měsíc, ale kliknutím na šipku vprávo nebo vlevo **(1)** lze měsíc změnit.
 
+- Při najetí myši na den v kalendáři **(2)** se zobrazí detail směny
+
+.. image:: /Img/DetailSmeny1.PNG
+
+- Při najetí myši na událost v kalendáři **(3)** se zobrazí detail události. Kliknutím na událost **(3)** se zobrazi další informace o události plánu docházky: 
+
+.. image:: /Img/DetailUdalosti1.PNG
 
 Tabulka zůstatků
 --------------------------
