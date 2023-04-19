@@ -97,7 +97,8 @@ Kliknutím na **Plán docházky** se zobrazí obrazovka **Plán docházkových u
 
 .. image:: /Img/Kalendar1.PNG
 
-..**Další možnost zobrazení plánu docházky:**
+- **Další možnost zobrazení plánu docházky:**
+
 Plán docházky osoby lze zobrazit z výkazu vlatstní docházky. Postup zobrazení výkazu docházky je vysvětlen v kapitole :ref:`moje_dochazka`. Na obrazovce **Moje docházka** klikněte na **Můj plán docházky (3)**. Kliknutím se zobrazí obrazovka **Plán docházkových událostí** s kalendářem docházkových událostí. 
 
 .. image:: /Img/MojeDochazka1.PNG
