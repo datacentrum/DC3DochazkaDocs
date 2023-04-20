@@ -130,6 +130,18 @@ Každy přihlašený uživatel může zobrazit vlastní plánovací kalednář. 
 
 - Uživatel si může změnit zobrazení kalendáře. Kliknutím na Měsíc/Týden/Den/Agenda **(4)** lze změnit zobrazení kalendáře.
 
+Kalendář spolupracovníků
+-----------------------------
+Každy přihlašený uživatel může zobrazit plánovací kalednáře spolupracovníků. Na obrazovce Plán docházkových událostí vyberte založku **Kalendář spolupracovníků (1)**.  Kliknutím na záložku **Kalendář spolupracovníků (1)** se zobrazí Kalendář docházkových událostí spolupracovníků.
+*Posup zobrazení obrazovky Plán docházkových událostí je vysvětlen v kapitole :ref:`plan_dochazky_osoby`*.
+
+.. image:: /Img/KalendarSpolupracovniku1.PNG
+
+- V kalendáři se automatický zobrazí aktuání měsíc, ale kliknutím na šipku vprávo nebo vlevo **(2)** lze měsíc změnit.
+
+- Kliknutím na jméno osoby lze přejít na plán docházky osoby, výkaz docházky osoby, schválení docházky osoby.
+
+
 Tabulka zůstatků
 --------------------------
 V planovácím kalendáři docházkových události je dostupná tabulka zůstatků. Postup zobrazení planovácího kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. 
