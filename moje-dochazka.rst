@@ -61,11 +61,19 @@ Výkaz docházky obsahuje:
  
 .. image:: /Img/Mesic1.PNG
 
-.. note:: Vedoucí pracovník může zobrazit strom podřízenosti na obrazovce s výkazem docházky. Kliknutím na **Strom podřízenosti** se zobrazí seznam podřízených zaměstnanců
+Strom podřízenosti
+--------------------------
+.. note:: Vedoucí pracovník může zobrazit strom podřízenosti na obrazovce s výkazem docházky. Postup zobrazení výkazu docházky osoby je vysvětlen v kapitole :ref:`tabulka_mesicniho_vykazu`. Kliknutím na **Strom podřízenosti** se zobrazí seznam podřízených zaměstnanců. 
 
 .. image:: /Img/StromPodrizenosti1.PNG
 
 .. image:: /Img/StromPodrizenosti2.PNG
+
+Vyhledání zaměstnance
+--------------------------
+.. note:: Vedoucí pracovník může vyhledat zaměstnance na obrazovce s výkazem docházky. Postup zobrazení výkazu docházky osoby je vysvětlen v kapitole :ref:`tabulka_mesicniho_vykazu`. Kliknutím na **Jméno osoby** se zobrazí pole pro vyhledávání zaměstnanců. Vyhledávát lze podle osobního čísla zaměstnance nebo jména/příjmení.
+
+.. image:: /Img/Vyhledavani1.PNG
 
 Tabulka zůstatků
 ---------------------------
