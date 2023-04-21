@@ -214,6 +214,10 @@ Ve formuláři vyplňte:
 
 4. Datum od / Datum do - datum začátku a konce plánované události.
 
+5. Půlden na začátku / na konci - půldenní událost (ve smyslu půl směny) plánovanou buď na začátek směny, pokud se jedná o událost v jeden den, nebo plánovanou na konec směny prvního dne vícedenní události.
+
+6. Poznámka
+
 
 
 Popis stavů událostí
