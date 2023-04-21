@@ -198,6 +198,23 @@ Zůstatky čerpání události plánu docházky lze zobrazit kliknutím na ikonu
 
 Založení nové události
 --------------------------
+Založit novou událost lze v kalendáři docházkových událostí. Posup zobrazení je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na tlačítko **+ Nová událost (1)**. 
+
+.. image:: /Img/Kalendar3.PNG
+
+Kliknutím se zobrazí formulář pro založení nové události plánu docházky.
+
+.. image:: /Img/Udalost1.PNG
+
+Ve formuláři vyplňte:
+
+2. Typ události - kliknutím na pole pod nadpisem **(2)** se rozbalí seznám typů události. Vyberte ze seznámu požadovaný typ události.
+
+3. Vyberte zdá se jedná o událost plánovanou na celý den (tj. bez určeného časů začátku a konce události).
+
+4. Datum od / Datum do - datum začátku a konce plánované události.
+
+
 
 Popis stavů událostí
 --------------------------
