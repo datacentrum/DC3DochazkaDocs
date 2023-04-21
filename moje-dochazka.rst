@@ -142,7 +142,7 @@ Každy přihlašený uživatel může zobrazit plánovací kalednář spolupraco
 
 .. note:: Vedoucí pracovník může zobrazit plán docházky, výkaz docházky, schválení docházky všech podřízených zaměstnanců.
 
-.. image:: /Img/DetaillOsobyKalendar1.PNG
+.. image:: /Img/DetailOsobyKalendar1.PNG
 
 - Kliknutím na událost v kalendáři **(4)** lze zobrazit detail události plánu docházky.
 
