@@ -152,8 +152,25 @@ Každy přihlašený uživatel může zobrazit plánovací kalednář spolupraco
 
 Přehled docházkových událostí
 -----------------------------
+Každy přihlašený uživatel může zobrazit přehled vlastních docházkových událostí. Na obrazovce Plán docházkových událostí vyberte založku **Přehled událostí(1)**.  Kliknutím na záložku **Přehled událostí (1)** se zobrazí přehled všech docházkových událostí.
 
+.. image:: /Img/PrehledDochazkovychUdalosti1.PNG
 
+- V přehledu lze vybrat datum od/do docházkové události **(2)**. V tabulce budou zobrazeny události pouze ve vybraném období.
+
+- Typ události - typ docházkové události, např. lékař, sick day, home office.
+
+- Místo pobytu - místo pobytu zaměstnance.
+
+- Důvod události - důvod docházkové události.
+
+- Zastupuje - kdo zaměstnance zastupuje.
+
+- Poznámka - poznámka k docházkové události.
+
+- Kliknutím na tlačítko **Zobrazit (3)** lze zobrazit detail události plánu docházky.
+
+.. image:: /Img/DetailUdalosti1.PNG
 
 Tabulka zůstatků
 --------------------------
