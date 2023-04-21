@@ -180,7 +180,7 @@ V planovácím kalendáři docházkových události je dostupná tabulka zůstat
 
 - Kliknutím na znák sumy **(1)** lze schovat/rozbalit tabulku zůstatků.
 
-V horní části tabulky **(2)** se nachází souhrn zůstatků:
+V horní části kalendáře **(2)** se nachází souhrn zůstatků:
 
 - Nárok dovolené na začátku roku - nárok dovolenoé na začátku roku v hodinách (v závorkach přepočet na dny).
 
