@@ -216,9 +216,15 @@ Ve formuláři vyplňte:
 
 5. Půlden na začátku / na konci - půldenní událost (ve smyslu půl směny) plánovanou buď na začátek směny, pokud se jedná o událost v jeden den, nebo plánovanou na konec směny prvního dne vícedenní události.
 
-6. Poznámka
+6. Místo pobytu - místo pobytu zaměstnance.
 
+7. Poznámka - poznámka k události plánu docházky.
 
+- Kliknutím na tlačítko **Uložit** nová událost plánu docházky bude uložena ve stavu "Plán".
+
+- Kliknutím na tlačítko **Odeslat žádost o schválení** nová událost plánu docházky bude uložena a odeslána vedoucímu ke schváleni. Stav události se změní na "Žádost o schválení odeslána".
+
+.. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
 
 Popis stavů událostí
 --------------------------
