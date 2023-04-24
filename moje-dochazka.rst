@@ -231,14 +231,19 @@ Ve formuláři vyplňte:
 Popis stavů událostí
 --------------------------
 
-- Plán
-- Žádost o schválení odeslána
-- Schváleno
-- Žádost o zrušení schválení odeslána
-- Zamítnuto
+- Plán - modrá
+- Žádost o schválení odeslána - oranžová
+- Schváleno - zelená
+- Žádost o zrušení schválení odeslána - fialová
+- Zamítnuto - červená
 
 Odeslání žádosti ke schválení
 -------------------------------
+V kalendáři docházkových událostí lze odeslat žádost o schválení události. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na událost ve stavu "Plán" **(1)**. Kliknutím se zobrazí událost plánu docházky.
+
+.. image:: /Img/Udalost2.PNG
+
+
 
 Samoschvalitelné události
 -------------------------------
