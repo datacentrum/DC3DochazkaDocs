@@ -267,6 +267,8 @@ Kliknutím na událost **(1)** se zobrazí událost plánu docházky.
 
 .. image:: /Img/Udalost3.PNG
 
+Pro odstranění klikněte na tlačítko **Odstranit**. Kliknutím událost bude smazana.
+
 Editace výkazu docházky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
