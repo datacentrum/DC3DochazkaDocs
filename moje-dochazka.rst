@@ -231,11 +231,11 @@ Ve formuláři vyplňte:
 Popis stavů událostí
 --------------------------
 
-Plán
-Žádost o schválení odeslána
-Schváleno
-Žádost o zrušení schválení odeslána
-Zamítnuto
+- Plán
+- Žádost o schválení odeslána
+- Schváleno
+- Žádost o zrušení schválení odeslána
+- Zamítnuto
 
 Odeslání žádosti ke schválení
 -------------------------------
