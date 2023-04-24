@@ -198,7 +198,7 @@ Zůstatky čerpání události plánu docházky lze zobrazit kliknutím na ikonu
 
 Založení nové události
 --------------------------
-Založit novou událost lze v kalendáři docházkových událostí. Posup zobrazení je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na tlačítko **+ Nová událost (1)**. 
+Založit novou událost lze v kalendáři docházkových událostí. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na tlačítko **+ Nová událost (1)**. 
 
 .. image:: /Img/Kalendar3.PNG
 
@@ -252,14 +252,20 @@ Kliknutím na událost **(1)** se zobrazí událost plánu docházky.
 
 .. image:: /Img/Udalost2.PNG
 
-Pro odeslání žádosti ke schválení klikněte na tlačítko **Odeslat žádost o schválení**. Kliknutím událost bude odeslána vedoucímu ke schváleni. Stav události se změní z "Plán" na "Žádost o schválení odeslána". V kalendáři událost ve stávu "Žádost o schválení odeslána" bude zobrazená oranžovou 
-
+Pro odeslání žádosti ke schválení klikněte na tlačítko **Odeslat žádost o schválení**. Kliknutím událost bude odeslána vedoucímu ke schváleni. Stav události se změní z "Plán" na "Žádost o schválení odeslána". V kalendáři událost ve stávu "Žádost o schválení odeslána" bude zobrazená oranžovou barvou.
 
 Samoschvalitelné události
 -------------------------------
 
 Smazání události
 ----------------------------
+V kalendáři docházkových událostí lze smazat událost. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na událost, kterou potřebujete odstranit **(1)**. Smazat lze událost, která je ve stavu "Plán" nebo "Žádost o schválení odeslána".
+
+.. image:: /Img/Kalendar4.PNG
+
+Kliknutím na událost **(1)** se zobrazí událost plánu docházky.
+
+.. image:: /Img/Udalost3.PNG
 
 Editace výkazu docházky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
