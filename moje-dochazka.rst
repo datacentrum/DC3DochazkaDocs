@@ -230,23 +230,29 @@ Ve formuláři vyplňte:
 
 Popis stavů událostí
 --------------------------
+Docházkové události mají 5 stavu:
 
-- Plán - modrá
-- Žádost o schválení odeslána - oranžová
-- Schváleno - zelená
-- Žádost o zrušení schválení odeslána - fialová
-- Zamítnuto - červená
+1. Plán (v kalendáři docházkových událostí je zobrazená modrou barvou)
+
+2. Žádost o schválení odeslána (v kalendáři docházkových událostí je zobrazená oranžovou barvou)
+
+3. Schváleno (v kalendáři docházkových událostí je zobrazená zelenou barvou) 
+
+4. Žádost o zrušení schválení odeslána (v kalendáři docházkových událostí je zobrazená fialovou barvou) 
+
+5. Zamítnuto (v kalendáři docházkových událostí je zobrazená červenou barvou) 
 
 Odeslání žádosti ke schválení
 -------------------------------
-V kalendáři docházkových událostí lze odeslat žádost o schválení události. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na událost ve stavu "Plán" **(1)**.
+V kalendáři docházkových událostí lze odeslat žádost o schválení události. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na událost ve stavu "Plán" **(1)** - v kalendáři je zobrazená modrou barvou.
 
 .. image:: /Img/Kalendar4.PNG
 
-Kliknutím se zobrazí událost plánu docházky.
+Kliknutím na událost **(1)** se zobrazí událost plánu docházky.
 
 .. image:: /Img/Udalost2.PNG
 
+Pro odeslání žádosti ke schválení klikněte na tlačítko **Odeslat žádost o schválení**. Kliknutím událost bude odeslána vedoucímu ke schváleni. Stav události se změní z "Plán" na "Žádost o schválení odeslána". V kalendáři událost ve stávu "Žádost o schválení odeslána" bude zobrazená oranžovou 
 
 
 Samoschvalitelné události
