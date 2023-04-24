@@ -239,7 +239,11 @@ Popis stavů událostí
 
 Odeslání žádosti ke schválení
 -------------------------------
-V kalendáři docházkových událostí lze odeslat žádost o schválení události. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na událost ve stavu "Plán" **(1)**. Kliknutím se zobrazí událost plánu docházky.
+V kalendáři docházkových událostí lze odeslat žádost o schválení události. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na událost ve stavu "Plán" **(1)**.
+
+.. image:: /Img/Kalendar4.PNG
+
+Kliknutím se zobrazí událost plánu docházky.
 
 .. image:: /Img/Udalost2.PNG
 
