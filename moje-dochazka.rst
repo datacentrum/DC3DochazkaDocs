@@ -224,10 +224,18 @@ Ve formuláři vyplňte:
 
 - Kliknutím na tlačítko **Odeslat žádost o schválení** nová událost plánu docházky bude uložena a odeslána vedoucímu ke schváleni. Stav události se změní na "Žádost o schválení odeslána".
 
+- Kliknutím na tlačítko **Storno** nová událost plánu docházky nebude uložena.
+
 .. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
 
 Popis stavů událostí
 --------------------------
+
+Plán
+Žádost o schválení odeslána
+Schváleno
+Žádost o zrušení schválení odeslána
+Zamítnuto
 
 Odeslání žádosti ke schválení
 -------------------------------
