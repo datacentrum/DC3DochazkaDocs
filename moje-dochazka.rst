@@ -288,6 +288,9 @@ Pro odeslání žádosti ke schválení klikněte na tlačítko **Odeslat žádo
 
 Samoschvalitelné události
 -------------------------------
+Některé události plánu docházky nevyžadují schválení vedoucího, např. nemoc nebo osobní překážka v práci. Tyto události zaměstnanec může schválit sám v kalendáři docházkových událostí. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`.
+
+
 
 Smazání události
 ----------------------------
