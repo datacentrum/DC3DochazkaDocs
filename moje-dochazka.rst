@@ -228,11 +228,41 @@ Ve formuláři vyplňte:
 
 .. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
 
+Generování události
+-------------------------
+Generovat události plánu docházky lze v kalendáři docházkových událostí. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na šipku za tlačítkem + Nová událost **(1)** a vyberte **Generovat události (2)**.
+
+.. image:: /Img/Kalendar5.PNG
+
+Kliknutím se zobrazí formulář pro generování události plánu docházky.
+
+.. image:: /Img/GenerovatUdalost1.PNG
+
+Ve formuláři vyplňte:
+
+3. Typ události - kliknutím na pole pod nadpisem **(3)** se rozbalí seznám typů události. Vyberte ze seznámu požadovaný typ události.
+
+4. Vyberte zdá se jedná o událost plánovanou na celý den (tj. bez určeného časů začátku a konce události).
+
+5. Generovat od / Generovat do 
+
+6. Půlden na začátku / na konci - půldenní událost (ve smyslu půl směny) plánovanou buď na začátek směny, pokud se jedná o událost v jeden den, nebo plánovanou na konec směny prvního dne vícedenní události.
+
+7. Vyberte v jaké dny bude událost generována.
+
+- Kliknutím na tlačítko **Uložit** události plánu docházky budou uložene ve stavu "Plán".
+
+- Kliknutím na tlačítko **Odeslat žádost o schválení** události plánu docházky budou uložene a odesláne vedoucímu ke schváleni. Stav události se změní na "Žádost o schválení odeslána".
+
+- Kliknutím na tlačítko **Storno** události plánu docházky nebudou uložene.
+
+.. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
+
 Popis stavů událostí
 --------------------------
 Docházkové události mají 5 stavu:
 
-1. Plán (v kalendáři docházkových událostí je zobrazená modrou barvou)
+1. Plán (v kalendáři docházkových událostí je zobrazená modrou barvou). 
 
 2. Žádost o schválení odeslána (v kalendáři docházkových událostí je zobrazená oranžovou barvou)
 
