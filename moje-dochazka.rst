@@ -244,11 +244,13 @@ Ve formuláři vyplňte:
 
 4. Vyberte zdá se jedná o událost plánovanou na celý den (tj. bez určeného časů začátku a konce události).
 
-5. Generovat od / Generovat do 
+5. Generovat od / Generovat do - období pro generování události.
 
 6. Půlden na začátku / na konci - půldenní událost (ve smyslu půl směny) plánovanou buď na začátek směny, pokud se jedná o událost v jeden den, nebo plánovanou na konec směny prvního dne vícedenní události.
 
 7. Vyberte v jaké dny bude událost generována.
+
+8. Poznámka - poznámka k události plánu docházky.
 
 - Kliknutím na tlačítko **Uložit** události plánu docházky budou uložene ve stavu "Plán".
 
