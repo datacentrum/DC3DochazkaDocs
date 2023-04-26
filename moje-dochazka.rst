@@ -288,9 +288,15 @@ Pro odeslání žádosti ke schválení klikněte na tlačítko **Odeslat žádo
 
 Samoschvalitelné události
 -------------------------------
-Některé události plánu docházky nevyžadují schválení vedoucího, např. nemoc nebo osobní překážka v práci. Tyto události zaměstnanec může schválit sám v kalendáři docházkových událostí. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`.
+Některé události plánu docházky nevyžadují schválení vedoucího, např. nemoc nebo osobní překážka v práci. Tyto události zaměstnanec může schválit sám v kalendáři docházkových událostí. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na událost "Nemoc" ve stavu "Plán" **(1)** - v kalendáři je zobrazená modrou barvou.
 
+.. image:: /Img/Kalendar6.PNG
 
+Kliknutím na událost **(1)** se zobrazí událost plánu docházky.
+
+.. image:: /Img/Udalost4.PNG
+
+Pro schválení události klikněte na tlačítko **Schválit událost**. Kliknutím událost bude schválena. Stav události se změní z "Plán" na "Schváleno". V kalendáři událost ve stávu "Schváleno" bude zobrazená zelenou barvou.
 
 Smazání události
 ----------------------------
