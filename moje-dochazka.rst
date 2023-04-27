@@ -326,6 +326,32 @@ Editace výkazu docházky
 
 Schvalování údalostí docházky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Vedoucí zaměstnanec je o žádostech podřízených informován formou e-mailové notifikace.
+
+.. image:: /Img/Email1.PNG
+
+Zároveň je tato notifikace přítomna i přímo v aplikaci v notifikačním centru. 
+
+.. image:: /Img/Notifikace1.PNG
+
+Přímo z e-mailu může vedoucí zaměstnanec provést přechod do aplikace kliknutím na odkaz **seznam žádostí k vyřízení (1)**. Následně je mu po přihlášení otevřena aplikace a zobrazen seznam všech nevyřízených žádostí jeho podřízených.
+
+.. image:: /Img/ZadostiKVyrizeni1.PNG
+
+- Klinutím na **Schválit (2)** lze schváliit údalost plánu docházky.
+
+- Klinutím na **Zamítnout (3)** lze zamítnout údalost plánu docházky. Poté se zobrazí dialogové okno pro zadání poznámky **(4)** – důvodu zamítnutí, který následně uvidí podřízený zaměstnanec. Vyplněním důvodu a potvrzením **(5)** dojde k zamítnutí docházkové události.
+
+.. image:: /Img/Zamitnuti1.PNG
+
+- Klinutím na **Zobrazit (6)** lze zobrazit kalendář docházkových událostí osoby.
+
+- V pravem rohu obrazovky lze kliknout na **Aktivní / Vyřízené (7)** pro zobrazení aktuálních žadostí k vyřízení nebo již vyřízených.
+
+- Klinutím na tlačítko **Akce (8)** lze přejít na Přehled docházkových událostí.
+
+.. image:: /Img/Akce1.PNG
+
 
 
 Schvalování měsíce
