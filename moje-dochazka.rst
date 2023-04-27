@@ -326,6 +326,9 @@ Editace výkazu docházky
 
 Schvalování údalostí docházky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. note:: Schvalování údalostí docházky provádí vedoucí zaměstnanec.
+
 Vedoucí zaměstnanec je o žádostech podřízených informován formou e-mailové notifikace.
 
 .. image:: /Img/Email1.PNG
