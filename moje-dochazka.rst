@@ -150,6 +150,7 @@ Každy přihlašený uživatel může zobrazit vlastní plánovací kalednář s
 
 - Uživatel si může změnit zobrazení kalendáře. Kliknutím na Měsíc/Týden/Den/Agenda **(5)** lze změnit zobrazení kalendáře.
 
+.. _prehled_dochazkovych_udalosti:
 Přehled docházkových událostí
 -----------------------------
 Každy přihlašený uživatel může zobrazit přehled všech svých docházkových událostí formou tabulky. Na obrazovce Plán docházkových událostí vyberte založku **Přehled událostí(1)**.  Kliknutím na záložku **Přehled událostí (1)** se zobrazí přehled všech docházkových událostí. Jednotlivé stavy událostí jsou od sebe barevně odlišeny.
@@ -270,7 +271,9 @@ Každá docházková událost má jeden ze čtyř stavů:
 
 3. Schváleno (v kalendáři docházkových událostí je zobrazená zelenou barvou). Událost, kterou schválil nadřízený.
 
-4. Zamítnuto (v kalendáři docházkových událostí je zobrazená červenou barvou). Událost, kterou zamítl nadřízený 
+4. Zamítnuto (v kalendáři docházkových událostí je zobrazená červenou barvou). Událost, kterou zamítl nadřízený
+
+*5.Žádost o zrušení schválení odeslána*
 
 Odeslání žádosti ke schválení
 -------------------------------
@@ -309,6 +312,12 @@ Kliknutím na událost **(1)** se zobrazí událost plánu docházky.
 .. image:: /Img/Udalost3.PNG
 
 Pro odstranění klikněte na tlačítko **Odstranit**. Kliknutím událost bude smazana.
+
+- Odstranění docházkové události lze taky provést z přehledové tabulky Přehled docházkových událostí. Posup zobrazení přehledu docházkových událostí je vysvětlen v kapitole :ref:`prehled_dochazkovych_udalosti`.
+
+.. image:: /Img/PrehledDochazkovychUdalosti2.PNG
+
+Vyberte požadovanou událost **(1)** a klikněte na **Nástroje (2)** a pak **Odstranit (3)**. Kliknutím událost bude smazana.
 
 Editace výkazu docházky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
