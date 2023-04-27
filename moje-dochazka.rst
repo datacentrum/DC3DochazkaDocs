@@ -346,7 +346,7 @@ Přímo z e-mailu může vedoucí zaměstnanec provést přechod do aplikace kli
 
 - Klinutím na **Zobrazit (6)** lze zobrazit kalendář docházkových událostí osoby.
 
-- V pravem rohu obrazovky lze kliknout na **Aktivní / Vyřízené (7)** pro zobrazení aktuálních žadostí k vyřízení nebo již vyřízených.
+- V pravem rohu obrazovky lze kliknout na **Aktivní / Vyřízené (7)** pro zobrazení aktuálních žádosti k vyřízení nebo již vyřízených žádosti.
 
 - Klinutím na tlačítko **Akce (8)** lze přejít na Přehled docházkových událostí.
 
