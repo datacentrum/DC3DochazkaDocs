@@ -355,7 +355,14 @@ Přímo z e-mailu může vedoucí zaměstnanec provést přechod do aplikace kli
 
 .. image:: /Img/Akce1.PNG
 
+**Další možnost schválení docházkové údalostí:**
 
+- Vyhledat svého podřízeného v seznamu podřízených a nechat si zobrazit jeho kalendář docházkových událostí.
+Hlavní menu aplikace obsahuje odkaz Docházka **(1)**. Při najetí myši na odkaz se zobrazí Plán docházky **(2)**.
+
+.. image:: /Img/PlanDochazky1.PNG
+
+Kliknutím na **Plán docházky** se zobrazí obrazovka **Plán docházkových událostí** s přehledem osob plánu docházky. Klikněte na jméno zaměstnance **(3)**. Kliknutím se zobrazí Kalendář docházkových událostí vybraného zaměstnance.
 
 Schvalování měsíce
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
