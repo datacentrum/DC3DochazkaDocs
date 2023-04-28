@@ -357,12 +357,29 @@ Přímo z e-mailu může vedoucí zaměstnanec provést přechod do aplikace kli
 
 **Další možnost schválení docházkové údalostí:**
 
-- Vyhledat svého podřízeného v seznamu podřízených a nechat si zobrazit jeho kalendář docházkových událostí.
-Hlavní menu aplikace obsahuje odkaz Docházka **(1)**. Při najetí myši na odkaz se zobrazí Plán docházky **(2)**.
+- Vyhledat svého podřízeného v seznamu podřízených a nechat si zobrazit jeho kalendář docházkových událostí. Hlavní menu aplikace obsahuje odkaz Docházka **(1)**. Při najetí myši na odkaz se zobrazí Plán docházky **(2)**.
 
 .. image:: /Img/PlanDochazky1.PNG
 
-Kliknutím na **Plán docházky** se zobrazí obrazovka **Plán docházkových událostí** s přehledem osob plánu docházky. Klikněte na jméno zaměstnance **(3)**. Kliknutím se zobrazí Kalendář docházkových událostí vybraného zaměstnance.
+Kliknutím na **Plán docházky** se zobrazí obrazovka **Plán docházkových událostí** s přehledem osob plánu docházky. 
+
+.. image:: /Img/OsobyPlanuDochazky1.PNG
+
+Klikněte na jméno zaměstnance **(3)**. Kliknutím se zobrazí Kalendář docházkových událostí vybraného zaměstnance.
+
+.. image:: /Img/Kalendar7.PNG
+
+V kalendáři vyberte událost, která je ve stavu "Plán" (v kalednáři je odlišená modrou barvou) nebo "Žádost o schválení odeslána" (v kalednáři je odlišená oranžovou barvou). Kliknutím se zobrazí Uddálost plánu docházky:
+
+.. image:: /Img/Udalost5.PNG
+
+Pro schválení události klikněte na tlačítko **Akce (4)** a pak **„Schválit událost“ (5)**:
+
+.. image:: /Img/Udalost5.PNG
+
+Pro zamítnutí události klikněte na **„Zamítnout událost“**. Poté se zobrazí dialogové okno pro zadání poznámky - důvodu zamítnutí, který následně uvidí podřízený zaměstnanec. Vyplněním důvodu a potvrzením dojde k zamítnutí docházkové události.
+
+.. note:: Kliknutím na tlačítko **Ne** se vrátíte do kalendáře docházkových událostí, ale událost nebude zamítnutá.
 
 Schvalování měsíce
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
