@@ -322,7 +322,7 @@ Vyberte požadovanou událost **(1)** a klikněte na **Nástroje (2)** a pak **O
 Editace výkazu docházky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. note:: Editace výkazu docházky provádí vedoucí zaměstnanec.
+.. note:: Editaci výkazu docházky provádí vedoucí zaměstnanec.
 
 Pro editaci výkazu docházky postupujte takto:
 
