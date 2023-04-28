@@ -322,7 +322,8 @@ Vyberte požadovanou událost **(1)** a klikněte na **Nástroje (2)** a pak **O
 Editace výkazu docházky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--dostupné pro vedoucího
+.. note:: Editace výkazu docházky provádí vedoucí zaměstnanec.
+
 
 Schvalování údalostí docházky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -361,23 +362,23 @@ Přímo z e-mailu může vedoucí zaměstnanec provést přechod do aplikace kli
 
 .. image:: /Img/PlanDochazky1.PNG
 
-Kliknutím na **Plán docházky** se zobrazí obrazovka **Plán docházkových událostí** s přehledem osob plánu docházky. 
+- Kliknutím na **Plán docházky** se zobrazí obrazovka **Plán docházkových událostí** s přehledem osob plánu docházky. 
 
 .. image:: /Img/OsobyPlanuDochazky1.PNG
 
-Klikněte na jméno zaměstnance **(3)**. Kliknutím se zobrazí Kalendář docházkových událostí vybraného zaměstnance.
+- Klikněte na jméno zaměstnance **(3)**. Kliknutím se zobrazí Kalendář docházkových událostí vybraného zaměstnance.
 
 .. image:: /Img/Kalendar7.PNG
 
-V kalendáři vyberte událost, která je ve stavu "Plán" (v kalednáři je odlišená modrou barvou) nebo "Žádost o schválení odeslána" (v kalednáři je odlišená oranžovou barvou) **(4)**. Kliknutím se zobrazí Uddálost plánu docházky:
+- V kalendáři vyberte událost, která je ve stavu "Plán" (v kalednáři je odlišená modrou barvou) nebo "Žádost o schválení odeslána" (v kalednáři je odlišená oranžovou barvou) **(4)**. Kliknutím se zobrazí Uddálost plánu docházky:
 
 .. image:: /Img/Udalost5.PNG
 
-Pro schválení události klikněte na tlačítko **Akce (5)** a pak **„Schválit událost“ (6)**:
+- Pro schválení události klikněte na tlačítko **Akce (5)** a pak **„Schválit událost“ (6)**:
 
 .. image:: /Img/Akce2.PNG
 
-Pro zamítnutí události klikněte na **„Zamítnout událost“ (7)**. Poté se zobrazí dialogové okno pro zadání poznámky - důvodu zamítnutí, který následně uvidí podřízený zaměstnanec. Vyplněním důvodu a potvrzením dojde k zamítnutí docházkové události.
+- Pro zamítnutí události klikněte na **„Zamítnout událost“ (7)**. Poté se zobrazí dialogové okno pro zadání poznámky - důvodu zamítnutí, který následně uvidí podřízený zaměstnanec. Vyplněním důvodu a potvrzením dojde k zamítnutí docházkové události.
 
 .. note:: Kliknutím na tlačítko **Ne** se vrátíte do kalendáře docházkových událostí, ale událost nebude zamítnutá.
 
