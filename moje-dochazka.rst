@@ -324,6 +324,19 @@ Editace výkazu docházky
 
 .. note:: Editace výkazu docházky provádí vedoucí zaměstnanec.
 
+Pro editaci výkazu docházky postupujte takto:
+
+- V přehledu osob výkazu docházky vyberte požadovaného zaměstnance. Postup zobrazení tabulky je vysvětlen v kapitole :ref:`tabulka_mesicniho_vykazu`. Kliknutím na jméno osoby se zobrazí měsíční výkaz docházky osoby.
+
+.. image:: /Img/Vykaz5.PNG
+
+Kliknutím na **Datum (1)** se zobrazí detail dne, kde lze editovat průchody, intervaly, příplatky, poznámky.
+
+.. image:: /Img/DetailDne3.PNG
+
+.. image:: /Img/DetailDne4.PNG
+
+
 
 Schvalování údalostí docházky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
