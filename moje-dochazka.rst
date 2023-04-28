@@ -369,15 +369,15 @@ Klikněte na jméno zaměstnance **(3)**. Kliknutím se zobrazí Kalendář doch
 
 .. image:: /Img/Kalendar7.PNG
 
-V kalendáři vyberte událost, která je ve stavu "Plán" (v kalednáři je odlišená modrou barvou) nebo "Žádost o schválení odeslána" (v kalednáři je odlišená oranžovou barvou). Kliknutím se zobrazí Uddálost plánu docházky:
+V kalendáři vyberte událost, která je ve stavu "Plán" (v kalednáři je odlišená modrou barvou) nebo "Žádost o schválení odeslána" (v kalednáři je odlišená oranžovou barvou) **(4)**. Kliknutím se zobrazí Uddálost plánu docházky:
 
 .. image:: /Img/Udalost5.PNG
 
-Pro schválení události klikněte na tlačítko **Akce (4)** a pak **„Schválit událost“ (5)**:
+Pro schválení události klikněte na tlačítko **Akce (5)** a pak **„Schválit událost“ (6)**:
 
-.. image:: /Img/Udalost5.PNG
+.. image:: /Img/Akce2.PNG
 
-Pro zamítnutí události klikněte na **„Zamítnout událost“**. Poté se zobrazí dialogové okno pro zadání poznámky - důvodu zamítnutí, který následně uvidí podřízený zaměstnanec. Vyplněním důvodu a potvrzením dojde k zamítnutí docházkové události.
+Pro zamítnutí události klikněte na **„Zamítnout událost“ (7)**. Poté se zobrazí dialogové okno pro zadání poznámky - důvodu zamítnutí, který následně uvidí podřízený zaměstnanec. Vyplněním důvodu a potvrzením dojde k zamítnutí docházkové události.
 
 .. note:: Kliknutím na tlačítko **Ne** se vrátíte do kalendáře docházkových událostí, ale událost nebude zamítnutá.
 
