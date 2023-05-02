@@ -330,12 +330,13 @@ Pro editaci výkazu docházky postupujte takto:
 
 .. image:: /Img/Vykaz5.PNG
 
-Kliknutím na **Datum (1)** se zobrazí detail dne, kde lze editovat průchody, intervaly, příplatky, poznámky.
+Kliknutím na **Datum (1)** se zobrazí detail dne, který obsahuje: průchody, intervaly, příplatky, saldo poznámky.
 
 .. image:: /Img/DetailDne3.PNG
 
 .. image:: /Img/DetailDne4.PNG
 
+Pro editaci průchodů klikněte na tlačítko **Upravit (2)**. Kliknutím se zobrazí Docházkový průchod
 
 
 Schvalování údalostí docházky
