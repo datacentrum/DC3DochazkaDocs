@@ -360,7 +360,7 @@ Kliknutím na tlačítko **Uložit průchod** lze uložit změny v docházkovém
 
 - Založit nový průchod lze kliknutím na tlačítko **+ Přidat průchod (3)**. Kliknutím se zobrazí formulář Docházkový průchod. Postup pro vyplnění je stejný jako pro editaci průchodu.
 
-- Pro odstranění průchodu: vyberte průchod **(4)**, klikněte na tlačítko **Nástroje (5)** a pak **Odstranit (6)**
+. Pro odstranění průchodu: vyberte průchod **(4)**, klikněte na tlačítko **Nástroje (5)** a pak **Odstranit (6)**
 
 .. image:: /Img/Nastroje1.PNG
 
