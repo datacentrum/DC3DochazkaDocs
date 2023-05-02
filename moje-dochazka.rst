@@ -356,6 +356,7 @@ Ve formuláři Docházkový průchod vyplňte:
 
 .. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
 
+Kliknutím na tlačítko **Uložit průchod** lze uložit změny v docházkovém průchodu. Kliknutím na tlačítko **Storno** se vrátite k detailu dne, ale změny v průchodu nebudou uložené.
 
 
 Schvalování údalostí docházky
