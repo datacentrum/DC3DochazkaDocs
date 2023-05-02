@@ -336,7 +336,7 @@ Kliknutím na **Datum (1)** se zobrazí detail dne, který obsahuje: průchody, 
 
 .. image:: /Img/DetailDne4.PNG
 
-Pro editaci průchodů klikněte na tlačítko **Upravit (2)**. Kliknutím se zobrazí Docházkový průchod.
+Pro editaci průchodu klikněte na tlačítko **Upravit (2)**. Kliknutím se zobrazí Docházkový průchod.
 
 .. image:: /Img/Pruchody1.PNG
 
@@ -395,6 +395,12 @@ Kliknutím na tlačítko **+ Upravit (2)** lze upravit událost dne docházky.  
 Pro odstranění události vyberte událost **(3)** a klikněte na **Nástroje (4)** a pak **Odstranit (5)**
 
 .. image:: /Img/Nastroje2.PNG
+
+Tabulka Saldo obsahuje přehled salda zaměstnance za vybrané období. Modrou barvou je zobrazené kladné saldo. Červenou barvou je odlišené záporné saldo.
+
+.. image:: /Img/Saldo1.PNG
+
+
 
 Schvalování údalostí docházky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
