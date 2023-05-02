@@ -364,6 +364,38 @@ Kliknutím na tlačítko **Uložit průchod** lze uložit změny v docházkovém
 
 .. image:: /Img/Nastroje1.PNG
 
+V tabulce Intervaly lze přidat novou událost nebo událost odstranit. Pro přidání události klikněte na tlačítko **+ Přidat událost (1)**
+
+.. image:: /Img/Intervaly1.PNG
+
+Kliknutím na tlačítko **+ Přidat událost (1)** se zobrazí formulář Událost dne docházky pro přidání události:
+
+.. image:: /Img/UdalostDneDochazky1.PNG
+
+Ve formuláři vyplňte:
+
+- Typ události - vyberte z číselníku požadovaný typ události.
+
+- Vyberte zdá se jedná o událost plánovanou na celý den (tj. bez určeného časů začátku a konce události).
+
+- Půlden na začátku / na konci - půldenní událost (ve smyslu půl směny) plánovanou buď na začátek směny, pokud se jedná o událost v jeden den, nebo plánovanou na konec směny prvního dne vícedenní události.
+
+- Poznámka - poznámka k události plánu docházky.
+
+- Kliknutím na tlačítko **Uložit** událost plánu docházky bude uložená.
+
+- Kliknutím na tlačítko **Storno** se vrátite k detailu dne, ale událost plánu docházky nebude uložená.
+
+.. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
+
+Kliknutím na tlačítko **+ Upravit (2)** lze upravit událost dne docházky.  Kliknutím se zobrazí formulář Událost dne docházky. Postup pro editaci je stejný jako pro založení události.
+
+.. note:: Upravit a odstranit lze změny provedené ručně v tabulce Intervaly.
+
+Pro odstranění události vyberte událost **(3)** a klikněte na **Nástroje (4)** a pak **Odstranit (5)**
+
+.. image:: /Img/Nastroje2.PNG
+
 Schvalování údalostí docházky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
