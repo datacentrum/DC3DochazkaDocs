@@ -336,7 +336,26 @@ Kliknutím na **Datum (1)** se zobrazí detail dne, který obsahuje: průchody, 
 
 .. image:: /Img/DetailDne4.PNG
 
-Pro editaci průchodů klikněte na tlačítko **Upravit (2)**. Kliknutím se zobrazí Docházkový průchod
+Pro editaci průchodů klikněte na tlačítko **Upravit (2)**. Kliknutím se zobrazí Docházkový průchod.
+
+.. image:: /Img/Pruchody1.PNG
+
+Ve formuláři Docházkový průchod vyplňte:
+
+.. image:: /Img/DochazkovyPruchod1.PNG
+
+- Den - z číselníku vyberte den (aktuální/předchozí/následující den)
+
+- Čas průchodu - vyberte čas průchodu (intervál po 5 min)
+
+- Typ průchodu - vyberte typ průchodu z číselníka (např. normální příchod, služební příchod)
+
+- Zdroj časových událostí - lze vybrat zdroj časových událostí z číselníka.
+
+- Poznámka - poznámka k průchodu, která se zobrazí v tabulce průchody.
+
+.. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
+
 
 
 Schvalování údalostí docházky
