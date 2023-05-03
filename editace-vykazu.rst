@@ -79,3 +79,23 @@ Pro odstranění události vyberte událost **(3)** a klikněte na **Nástroje (
 Tabulka Saldo obsahuje přehled salda zaměstnance za vybrané období. Modrou barvou je zobrazené kladné saldo. Červenou barvou je odlišené záporné saldo.
 
 .. image:: /Img/Saldo1.PNG
+
+Tabulka Poznámky obsahuje poznámky ke dni. Založit novou poznámku lze kliknutím na tlačítko **+ Nová poznámka (1)**. 
+
+.. image:: /Img/Poznamky1.PNG
+
+Kliknutím se zobrazí formulář pro založení nové poznámky:
+
+.. image:: /Img/PoznamkaDne1.PNG
+
+Ve formuláři vyplňte poznámku a klikněte na tlačítko **Uložit**. Kliknutím poznámka bude uložená a zobrazí se v tabulce Poznámky. Kliknutím na tlačítko Storno se vrátite zpět k detailu dne, ale poznámka nebude uložená.
+
+.. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
+
+Kliknutím na tlačítko **+ Upravit (2)** lze upravit poznámku. Kliknutím se zobrazí formulář Poznámka dne. Postup pro editaci je stejný jako pro založení poznámky.
+
+Pro odstranění poznámky vyberte poznámku **(3)** a klikněte na **Nástroje (4)** a pak **Odstranit (5)**
+
+.. image:: /Img/Nastroje3.PNG
+
+
