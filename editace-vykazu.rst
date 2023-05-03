@@ -76,6 +76,24 @@ Pro odstranění události vyberte událost **(3)** a klikněte na **Nástroje (
 
 .. image:: /Img/Nastroje2.PNG
 
+Tabulka Příplatky obsahuje přehled příplatků, na které zaměstnanec má nárok. Založit nový příplatek lze kliknutím na tlačítko **+ Nový příplatek (1)**.
+
+.. image:: /Img/Priplatky1.PNG
+
+Kliknutím se zobrazí formulář pro založení příplatku:
+
+.. image:: /Img/PriplatekDne1.PNG
+
+Ve formuláři vyberte z číselníku mzdovou složku, zadejte dobu, přidejte poznámku a klikněte na tlačítko **Uložit příplatek**. Kliknutím příplatek bude uložen a zobrazí se v tabulce Příplatky. Kliknutím na tlačítko **Storno** se vrátite zpět k detailu dne, ale příplatek nebude uložen.
+
+.. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
+
+Kliknutím na tlačítko **+ Upravit (2)** lze upravit příplatek. Kliknutím se zobrazí formulář Příplatek dne. Postup pro editaci je stejný jako pro založení příplatku.
+
+Pro odstranění příplatku vyberte příplatek **(3)** a klikněte na **Nástroje (4)** a pak **Odstranit (5)**
+
+.. image:: /Img/Nastroje4.PNG
+
 Tabulka Saldo obsahuje přehled salda zaměstnance za vybrané období. Modrou barvou je zobrazené kladné saldo. Červenou barvou je odlišené záporné saldo.
 
 .. image:: /Img/Saldo1.PNG
@@ -97,5 +115,3 @@ Kliknutím na tlačítko **+ Upravit (2)** lze upravit poznámku. Kliknutím se 
 Pro odstranění poznámky vyberte poznámku **(3)** a klikněte na **Nástroje (4)** a pak **Odstranit (5)**
 
 .. image:: /Img/Nastroje3.PNG
-
-
