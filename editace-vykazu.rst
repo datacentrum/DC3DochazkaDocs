@@ -88,7 +88,7 @@ Kliknutím se zobrazí formulář pro založení nové poznámky:
 
 .. image:: /Img/PoznamkaDne1.PNG
 
-Ve formuláři vyplňte poznámku a klikněte na tlačítko **Uložit**. Kliknutím poznámka bude uložená a zobrazí se v tabulce Poznámky. Kliknutím na tlačítko Storno se vrátite zpět k detailu dne, ale poznámka nebude uložená.
+Ve formuláři vyplňte poznámku a klikněte na tlačítko **Uložit**. Kliknutím poznámka bude uložená a zobrazí se v tabulce Poznámky. Kliknutím na tlačítko **Storno** se vrátite zpět k detailu dne, ale poznámka nebude uložená.
 
 .. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
 
