@@ -2,23 +2,14 @@
 Můj plán docházky
 ============================
 
-Přihlášený uživatel může zobrazit plán docházkových událostí. Hlavní menu aplikace obsahuje odkaz Docházka **(1)**. Při najetí myši na odkaz se zobrazí Plán docházky **(2)**.
+Zobrazení plánovacího kalendáře
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: /Img/PlanDochazky1.PNG
-
-Kliknutím na **Plán docházky** se zobrazí obrazovka **Plán docházkových událostí** s kalendářem docházkových událostí.
-
-.. image:: /Img/Kalendar1.PNG
-
-- **Další možnost zobrazení plánu docházky:**
-
-Plán docházky osoby lze zobrazit z výkazu vlatstní docházky. Postup zobrazení výkazu docházky je vysvětlen v kapitole :ref:`moje_dochazka`. Na obrazovce **Moje docházka** klikněte na **Můj plán docházky (3)**. Kliknutím se zobrazí obrazovka **Plán docházkových událostí** s kalendářem docházkových událostí. 
+Přihlášený uživatel si může zobrazit plán událostí vlastní docházky. Zobrazení se provede z obrazovky **Moje docházka** kliknutím na tlačítko **Můj plán docházky** **(3)**.
 
 .. image:: /Img/MojeDochazka1.PNG
 
-Zobrazení plánovacího kalendáře
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Každy přihlašený uživatel může zobrazit vlastní plánovací kalednář. Posup zobrazení je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. Plánovací kalendář obsahuje u každého dne vyznačenou informaci o plánované směně zaměstnance, tak aby bylo na první pohled vidět, na které dny je možné plánovat. Dále jsou v kalendáři barevně zvýrazněny soboty, neděle a státní svátky.
+Plánovací kalendář obsahuje u každého dne vyznačenou informaci o plánované směně zaměstnance, tak aby bylo na první pohled vidět, na které dny je možné plánovat. Dále jsou v kalendáři barevně zvýrazněny soboty, neděle a státní svátky.
 
 .. image:: /Img/Kalendar2.PNG
 
@@ -54,10 +45,9 @@ Každy přihlašený uživatel může zobrazit vlastní plánovací kalednář s
 
 - Uživatel si může změnit zobrazení kalendáře. Kliknutím na Měsíc/Týden/Den/Agenda **(5)** lze změnit zobrazení kalendáře.
 
-.. _prehled_dochazkovych_udalosti:
 Přehled docházkových událostí
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Každy přihlašený uživatel může zobrazit přehled všech svých docházkových událostí formou tabulky. Na obrazovce Plán docházkových událostí vyberte založku **Přehled událostí(1)**.  Kliknutím na záložku **Přehled událostí (1)** se zobrazí přehled všech docházkových událostí. Jednotlivé stavy událostí jsou od sebe barevně odlišeny.
+Každý přihlašený uživatel může zobrazit přehled všech svých docházkových událostí formou tabulky. Na obrazovce Plán docházkových událostí vyberte založku **Přehled událostí(1)**.  Kliknutím na záložku **Přehled událostí (1)** se zobrazí přehled všech docházkových událostí. Jednotlivé stavy událostí jsou od sebe barevně odlišeny.
 
 .. image:: /Img/PrehledDochazkovychUdalosti1.PNG
 
