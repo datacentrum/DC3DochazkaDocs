@@ -6,6 +6,7 @@ DC 3 Docházka - Uživatelská dokumentace
 
 .. toctree::
    :maxdepth: 2
+   :titlesonly:
    
    prihlaseni
    muj-profil
