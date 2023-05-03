@@ -96,7 +96,7 @@ Zůstatky čerpání události plánu docházky lze zobrazit kliknutím na ikonu
 .. image:: /Img/Zustatky2.PNG
 
 .. _plan_dochazky_osoby:
-Plán docházky osoby
+Můj plán docházky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Přihlášený uživatel může zobrazit plán docházkových událostí. Hlavní menu aplikace obsahuje odkaz Docházka **(1)**. Při najetí myši na odkaz se zobrazí Plán docházky **(2)**.
 
@@ -459,5 +459,5 @@ Přímo z e-mailu může vedoucí zaměstnanec provést přechod do aplikace kli
 
 .. note:: Kliknutím na tlačítko **Ne** se vrátíte do kalendáře docházkových událostí, ale událost nebude zamítnutá.
 
-Schvalování měsíce
+Schválení mojí docházky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
