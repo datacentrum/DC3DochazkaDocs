@@ -8,19 +8,14 @@ Moje docházka
 .. _moje_dochazka:
 Moje docházka
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Přihlášený uživatel může zobrazit výkaz vlastní docházky. Hlavní menu aplikace obsahuje odkaz Docházka **(1)**. Při najetí myši na odkaz se zobrazí Moje docházka **(2)**.
+Přihlášený uživatel si může zobrazit výkaz vlastní docházky. Zobrazení se provede z hlavního menu aplikace -> odkaz Docházka **(1)** -> kliknutím na Moje docházka **(2)**.
 
 .. image:: /Img/Vykaz1.PNG
 
-Kliknutím na **Moje docházka** se zobrazí obrazovka **Moje docházka** s výkazem docházky za vybraný měsíc.
-
-.. image:: /Img/Vykaz2.PNG
-
-.. _tabulka_mesicniho_vykazu:
+Výkaz docházky obsahuje:
+-----------------------------
 
 .. image:: /Img/Vykaz4.PNG
-
-Výkaz docházky obsahuje:
  
 - Datum. Kliknutím na **Datum (4)** se zobrazí detail dne, který obsahuje průchody, intervaly, příplatky, saldo, poznámky.
  
