@@ -11,5 +11,6 @@ DC 3 Docházka - Uživatelská dokumentace
    muj-profil
    moje-dochazka
    muj-plan-dochazky
+   schvaleni-moji-dochazky
    vykaz-dochazky-prehled
    
