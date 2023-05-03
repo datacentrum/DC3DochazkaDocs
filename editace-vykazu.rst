@@ -1,6 +1,6 @@
 
 Editace výkazu docházky
-=================================
+================================
 
 .. note:: Editaci výkazu docházky provádí vedoucí zaměstnanec.
 
