@@ -32,13 +32,24 @@ Přihlášený uživatel si může zobrazit výkaz vlastní docházky. Zobrazen�
 
 - **+/-** kolik hodin zaměstnanec odpracoval navíc nebo kolík hodin chybí.
 
-- **Měsíc výkazu docházky** - Automatický se zobrazí aktuání měsíc, ale kliknutím na ikonu kalendáře **(6)** lze vybrat jiný měsíc a rok.
+- **Měsíc výkazu docházky** - Automatický je zobrazen aktuání měsíc, ale kliknutím na ikonu kalendáře **(6)** lze vybrat jiný měsíc a rok.
  
+Výběř období
+-----------------
+Automatický je zobrazen aktuání měsíc, ale kliknutím na ikonu kalendáře **(6)** lze vybrat jiný měsíc a rok. Kliknutím na šipky "<" a ">" se lze posouvat o měsíc zpět nebo vpřed.
+
 .. image:: /Img/Mesic1.PNG
+
+Zobrazení detailu dne
+------------------------
 
 .. image:: /Img/DetailDne1.PNG
  
 .. image:: /Img/DetailDne2.PNG
+
+Zobrazení informace o plánované směně
+-----------------------------------------
+Při najetí myši na **Směnu (5)** lze zobrazit detailní informace o časech začátku a konce směny, případně o časech základních a volitelných rámců směny (v případě pružné pracovní doby).
 
 .. image:: /Img/Smena1.PNG
 
