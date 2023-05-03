@@ -58,7 +58,7 @@ Při najetí myši na **Směnu (5)** lze zobrazit detailní informace o časech 
 
 Panel zůstatků
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-V Měsíčním výkazu docházky osoby je dostupná tabulka zůstatků. Postup zobrazení výkazu docházky je vysvětlen v kapitole :ref:`tabulka_mesicniho_vykazu`. 
+V Měsíčním výkazu docházky osoby je dostupná tabulka zůstatků.
 
 .. image:: /Img/Zustatky1.PNG
 
