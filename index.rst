@@ -8,6 +8,7 @@ DC 3 Docházka - Uživatelská dokumentace
    :maxdepth: 1
    
    prihlaseni
+   zakladni-ovladani
    muj-profil
    moje-dochazka
    muj-plan-dochazky
