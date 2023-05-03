@@ -75,7 +75,7 @@ Vyhledání zaměstnance
 
 .. image:: /Img/Vyhledavani1.PNG
 
-Tabulka zůstatků
+Panel zůstatků
 ---------------------------
 V Měsíčním výkazu docházky osoby je dostupná tabulka zůstatků. Postup zobrazení výkazu docházky je vysvětlen v kapitole :ref:`tabulka_mesicniho_vykazu`. 
 
@@ -173,7 +173,7 @@ Každy přihlašený uživatel může zobrazit přehled všech svých docházkov
 
 .. image:: /Img/DetailUdalosti1.PNG
 
-Tabulka zůstatků
+Panel zůstatků
 --------------------------
 V planovácím kalendáři docházkových události je dostupná tabulka zůstatků. Postup zobrazení planovácího kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. 
 
