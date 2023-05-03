@@ -460,4 +460,4 @@ Přímo z e-mailu může vedoucí zaměstnanec provést přechod do aplikace kli
 .. note:: Kliknutím na tlačítko **Ne** se vrátíte do kalendáře docházkových událostí, ale událost nebude zamítnutá.
 
 Schvalování měsíce
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
