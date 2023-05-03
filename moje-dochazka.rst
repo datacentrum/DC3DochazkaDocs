@@ -36,7 +36,7 @@ Přihlášený uživatel si může zobrazit výkaz vlastní docházky. Zobrazen�
 
 - **Měsíc výkazu docházky** - Automatický je zobrazen aktuání měsíc, ale kliknutím na ikonu kalendáře **(6)** lze vybrat jiný měsíc a rok.
  
-Výběř období
+Výběr období
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Automatický je zobrazen aktuání měsíc, ale kliknutím na ikonu kalendáře **(6)** lze vybrat jiný měsíc a rok. Kliknutím na šipky "<" a ">" se lze posouvat o měsíc zpět nebo vpřed.
 
