@@ -14,4 +14,4 @@ Na Výkaz docházky (přehledová tabulka) se lze dostat z hlavního menu aplika
 
 Kliknutím na jméno zaměstnance v přehledové tabulce **(3)**. se zobrazí měsíční výkaz docházky vybrané osoby.
 
-.. image:: /Img/Vykaz4.PNG
+
