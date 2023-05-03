@@ -18,4 +18,5 @@ DC 3 Docházka - Uživatelská dokumentace
    schvalovani-udalosti
    zalozeni-pruchodu
    vykaz-dochazky-prehled
+   plan-dochazky-prehled
    
