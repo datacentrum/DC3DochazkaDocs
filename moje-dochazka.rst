@@ -46,6 +46,7 @@ Automatický je zobrazen aktuání měsíc, ale kliknutím na ikonu kalendáře 
 
 Zobrazení detailu dne
 ------------------------
+Kliknutím na **Datum (4)** se zobrazí detail dne, který obsahuje průchody, intervaly, příplatky, saldo, poznámky.
 
 .. image:: /Img/DetailDne1.PNG
  
