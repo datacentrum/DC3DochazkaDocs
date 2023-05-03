@@ -12,36 +12,35 @@ Přihlášený uživatel si může zobrazit výkaz vlastní docházky. Zobrazen�
 
 .. image:: /Img/Vykaz1.PNG
 
-Výkaz docházky obsahuje:
------------------------------
-
 .. image:: /Img/Vykaz4.PNG
+
+**Výkaz docházky obsahuje:**
  
-- Datum. Kliknutím na **Datum (4)** se zobrazí detail dne, který obsahuje průchody, intervaly, příplatky, saldo, poznámky.
+- **Datum** - Kliknutím na **Datum (4)** se zobrazí detail dne, který obsahuje průchody, intervaly, příplatky, saldo, poznámky.
+  
+- **Typ směny** - Při najetí myši na **Směnu (5)** lze zobrazit detail směny.
+
+- **Směna od/do** - čas začátku a konce směny.
+
+- **Příchod** - čas příchodu na pracoviště.
+
+- **Odchod** - čas odchodu z pracoviště.
+
+- **Odpracováno** - kolik hodin bylo odpracováno.
+
+- **Absence** - kolik hodin zaměstnanec na pracovišti chyběl.
+
+- **+/-** kolik hodin zaměstnanec odpracoval navíc nebo kolík hodin chybí.
+
+- **Měsíc výkazu docházky** - Automatický se zobrazí aktuání měsíc, ale kliknutím na ikonu kalendáře **(6)** lze vybrat jiný měsíc a rok.
  
+.. image:: /Img/Mesic1.PNG
+
 .. image:: /Img/DetailDne1.PNG
  
 .. image:: /Img/DetailDne2.PNG
- 
-- Typ směny. Při najetí myši na **Směnu (5)** lze zobrazit detail směny.
 
 .. image:: /Img/Smena1.PNG
-
-- Směna od/do - čas začátku a konce směny.
-
-- Příchod - čas příchodu na pracoviště.
-
-- Odchod - čas odchodu z pracoviště.
-
-- Odpracováno - kolik hodin bylo odpracováno.
-
-- Absence - kolik hodin zaměstnanec na pracovišti chyběl.
-
-- +/- kolik hodin zaměstnanec odpracoval navíc nebo kolík hodin chybí.
-
-- Měsíc výkazu docházky. Automatický se zobrazí aktuání měsíc, ale kliknutím na ikonu kalendáře **(6)** lze vybrat jiný měsíc a rok.
- 
-.. image:: /Img/Mesic1.PNG
 
 Strom podřízenosti
 --------------------------
