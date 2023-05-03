@@ -16,7 +16,7 @@ Plán docházky osoby lze zobrazit z výkazu vlatstní docházky. Postup zobraze
 
 .. image:: /Img/MojeDochazka1.PNG
 
-Zobrazneí plánovacího kalendáře
+Zobrazení plánovacího kalendáře
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Každy přihlašený uživatel může zobrazit vlastní plánovací kalednář. Posup zobrazení je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. Plánovací kalendář obsahuje u každého dne vyznačenou informaci o plánované směně zaměstnance, tak aby bylo na první pohled vidět, na které dny je možné plánovat. Dále jsou v kalendáři barevně zvýrazněny soboty, neděle a státní svátky.
 
