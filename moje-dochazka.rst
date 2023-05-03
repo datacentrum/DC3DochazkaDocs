@@ -6,11 +6,9 @@ Moje docházka
   :depth: 2
   
 .. _moje_dochazka:
-Moje docházka
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Zobrazení mojí docházky
------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Přihlášený uživatel si může zobrazit výkaz vlastní docházky. Zobrazení se provede z hlavního menu aplikace -> odkaz Docházka **(1)** -> kliknutím na Moje docházka **(2)**.
 
@@ -39,13 +37,13 @@ Přihlášený uživatel si může zobrazit výkaz vlastní docházky. Zobrazen�
 - **Měsíc výkazu docházky** - Automatický je zobrazen aktuání měsíc, ale kliknutím na ikonu kalendáře **(6)** lze vybrat jiný měsíc a rok.
  
 Výběř období
------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Automatický je zobrazen aktuání měsíc, ale kliknutím na ikonu kalendáře **(6)** lze vybrat jiný měsíc a rok. Kliknutím na šipky "<" a ">" se lze posouvat o měsíc zpět nebo vpřed.
 
 .. image:: /Img/Mesic1.PNG
 
 Zobrazení detailu dne
-------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Kliknutím na **Datum (4)** se zobrazí detail dne, který obsahuje průchody, intervaly, příplatky, saldo, poznámky.
 
 .. image:: /Img/DetailDne1.PNG
@@ -53,13 +51,13 @@ Kliknutím na **Datum (4)** se zobrazí detail dne, který obsahuje průchody, i
 .. image:: /Img/DetailDne2.PNG
 
 Zobrazení informace o plánované směně
------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Při najetí myši na **Směnu (5)** lze zobrazit detailní informace o časech začátku a konce směny, případně o časech základních a volitelných rámců směny (v případě pružné pracovní doby).
 
 .. image:: /Img/Smena1.PNG
 
 Strom podřízenosti
---------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Vedoucí pracovník může zobrazit strom podřízenosti na obrazovce s výkazem docházky. Postup zobrazení výkazu docházky osoby je vysvětlen v kapitole :ref:`tabulka_mesicniho_vykazu`. Kliknutím na **Strom podřízenosti** se zobrazí seznam podřízených zaměstnanců. 
 
 .. image:: /Img/StromPodrizenosti1.PNG
@@ -67,13 +65,13 @@ Strom podřízenosti
 .. image:: /Img/StromPodrizenosti2.PNG
 
 Vyhledání zaměstnance
---------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. note:: Vedoucí pracovník může vyhledat zaměstnance na obrazovce s výkazem docházky. Postup zobrazení výkazu docházky osoby je vysvětlen v kapitole :ref:`tabulka_mesicniho_vykazu`. Kliknutím na **Jméno osoby** se zobrazí pole pro vyhledávání zaměstnanců. Vyhledávát lze podle osobního čísla zaměstnance nebo jména/příjmení.
 
 .. image:: /Img/Vyhledavani1.PNG
 
 Panel zůstatků
----------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 V Měsíčním výkazu docházky osoby je dostupná tabulka zůstatků. Postup zobrazení výkazu docházky je vysvětlen v kapitole :ref:`tabulka_mesicniho_vykazu`. 
 
 .. image:: /Img/Zustatky1.PNG
@@ -110,7 +108,7 @@ Plán docházky osoby lze zobrazit z výkazu vlatstní docházky. Postup zobraze
 .. image:: /Img/MojeDochazka1.PNG
 
 Plánovací kalendář
---------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Každy přihlašený uživatel může zobrazit vlastní plánovací kalednář. Posup zobrazení je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. Plánovací kalendář obsahuje u každého dne vyznačenou informaci o plánované směně zaměstnance, tak aby bylo na první pohled vidět, na které dny je možné plánovat. Dále jsou v kalendáři barevně zvýrazněny soboty, neděle a státní svátky.
 
 .. image:: /Img/Kalendar2.PNG
@@ -128,7 +126,7 @@ Každy přihlašený uživatel může zobrazit vlastní plánovací kalednář. 
 - Uživatel si může změnit zobrazení kalendáře. Kliknutím na Měsíc/Týden/Den/Agenda **(4)** lze změnit zobrazení kalendáře.
 
 Kalendář spolupracovníků
------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Každy přihlašený uživatel může zobrazit vlastní plánovací kalednář spolu s kalendářem spolupracovníků. Na obrazovce Plán docházkových událostí vyberte založku **Kalendář spolupracovníků (1)**.  Kliknutím na záložku **Kalendář spolupracovníků (1)** se zobrazí Kalendář docházkových událostí spolupracovníků.
 
 .. image:: /Img/KalendarSpolupracovniku1.PNG
@@ -149,7 +147,7 @@ Každy přihlašený uživatel může zobrazit vlastní plánovací kalednář s
 
 .. _prehled_dochazkovych_udalosti:
 Přehled docházkových událostí
------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Každy přihlašený uživatel může zobrazit přehled všech svých docházkových událostí formou tabulky. Na obrazovce Plán docházkových událostí vyberte založku **Přehled událostí(1)**.  Kliknutím na záložku **Přehled událostí (1)** se zobrazí přehled všech docházkových událostí. Jednotlivé stavy událostí jsou od sebe barevně odlišeny.
 
 .. image:: /Img/PrehledDochazkovychUdalosti1.PNG
@@ -171,7 +169,7 @@ Každy přihlašený uživatel může zobrazit přehled všech svých docházkov
 .. image:: /Img/DetailUdalosti1.PNG
 
 Panel zůstatků
---------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 V planovácím kalendáři docházkových události je dostupná tabulka zůstatků. Postup zobrazení planovácího kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. 
 
 .. image:: /Img/Zustatky3.PNG
@@ -195,7 +193,7 @@ Zůstatky čerpání události plánu docházky lze zobrazit kliknutím na ikonu
 .. image:: /Img/Zustatky4.PNG
 
 Založení nové události
---------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Založit novou událost lze v kalendáři docházkových událostí. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na tlačítko **+ Nová událost (1)**. 
 
 .. image:: /Img/Kalendar3.PNG
@@ -227,7 +225,7 @@ Ve formuláři vyplňte:
 .. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
 
 Generování události
--------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Generovat události plánu docházky lze v kalendáři docházkových událostí. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na šipku za tlačítkem + Nová událost **(1)** a vyberte **Generovat události (2)**.
 
 .. image:: /Img/Kalendar5.PNG
@@ -259,7 +257,7 @@ Ve formuláři vyplňte:
 .. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
 
 Popis stavů událostí
---------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Každá docházková událost má jeden ze čtyř stavů:
 
 1. Plán (v kalendáři docházkových událostí je zobrazená modrou barvou). Událost je pouze plánovaná uživatelem, vedoucímu nebyla zatím odeslána žádost o schválení.
@@ -273,7 +271,7 @@ Každá docházková událost má jeden ze čtyř stavů:
 *5.Žádost o zrušení schválení odeslána*
 
 Odeslání žádosti ke schválení
--------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 V kalendáři docházkových událostí lze odeslat žádost o schválení události. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na událost ve stavu "Plán" **(1)** - v kalendáři je zobrazená modrou barvou.
 
 .. image:: /Img/Kalendar4.PNG
@@ -285,7 +283,7 @@ Kliknutím na událost **(1)** se zobrazí událost plánu docházky.
 Pro odeslání žádosti ke schválení klikněte na tlačítko **Odeslat žádost o schválení**. Kliknutím událost bude odeslána vedoucímu ke schváleni. Stav události se změní z "Plán" na "Žádost o schválení odeslána". V kalendáři událost ve stávu "Žádost o schválení odeslána" bude zobrazená oranžovou barvou.
 
 Samoschvalitelné události
--------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Některé události plánu docházky nevyžadují schválení vedoucího, např. nemoc nebo osobní překážka v práci. Tyto události zaměstnanec může schválit sám v kalendáři docházkových událostí. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na událost "Nemoc" ve stavu "Plán" **(1)** - v kalendáři je zobrazená modrou barvou.
 
 .. image:: /Img/Kalendar6.PNG
@@ -297,7 +295,7 @@ Kliknutím na událost **(1)** se zobrazí událost plánu docházky.
 Pro schválení události klikněte na tlačítko **Schválit událost**. Kliknutím událost bude schválena. Stav události se změní z "Plán" na "Schváleno". V kalendáři událost ve stávu "Schváleno" bude zobrazená zelenou barvou.
 
 Smazání události
-----------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 V kalendáři docházkových událostí lze smazat událost. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na událost, kterou potřebujete odstranit **(1)**. 
 
 .. note:: Odstranit docházkovou událost lze pouze ve stavu „Plán“, „Žádost odeslána“ nebo „Zamítnuto“.
