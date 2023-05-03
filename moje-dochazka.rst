@@ -8,6 +8,10 @@ Moje docházka
 .. _moje_dochazka:
 Moje docházka
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Zobrazení mojí docházky
+-----------------------------
+
 Přihlášený uživatel si může zobrazit výkaz vlastní docházky. Zobrazení se provede z hlavního menu aplikace -> odkaz Docházka **(1)** -> kliknutím na Moje docházka **(2)**.
 
 .. image:: /Img/Vykaz1.PNG
