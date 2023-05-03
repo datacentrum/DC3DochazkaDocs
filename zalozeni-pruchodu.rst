@@ -11,17 +11,17 @@ Zobrazí se obrazovka Založení průchodu přihlášeného uživatele:
 
 Obrazovka obsahuje:
 
-- Tlačítka pro přechod na výkaz vlastní docházky, plán docházky, schválení docházky **(1)**
+- Tlačítka pro přechod na výkaz vlastní docházky, plán docházky, schválení docházky **(3)**
 
-- Aktuální čas **(2)**
+- Aktuální čas **(4)**
 
-- Saldo **(3)** - saldo aktuální, saldo minulé a saldo celkem.
+- Saldo **(5)** - saldo aktuální, saldo minulé a saldo celkem.
 
-- Tlačítko pro založení příchodu **(4)**
+- Tlačítko pro založení příchodu **(6)**
 
-- Tlačítko pro založení odchodu **(5)**
+- Tlačítko pro založení odchodu **(7)**
 
-- Tlačítko pro další možností průchodu **(6)**
+- Tlačítko pro další možností průchodu **(8)**
 
-- Historie průchodů **(7)**
+- Historie průchodů **(9)**
 
