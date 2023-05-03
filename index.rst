@@ -12,5 +12,6 @@ DC 3 Docházka - Uživatelská dokumentace
    moje-dochazka
    muj-plan-dochazky
    schvaleni-moji-dochazky
+   strom-podrizenosti
    vykaz-dochazky-prehled
    
