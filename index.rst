@@ -16,5 +16,6 @@ DC 3 Docházka - Uživatelská dokumentace
    vyhledani-zamestnance
    editace-vykazu
    schvalovani-udalosti
+   zalozeni-pruchodu
    vykaz-dochazky-prehled
    
