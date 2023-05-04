@@ -25,3 +25,16 @@ Obrazovka obsahuje:
 
 - Historie průchodů **(9)**
 
+Založení příchodů
+^^^^^^^^^^^^^^^^^^^^^^
+Pro založení normálního příchodu klikněte na tlačítko **Normální příchod (6)**
+Pro založení služebního příchodu klikněte na šipku **(8)** a pak **Služební příchod (10)**
+
+.. image:: /Img/PrichodOdchod1.PNG
+
+Založení odchodu
+^^^^^^^^^^^^^^^^^^^^^^
+Pro založení normálního odchodu klikněte na tlačítko **Normální odchod (6)**
+Pro založení služebního odchodu klikněte na šipku **(8)** a pak **Služební odchod (11)**
+
+.. image:: /Img/PrichodOdchod1.PNG
