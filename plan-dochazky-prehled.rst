@@ -10,4 +10,4 @@ Na Plán docházkových událostí (přehledová tabulka) se lze dostat z hlavn�
 
 .. image:: /Img/OsobyPlanuDochazky1.PNG
 
-Kliknutím na jméno zaměstnance v přehledové tabulce (3). se zobrazí Kalendář docházkových událostí vybraného zaměstnance.
+Kliknutím na jméno zaměstnance v přehledové tabulce (3) se zobrazí Kalendář docházkových událostí vybraného zaměstnance.
