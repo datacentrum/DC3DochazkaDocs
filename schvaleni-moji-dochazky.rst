@@ -17,3 +17,6 @@ Schválení docházky provádí vedoucí zaměstnanec na obrazovce Schválení d
 
 .. image:: /Img/SchvaleniDochazky2.PNG
 
+.. image:: /Img/SchvaleniDochazky3.PNG
+
+.. image:: /Img/SchvaleniDochazky4.PNG
