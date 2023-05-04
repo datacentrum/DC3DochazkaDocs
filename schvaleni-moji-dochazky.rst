@@ -23,6 +23,9 @@ Schválení docházky provádí vedoucí zaměstnanec na obrazovce Schválení d
 
 Absence a příplatky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Tabulka Absence a příplatky složí pro přehled všech absencí a příplatků zaměstnance.
+
+.. image:: /Img/AbsenceAPriplatky1.PNG
 
 Odpracovaná doba, měsíční příplatky a srážky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
