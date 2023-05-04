@@ -41,8 +41,17 @@ Ve formuláři vyberte z číselníku mzdovou složku, zadejte dobu, přidejte p
 
 .. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
 
+Kliknutím na tlačítko **Upravit (2)** lze položku upravit. Kliknutím se zobrazí formulář Odpracovaná doba, měsíční příplatek nebo srážka. Postup pro editaci je stejný jako pro založení položky.
+
+Pro odstranění položky vyberte položku **(3)** a klikněte na **Nástroje (4)** a pak **Odstranit (5)**.
+
+.. image:: /Img/Nastroje5.PNG
+
 Záporné saldo
 ^^^^^^^^^^^^^^^^^^^^^^^^
+Tabulka Záporné saldo složí pro přehled záporného salda (aktuálního, minulého) v období k vyrovnání.
+
+.. image:: /Img/ZaporneSaldo1.PNG
 
 Kladné saldo
 ^^^^^^^^^^^^^^^^^^^^^^^^
