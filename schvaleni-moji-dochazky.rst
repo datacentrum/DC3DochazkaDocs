@@ -20,3 +20,18 @@ Schválení docházky provádí vedoucí zaměstnanec na obrazovce Schválení d
 .. image:: /Img/SchvaleniDochazky3.PNG
 
 .. image:: /Img/SchvaleniDochazky4.PNG
+
+Absence a příplatky
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Odpracovaná doba, měsíční příplatky a srážky
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Záporné saldo
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+Kladné saldo
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+Uzavření schválení docházky
+^^^^^^^^^^^^^^^^^^^^^^^^
