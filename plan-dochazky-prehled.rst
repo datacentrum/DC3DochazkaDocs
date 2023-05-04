@@ -6,8 +6,8 @@ Plán docházky (přehledová tabulka)
 
 .. image:: /Img/PlanDochazky1.PNG
 
-Na Plán docházkových událostí (přehledová tabulka) se lze dostat z hlavního menu aplikace -> Docházka (1) -> Plán docházky (2).
+Na Plán docházkových událostí (přehledová tabulka) se lze dostat z hlavního menu aplikace -> Docházka **(1)** -> Plán docházky **(2)**.
 
 .. image:: /Img/OsobyPlanuDochazky1.PNG
 
-Kliknutím na jméno zaměstnance v přehledové tabulce (3) se zobrazí Kalendář docházkových událostí vybraného zaměstnance.
+Kliknutím na jméno zaměstnance v přehledové tabulce **(3)** se zobrazí Kalendář docházkových událostí vybraného zaměstnance.
