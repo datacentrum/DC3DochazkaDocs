@@ -25,7 +25,7 @@ Obrazovka obsahuje:
 
 - Historie průchodů **(9)**
 
-Založení příchodů
+Založení příchodu
 ^^^^^^^^^^^^^^^^^^^^^^
 - Pro založení normálního příchodu klikněte na tlačítko **Normální příchod (6)**.
 - Pro založení služebního příchodu klikněte na šipku **(8)** a pak **Služební příchod (10)**.
