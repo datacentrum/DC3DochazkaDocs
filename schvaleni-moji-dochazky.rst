@@ -29,6 +29,17 @@ Tabulka Absence a příplatky složí pro přehled všech absencí a příplatk�
 
 Odpracovaná doba, měsíční příplatky a srážky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+V tabulce lze přidat novou položku, upravit nebo položku odstranit. Pro přidání položky klikněte na tlačítko **+ Nová položka (1)**
+
+.. image:: /Img/OdpracovanaDoba1.PNG
+
+Kliknutím na tlačítko **+ Nová položka (1)** se zobrazí formulář Odpracovaná doba, měsíční příplatek nebo srážka pro přidání položky:
+
+.. image:: /Img/OdpracovanaDoba2.PNG
+
+Ve formuláři vyberte z číselníku mzdovou složku, zadejte dobu, přidejte poznámku a klikněte na tlačítko Uložit. Kliknutím položka bude uložená a zobrazí se v tabulce Odpracovaná doba, měsíční příplatky a srážky. Kliknutím na tlačítko Storno se vrátite zpět ke schválení docházky, ale položka nebude uložená.
+
+.. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
 
 Záporné saldo
 ^^^^^^^^^^^^^^^^^^^^^^^^
