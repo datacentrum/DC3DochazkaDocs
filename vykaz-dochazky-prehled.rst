@@ -8,10 +8,10 @@ Výkaz vlastní docházky je dostupný na obrazovce **Moje docházka**. Posup zo
 
 .. image:: /Img/Vykaz3.PNG
 
-Na Výkaz docházky (přehledová tabulka) se lze dostat z hlavního menu aplikace obsahuje -> Docházka **(1)** -> Výkaz docházky **(2)**. 
+Na Výkaz docházky (přehledová tabulka) se lze dostat z hlavního menu aplikace -> Docházka **(1)** -> Výkaz docházky **(2)**. 
 
 .. image:: /Img/Prehled1.PNG
 
-Kliknutím na jméno zaměstnance v přehledové tabulce **(3)**. se zobrazí měsíční výkaz docházky vybrané osoby.
+Kliknutím na jméno zaměstnance v přehledové tabulce **(3)** se zobrazí měsíční výkaz docházky vybrané osoby.
 
 
