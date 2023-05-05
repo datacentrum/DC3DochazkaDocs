@@ -49,7 +49,7 @@ Pro odstranění položky vyberte položku **(3)** a klikněte na **Nástroje (4
 
 Záporné saldo
 ^^^^^^^^^^^^^^^^^^^^^^^^
-Tabulka Záporné saldo složí pro přehled záporného salda (aktuálního, minulého) v období k vyrovnání.
+Tabulka Záporné saldo složí pro přehled záporného salda v období (aktuálního, minulého) k vyrovnání.
 
 .. image:: /Img/ZaporneSaldo1.PNG
 
@@ -65,4 +65,14 @@ Kliknutím se zobrazí formulář Vyrovnání kladného salda. Vyplňte údaje o
 
 Uzavření schválení docházky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+V tabulce Uzavření schválení docházky naleznete popis upozornění důležitých pro schválení. Modrou barvou jsou odlišené zprávy - upozornění k docházce. Červenou barvou jsou zobrazené vyskytující se chyby.
 
+.. image:: /Img/UzavreniSchvaleniDochazky1.PNG
+
+V tabulce lze ignorovat upozornění. Vyberte upozornění v tabulce **(1)** a klikněte na tlačítko Nástroje **(2)** -> **Ignorovat upozornění (3)**. Kliknutím se zobrazí dialog pro potvrzení. Potvrzením upozornění bude ignorováno a v tabulce se zobrazí šedou barvou.  
+
+.. image:: /Img/UzavreniSchvaleniDochazky1.PNG
+
+Schválit docházku zaměstnance lze kliknutím na tlačítko **Schválit (4)**. Kliknutím se zobrazí dialog pro potvrzení. Potvrzením dojde ke změně stavu na Připraveno pro mzdy.
+
+.. note:: V případě, že docházka obsahuje chyby, docházku pracovníka nelze schválit!
