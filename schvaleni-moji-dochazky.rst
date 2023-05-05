@@ -55,8 +55,14 @@ Tabulka Záporné saldo složí pro přehled záporného salda (aktuálního, mi
 
 Kladné saldo
 ^^^^^^^^^^^^^^^^^^^^^^^^
-Tabulka Kladné saldo obsahuje přehled kladného salda. V tabulce lze saldo upravit.
+Tabulka Kladné saldo obsahuje přehled kladného salda. V tabulce lze saldo upravit. Pro úpravu klikněte na tlačítko **Upravit (1)**.
 
+.. image:: /Img/KladneSaldo1.PNG
+
+Kliknutím se zobrazí formulář Vyrovnání kladného salda. Vyplňte údaje o čerpání, proplácení a kolík bylo neuznáno. Pro uložení klikněte na tlačítko **Uložit**. Kliknutím na tlačítko Storno se vrátite zpět ke schválení docházky, ale položky nebudou uložené.
+
+.. image:: /Img/VyrovnaniKladnehoSalda1.PNG
 
 Uzavření schválení docházky
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
