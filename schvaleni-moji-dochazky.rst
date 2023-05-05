@@ -55,6 +55,8 @@ Tabulka Záporné saldo složí pro přehled záporného salda (aktuálního, mi
 
 Kladné saldo
 ^^^^^^^^^^^^^^^^^^^^^^^^
+Tabulka Kladné saldo obsahuje přehled kladného salda. V tabulce lze saldo upravit.
+
 
 Uzavření schválení docházky
 ^^^^^^^^^^^^^^^^^^^^^^^^
