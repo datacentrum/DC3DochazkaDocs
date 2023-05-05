@@ -71,7 +71,7 @@ V tabulce Uzavření schválení docházky naleznete popis upozornění důleži
 
 V tabulce lze ignorovat upozornění. Vyberte upozornění v tabulce **(1)** a klikněte na tlačítko Nástroje **(2)** -> **Ignorovat upozornění (3)**. Kliknutím se zobrazí dialog pro potvrzení. Potvrzením upozornění bude ignorováno a v tabulce se zobrazí šedou barvou.  
 
-.. image:: /Img/UzavreniSchvaleniDochazky1.PNG
+.. image:: /Img/Nastroje6.PNG
 
 Schválit docházku zaměstnance lze kliknutím na tlačítko **Schválit (4)**. Kliknutím se zobrazí dialog pro potvrzení. Potvrzením dojde ke změně stavu na Připraveno pro mzdy.
 
