@@ -41,6 +41,15 @@ Tlačítko: **Přidání záznamu**. Tlačítkem **+ Přidat** zahájíte proces
 
 Tlačítko: **Nástroje**. Tlačítkem **Nástroje** zobrazíte rozbalovací menu doplňkových funkcí tabulky, v jejímž záhlaví se nachází. Příklad rozbaleného menu je uveden na obrázku. Seznam funkcí v menu Nástroje se může v různých částech obrazovek lišit.
 
+.. image:: /Img/SbalitRozbalit1.PNG
+
+Volba: **Sbalit / Rozbalit**. Pokud je obrazovka rozdělena na více boxů, obsahují tyto části obrazovek v pravém rohu záhlaví tlačítko ve tvaru šipky s funkcí **Sbalit/Rozbalit**. Šipka směřující dolů indikuje zapnutou funkci sbalit. Šipka směřující vzhůru indikuje zapnutou funkci rozbalit.
+
+.. image:: /Img/SbalitRozbalit2.PNG
+
+.. image:: /Img/SbalitRozbalit3.PNG
+
+Pokud je příslušný box právě rozbalen, klinutím na šipku tento box sbalíte tak, že je nadále zobrazeno pouze záhlaví daného boxu. Ostatní boxy a jiné části obrazovky zobrazené níže se po sbalení posunou vzhůru.
 
 
 Klávesové zkratky
