@@ -65,8 +65,19 @@ Pokud chcete změnit nastavení, kliknete do okénka s číselnou hodnotou. Zobr
 
 .. image:: /Img/RozbalovaciNabidka1.PNG
 
-Prvek: **Rozbalovací nabídka**. Rozbalovací nabídku poznáte podle zobrazené šipky směřující dolu vpravo od textového obsahu pole. Pokud není vybrána žádná z položek rozbalovací nabídky, je většinou zobrazena informace [Neuvedeno]. Chcete-li změnit obsah pole, tzn. vybrat jinou položku z rozbalovací nabídky, klikněte na šipku nebo do pole. Místo původního pole se vám zobrazí rozbalovací nabídka. Po kliknutí na požadovanou položku se vám tato položka zobrazí v půdovním poli.
+Prvek: **Rozbalovací nabídka**. Rozbalovací nabídku poznáte podle zobrazené šipky směřující dolu vpravo od textového obsahu pole. Pokud není vybrána žádná z položek rozbalovací nabídky, je většinou zobrazena informace [Vše]. Chcete-li změnit obsah pole, tzn. vybrat jinou položku z rozbalovací nabídky, klikněte na šipku nebo do pole. Místo původního pole se vám zobrazí rozbalovací nabídka. Po kliknutí na požadovanou položku se vám tato položka zobrazí v půdovním poli.
 
+.. image:: /Img/RozbalovaciNabidka2.PNG
+
+.. note:: Tímto prvkem je možné vybrat vždy pouze jednu položku ze zobrazené nabídky.
+
+.. note:: Obsah nabídky většinou odpovídá obsahu příslušného číselníku nebo jeho podmnožině.
+
+.. image:: /Img/VicenasobnyVyber1.PNG
+
+Prvek: **Vícenásobný výběr**. Alternativou k rozbalovací nabídce je prvek vícenásobného výběru, který umožňuje vybrat z nabídky více položek současně. Všechny vybrané položky jsou zobrazeny pod sebou v základním poli vícenásobného výběru. Chcete-li některé z vybraných položek zrušit, klikněte na křížek u příslušné položky -> tato položka bude odebrána. Chcete-li změnit obsah pole, tzn. vybrat další položku z rozbalovací nabídky, klikněte do pole. Původní pole se vám rozšíří o kompletní nabídku položek. Zašedle jsou podbarveny již vybrané položky, výrazně je podbarvena právě vybíraná (přidávaná) položka.
+
+.. image:: /Img/VicenasobnyVyber2.PNG
 
 Klávesové zkratky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
