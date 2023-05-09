@@ -37,7 +37,7 @@ Tlačítko: **Odstranit**. Tlačítkem **Odstranit** zahájíte proces odstraně
 
 Tlačítko: **Přidání záznamu**. Tlačítkem **+ Přidat** zahájíte proces přidání nového záznamu typu, který se shoduje se záznamy v příslušné tabulce. Tlačítko se zvýrazněným symbolem + na začátku textu může být doplněno informací o přidání jakého záznamu se jedná – viz. příklady na obrázcích.
 
-.. image:: /Img/Nastroje1.PNG
+.. image:: /Img/Nastroje7.PNG
 
 Tlačítko: **Nástroje**. Tlačítkem **Nástroje** zobrazíte rozbalovací menu doplňkových funkcí tabulky, v jejímž záhlaví se nachází. Příklad rozbaleného menu je uveden na obrázku. Seznam funkcí v menu Nástroje se může v různých částech obrazovek lišit.
 
