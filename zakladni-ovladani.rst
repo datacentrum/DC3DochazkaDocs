@@ -29,6 +29,9 @@ Tlačítko: **Upravit**. Tlačítkem **Upravit** zahájíte editaci vybraného z
 
 Tlačítko: **Odstranit**. Tlačítkem **Odstranit** zahájíte proces odstranění vybraného záznamu, který většinou obsahuji nutnost potvrzení vašeho požadavku na odstranění záznamu.
 
+Tlačítko: **Přidání záznamu**. Tlačítkem **+ Přidat** zahájíte proces přidání nového záznamu typu, který se shoduje se záznamy v příslušné tabulce. Tlačítko se zvýrazněným symbolem + na začátku textu může být doplněno informací o přidání jakého záznamu se jedná – viz. příklady na obrázcích.
+
+.. image:: /Img/Pridat1.PNG
 
 Klávesové zkratky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
