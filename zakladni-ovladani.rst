@@ -63,7 +63,9 @@ Pokud chcete změnit nastavení, kliknete do okénka s číselnou hodnotou. Zobr
  
 .. note:: Změna nastavení limitu počtu zobrazených záznamů neovlivňuje jejich uložení v aplikaci (databázi).
 
+.. image:: /Img/RozbalovaciNabidka1.PNG
 
+Prvek: **Rozbalovací nabídka**. Rozbalovací nabídku poznáte podle zobrazené šipky směřující dolu vpravo od textového obsahu pole. Pokud není vybrána žádná z položek rozbalovací nabídky, je většinou zobrazena informace [Neuvedeno]. Chcete-li změnit obsah pole, tzn. vybrat jinou položku z rozbalovací nabídky, klikněte na šipku nebo do pole. Místo původního pole se vám zobrazí rozbalovací nabídka. Po kliknutí na požadovanou položku se vám tato položka zobrazí v půdovním poli.
 
 
 Klávesové zkratky
