@@ -79,6 +79,10 @@ Prvek: **Vícenásobný výběr**. Alternativou k rozbalovací nabídce je prvek
 
 .. image:: /Img/VicenasobnyVyber2.PNG
 
+.. note:: Tímto prvkem je možné vybrat více položek ze zobrazené nabídky.
+
+.. note:: Obsah nabídky většinou odpovídá obsahu příslušného číselníku nebo jeho podmnožině.
+
 Klávesové zkratky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Tabulátor - Při editaci formuláře pohyb po jednotlivých prvcích formuláře vpřed.
