@@ -57,6 +57,14 @@ Pokud je příslušný box právě rozbalen, klinutím na šipku tento box sbal�
 
 Volba: **Zobrazit**. Box obsahující tabulku (grid) s jednotlivými záznamy (seznamy) umožňuje nastavit maximální počet záznamů zobrazených (načtených) do tabulky na jedné obrazovce. Množství záznamů načtených a zobrazených najednou na obrazovku, může ovlivnit dobu načítání obrazovky, a to i při přechodu z jedné obrazovky na druhou při „listování“ mezi jednotlivými obrazovkami tabulky. V levé části obrazovky pod její hlavičkou je standardně zobrazena informace o právě nastaveném limitu max. počtu záznamů zobrazovaných v tabulce (na obrázku je to 25 záznamů), a to jako funkce **Zobrazit**.
 
+.. image:: /Img/Zobrazeni2.PNG
+
+Pokud chcete změnit nastavení, kliknete do okénka s číselnou hodnotou. Zobrazí se vám seznam možností a dalším kliknutím na požadovanou položku provedete změnu v nastavení. Nabídka se v ten okamžik uzavře a v okénku se vám zobrazí nová, vámi vybraná hodnota. Tuto novou hodnotu můžete kdykoli změnit.
+ 
+.. note:: Změna nastavení limitu počtu zobrazených záznamů neovlivňuje jejich uložení v aplikaci (databázi).
+
+
+
 
 Klávesové zkratky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
