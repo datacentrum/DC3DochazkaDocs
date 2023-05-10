@@ -83,6 +83,8 @@ Prvek: **Vícenásobný výběr**. Alternativou k rozbalovací nabídce je prvek
 
 .. note:: Obsah nabídky většinou odpovídá obsahu příslušného číselníku nebo jeho podmnožině.
 
+
+
 Klávesové zkratky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Tabulátor - Při editaci formuláře pohyb po jednotlivých prvcích formuláře vpřed.
