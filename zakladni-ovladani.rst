@@ -103,6 +103,12 @@ V záhlaví kalendáře máte možnost měnit zobrazení kalendáře vždy o mě
 
 Kliknutím vždy na příslušnou položku se pak dostanete postupně opět až na denní zobrazení s možností výběru konkrétního dne.
 
+.. image:: /Img/ZaskrtavaciPole1.PNG
+
+Prvek: **Zaškrtávací pole**. Zaškrtávací pole je většinou použito v různých seznamech, kde lze vybírat jednotlivé záznamy. Kliknutím do prázdného zaškrtávacího pole záznam vyberete. Kliknutím do označeného zaškrtávacího pole zrušíte vybrání záznamu.
+
+.. image:: /Img/ZaskrtavaciPole2.PNG
+
 Klávesové zkratky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Tabulátor - Při editaci formuláře pohyb po jednotlivých prvcích formuláře vpřed.
