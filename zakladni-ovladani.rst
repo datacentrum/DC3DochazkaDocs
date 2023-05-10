@@ -91,6 +91,17 @@ Prvek: **Přepínač**. Přepínač je velmi jednoduchým prvkem, který standar
 
 Opětovným kliknutím na prvek přepnete z hodnoty Ne na hodnotu Ano a opačně.
 
+.. image:: /Img/Kalendar1.PNG
+
+Prvek: **Kalendář**. Speciální prvek kalendáře umožňuje zadávat datum pomocí výběru z kalendáře. Pokud chcete zadat nové datum, klikněte na ikonku kalendáře (1). Zobrazí se vám kalendář se zvýrazněným aktuálním datumem (2) a již vybraným datumem (3). Nové datum vyberete kliknutím na příslušný den. 
+
+.. image:: /Img/Kalendar2.PNG
+
+V záhlaví kalendáře máte možnost měnit zobrazení kalendáře vždy o měsíc vpřed (4) nebo vzad (5). Kliknutím na střed záhlaví (6) s měsícem, rokem apod. postupně změníte obsah kalendáře ze zobrazení denního (7) na měsíční (8), z měsíčního na roční (9) a z ročního na desetiletí (10). 
+
+.. image:: /Img/Kalendar2.PNG
+
+Kliknutím vždy na příslušnou položku se pak dostanete postupně opět až na denní zobrazení s možností výběru konkrétního dne.
 
 Klávesové zkratky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
