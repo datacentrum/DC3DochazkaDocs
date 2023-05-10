@@ -83,6 +83,13 @@ Prvek: **Vícenásobný výběr**. Alternativou k rozbalovací nabídce je prvek
 
 .. note:: Obsah nabídky většinou odpovídá obsahu příslušného číselníku nebo jeho podmnožině.
 
+.. image:: /Img/Prepinac1.PNG
+
+Prvek: **Přepínač**. Přepínač je velmi jednoduchým prvkem, který standardně nabývá logické hodnoty Ano/Ne. 
+
+.. image:: /Img/Prepinac2.PNG
+
+Opětovným kliknutím na prvek přepnete z hodnoty Ne na hodnotu Ano a opačně.
 
 
 Klávesové zkratky
