@@ -97,9 +97,13 @@ Prvek: **Kalendář**. Speciální prvek kalendáře umožňuje zadávat datum p
 
 .. image:: /Img/TlacitkoKalendar2.PNG
 
-V záhlaví kalendáře máte možnost měnit zobrazení kalendáře vždy o měsíc vpřed (4) nebo vzad (5). Kliknutím na střed záhlaví (6) s měsícem, rokem apod. postupně změníte obsah kalendáře ze zobrazení denního (7) na měsíční (8), z měsíčního na roční (9) a z ročního na desetiletí (10). 
+V záhlaví kalendáře máte možnost měnit zobrazení kalendáře vždy o měsíc vpřed (4) nebo vzad (5). Kliknutím na střed záhlaví (6) s měsícem, rokem apod. postupně změníte obsah kalendáře ze zobrazení denního na měsíční, z měsíčního na roční a z ročního na desetiletí. 
 
 .. image:: /Img/TlacitkoKalendar3.PNG
+
+.. image:: /Img/TlacitkoKalendar4.PNG
+
+.. image:: /Img/TlacitkoKalendar5.PNG
 
 Kliknutím vždy na příslušnou položku se pak dostanete postupně opět až na denní zobrazení s možností výběru konkrétního dne.
 
