@@ -122,6 +122,23 @@ Klávesové zkratky
 Filtrování, výběr a řazení v tabulkách
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+- Aplikace obsahuje různé tabulky, jejichž ovládání je ve všech jejích částech shodné.
+
+**Hledat - jednoduché vyhledávání**
+
+.. image:: /Img/Hledat1.PNG
+
+Pro rychlé nalezení požadovaného záznamu je v pravé části obrazovky pod její hlavičkou k dispozici funkce **Hledat**. Pro vyhledání napíšete do pole požadovaný textový řetězec, který je následně vyhledán ve všech záznamech. Obsah tabulky pak zobrazuje pouze takové záznamy, které obsahují zadaný text. Pokud chcete hledání zrušit, kliknete na **x** (křížek) vpravo od textu. Tím se text smaže a obsah tabulky se vrátí do původní podoby, tzn. obsahuje veškeré záznamy. Funkce Hledat pracuje na principu fulltextového vyhledávání ve všech (i nezobrazených) záznamech příslušné tabulky.
+
+**Použití zástupných znaků při vyhledávání**
+Standardně probíhá vyhledávání od začátku textového řetězce v jednotlivých záznamech. Tzn. pokud zadáte např. „dodavatelské“ budou vyhledány pouze takové záznamy, jejichž některá z položek začíná textem „dodavatelské“. 
+
+.. image:: /Img/Hledat2.PNG
+
+Pokud chcete vyhledávat plně fulltextově, tzn. chcete aby se zobrazily veškeré záznamy, které v jakékoli položce obsahují kdekoli text „dodavatelské“, musíte použít tzv. zástupný znak. Pokud takový znak napíšete před vámi vyhledávaný textový řetězec „%dodavatelské“ nebo „*dodavatelské“., bude výsledkem vyhledávání seznam záznamů, jejichž některá z položek obsahuje text „dodavatelské“.
+
+.. note:: Vyhledání záznamů neovlivňuje jejich uložení v aplikaci (databázi).
+
 Export
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
