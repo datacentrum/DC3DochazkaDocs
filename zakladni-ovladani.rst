@@ -178,7 +178,33 @@ Pro rychlou orientaci o počtu zobrazených záznamů v příslušné tabulce je
 
 Pro rychlou orientaci o tom, na jaké stránce příslušné tabulky se právě nacházíte, je v pravé spodní části obrazovky k dispozici funkce **Stránkování**. Funkce zobrazuje údaj, na kolikáté stránce tabulky se právě nacházíte. Pokud klinete na číslo jiné stránky, bude do tabulky načten obsah příslušné stránky a stránkování se patřičně posune.
 
+.. image:: /Img/Strankovani2.PNG
 
+Pokud se chcete pohybovat na stránku následující nebo předchozí, kliknete na příslušnou jednoduchou šipku (následující >  / předchozí < ).
+
+.. image:: /Img/Strankovani3.PNG
+
+Pokud se chcete přesunout zrychleně na první nebo poslední stránku, kliknete na příslušnou dvojitou šipku (první « / poslední » )
+
+.. note:: Přesun na jinou stránku zruší označené (vybrané) záznamy.
+
+- **Řazení záznamů podle obsahu sloupců**
+
+.. image:: /Img/Razeni1.PNG
+
+Záhlaví každého sloupce většiny tabulek obsahuje dvojici šipek (směřující nahoru a dolů), které vám umožní provést změnu řazení jednotlivých záznamů obsažených v příslušné tabulce. Pokud jsou obě šipky zašedlé (viz. obrázek) není použito řazení podle daného sloupce. 
+
+.. image:: /Img/Razeni2.PNG
+
+Pokud chcete seřadit záznamy dle hodnot obsažených v daném sloupci, kliknete na dvojici šipek. Při prvním kliknutí jsou záznamy seřazeny **vzestupně** (viz. obrázek), a to dle hodnot obsažených v daném sloupci a směr šipky se změní (směřuje nahoru). Při druhém kliknutí jsou záznamy seřazeny **sestupně**, a to dle hodnot obsažených v daném sloupci a směr šipky se změní (směřuje dolů).
+
+.. image:: /Img/Razeni3.PNG
+
+.. note:: Řazení záznamů podle obsahu vybraného sloupce probíhá vždy „nad“ všemi záznamy tabulky. 
+
+.. note:: Změna řazení zruší označené (vybrané) záznamy. 
+
+.. note:: Změna řazení záznamů neovlivňuje jejich uložení v aplikaci (databázi). 
 
 Export
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -186,4 +212,6 @@ Export
 
 Notifikace
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Většina agend aplikace obsahuje procesy workflow nebo jiné funkčnosti, které vyžadují jejich vyřízení nebo jiný uživatelský zásah. Pro usnadnění orientace jsou takové úkoly, na které má uživatel oprávnění ke zpracování, souhrnně zobrazeny v **Notifikacích**. Záhlaví aplikace obsahuje ikonu notifikací v podobě zvonečku, která je doplněna číslem informujícím o jejich počtu.
+
 
