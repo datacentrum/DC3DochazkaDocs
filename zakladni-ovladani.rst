@@ -206,7 +206,7 @@ Pokud chcete seřadit záznamy dle hodnot obsažených v daném sloupci, kliknet
 
 Export
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Aplikace umožňuje obsahy vybraných částí obrazovky (především tabulek) exportovat do souborů různých formátů. Funkce exportu je dostupná v menu pod tlačítkem Nástroje, a to vždy v záhlaví příslušné části obrazovky, jejíž obsah chcete exportovat. Všechny záznamy představují množství záznamů, které je možné zobrazit v tabulce. V případě použití filtru se tedy jedná o výsledný seznam po jeho aplikaci a odpovídá počtu zobrazitelných záznamů. Princip výběru záznamů je uveden v kapitolách :ref:`filtrovani_vyber_razeni`: Výběr záznamů – jednotlivě a Výběr záznamů – hromadně..
+Aplikace umožňuje obsahy vybraných částí obrazovky (především tabulek) exportovat do souborů různých formátů. Funkce exportu je dostupná v menu pod tlačítkem **Nástroje**, a to vždy v záhlaví příslušné části obrazovky, jejíž obsah chcete exportovat. Všechny záznamy představují množství záznamů, které je možné zobrazit v tabulce. V případě použití filtru se tedy jedná o výsledný seznam po jeho aplikaci a odpovídá počtu zobrazitelných záznamů. Princip výběru záznamů je uveden v kapitolách :ref:`filtrovani_vyber_razeni`: Výběr záznamů – jednotlivě a Výběr záznamů – hromadně..
 
 .. note:: Při provádění exportu všech záznamů může dojít k vytvoření souboru s velkým množstvím záznamů, které mohou ovlivnit datovou velikost souboru, případně ovlivnit jeho použití ve starších verzích programů.
 
