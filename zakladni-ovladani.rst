@@ -212,4 +212,6 @@ Notifikace
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Většina agend aplikace obsahuje procesy workflow nebo jiné funkčnosti, které vyžadují jejich vyřízení nebo jiný uživatelský zásah. Pro usnadnění orientace jsou takové úkoly, na které má uživatel oprávnění ke zpracování, souhrnně zobrazeny v **Notifikacích**. Záhlaví aplikace obsahuje ikonu notifikací v podobě zvonečku, která je doplněna číslem informujícím o jejich počtu.
 
+.. image:: /Img/Notifikace1.PNG
 
+Notifikace se mohou vyskytovat z různých agend, pro které má uživatel oprávnění. Pro větší přehlednost a rychlejší orientaci si kliknete na ikonku zvonečku a následně se vám zobrazí rozbalovací seznam se souhrnem notifikací rozřazených do jednotlivých agend. Dále si vyberte agendu, jejíž notifikace chcete vyřídit a klikněte na příslušnou položku.
