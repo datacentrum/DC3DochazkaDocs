@@ -210,7 +210,13 @@ Aplikace umožňuje obsahy vybraných částí obrazovky (především tabulek) 
 
 .. note:: Při provádění exportu všech záznamů může dojít k vytvoření souboru s velkým množstvím záznamů, které mohou ovlivnit datovou velikost souboru, případně ovlivnit jeho použití ve starších verzích programů.
 
+- **Export do Excelu**
 
+.. image:: /Img/ExportDoExcelu1.PNG
+
+Export do souboru s formátem XLSX můžete provést pro vybrané záznamy Export do Excelu (výběr) nebo pro všechny záznamy Export do Excelu (vše).
+
+.. note:: Pokud máte problém s otevřením souboru ve starší verzi programu Excel, doporučujeme exportovat data do formátu CSV.
 
 Notifikace
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
