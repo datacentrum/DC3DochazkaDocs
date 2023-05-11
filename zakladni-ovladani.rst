@@ -121,8 +121,7 @@ Klávesové zkratky
 
 Filtrování, výběr a řazení v tabulkách
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-- Aplikace obsahuje různé tabulky, jejichž ovládání je ve všech jejích částech shodné.
+Aplikace obsahuje různé tabulky, jejichž ovládání je ve všech jejích částech shodné.
 
 - **Hledat - jednoduché vyhledávání**
 
