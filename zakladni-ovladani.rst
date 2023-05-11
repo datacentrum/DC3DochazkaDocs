@@ -124,13 +124,14 @@ Filtrování, výběr a řazení v tabulkách
 
 - Aplikace obsahuje různé tabulky, jejichž ovládání je ve všech jejích částech shodné.
 
-**Hledat - jednoduché vyhledávání**
+- **Hledat - jednoduché vyhledávání**
 
 .. image:: /Img/Hledat1.PNG
 
 Pro rychlé nalezení požadovaného záznamu je v pravé části obrazovky pod její hlavičkou k dispozici funkce **Hledat**. Pro vyhledání napíšete do pole požadovaný textový řetězec, který je následně vyhledán ve všech záznamech. Obsah tabulky pak zobrazuje pouze takové záznamy, které obsahují zadaný text. Pokud chcete hledání zrušit, kliknete na **x** (křížek) vpravo od textu. Tím se text smaže a obsah tabulky se vrátí do původní podoby, tzn. obsahuje veškeré záznamy. Funkce Hledat pracuje na principu fulltextového vyhledávání ve všech (i nezobrazených) záznamech příslušné tabulky.
 
-**Použití zástupných znaků při vyhledávání**
+- **Použití zástupných znaků při vyhledávání**
+
 Standardně probíhá vyhledávání od začátku textového řetězce v jednotlivých záznamech. Tzn. pokud zadáte např. „dodavatelské“ budou vyhledány pouze takové záznamy, jejichž některá z položek začíná textem „dodavatelské“. 
 
 .. image:: /Img/Hledat2.PNG
@@ -138,6 +139,46 @@ Standardně probíhá vyhledávání od začátku textového řetězce v jednotl
 Pokud chcete vyhledávat plně fulltextově, tzn. chcete aby se zobrazily veškeré záznamy, které v jakékoli položce obsahují kdekoli text „dodavatelské“, musíte použít tzv. zástupný znak. Pokud takový znak napíšete před vámi vyhledávaný textový řetězec „%dodavatelské“ nebo „*dodavatelské“., bude výsledkem vyhledávání seznam záznamů, jejichž některá z položek obsahuje text „dodavatelské“.
 
 .. note:: Vyhledání záznamů neovlivňuje jejich uložení v aplikaci (databázi).
+
+- **Počet zobrazených záznamů – bez použití filtru**
+
+.. image:: /Img/Zobrazeno1.PNG
+
+Pro rychlou orientaci o počtu zobrazených záznamů v příslušné tabulce je v levé spodní části obrazovky k dispozici informativní funkce **Zobrazeno**. Funkce zobrazuje údaje kolikáté (od-do) záznamy z celkem kolika jsou právě v tabulce zobrazeny.
+
+- **Počet zobrazených záznamů – při použití filtru**
+
+.. image:: /Img/Zobrazeno2.PNG
+
+Pro rychlou orientaci o počtu zobrazených záznamů v příslušné tabulce je v levé spodní části obrazovky k dispozici informativní funkce **Zobrazeno**. Funkce zobrazuje údaje kolikáté (od-do) záznamy z celkem kolika vyfiltrovaných jsou právě v tabulce zobrazeny. V tomto případě je funkce doplněna údajem z kolika celkem záznamů byl filtr proveden.
+
+- **Výběr záznamů - jednotlivě**
+
+.. image:: /Img/VyberZaznamu1.PNG
+
+Úvodní sloupec většiny tabulek obsahuje zaškrtávací políčka (checkboxy), které vám umožní provést výběr jednotlivých záznamů. Tímto způsobem vybrané záznamy můžete použít pro další funkce typu tisk, export apod. Pokud kliknete do prázdného zaškrtávacího políčka, provede se jeho označení a příslušný záznam je tímto označený.
+
+.. note:: Tímto způsobem je možné označit (vybrat) pouze záznamy zobrazené na jedné obrazovce. Pokud chcete označit záznamy i z dalších obrazovek můžete toto omezení překonat např. zvýšením počtu zobrazených záznamů (volba Zobrazit) nebo použitím vhodného vyfiltrování záznamů.
+
+.. note:: Pouhý výběr záznamů neovlivňuje jejich uložení v aplikaci (databázi).
+
+- **Výběr záznamů - hromadně**
+
+.. image:: /Img/VyberZaznamu2.PNG
+
+Úvodní sloupec většiny tabulek obsahuje zaškrtávací políčka (checkboxy), které vám umožní provést výběr jednotlivých záznamů. Tímto způsobem vybrané záznamy můžete použít pro další fukce typu tisk, export apod. Pokud kliknete do prázdného zaškrtávacího políčka v záhlaví tabulky, provede se jeho označení a všechny záznamy zobrazené v tabulce jsou tímto označeny.
+
+.. note:: Tímto způsobem je možné označit (vybrat) pouze záznamy zobrazené na jedné obrazovce. Pokud chcete označit záznamy i z dalších obrazovek můžete toto omezení překonat např. zvýšením počtu zobrazených záznamů (volba Zobrazit) nebo použitím vhodného vyfiltrování záznamů. Pokud chcete exportovat nebo tisknout opravdu všechny záznamy, použijte funkci exportu nebo tisku s příznakem „vše“.
+
+.. note:: Pouhý výběr záznamů neovlivňuje jejich uložení v aplikaci (databázi).
+
+- **Stránkování tabulky**
+
+.. image:: /Img/Strankovani1.PNG
+
+Pro rychlou orientaci o tom, na jaké stránce příslušné tabulky se právě nacházíte, je v pravé spodní části obrazovky k dispozici funkce **Stránkování**. Funkce zobrazuje údaj, na kolikáté stránce tabulky se právě nacházíte. Pokud klinete na číslo jiné stránky, bude do tabulky načten obsah příslušné stránky a stránkování se patřičně posune.
+
+
 
 Export
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
