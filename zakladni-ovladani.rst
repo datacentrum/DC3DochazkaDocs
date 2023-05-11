@@ -214,4 +214,6 @@ Většina agend aplikace obsahuje procesy workflow nebo jiné funkčnosti, kter�
 
 .. image:: /Img/Notifikace1.PNG
 
-Notifikace se mohou vyskytovat z různých agend, pro které má uživatel oprávnění. Pro větší přehlednost a rychlejší orientaci si kliknete na ikonku zvonečku a následně se vám zobrazí rozbalovací seznam se souhrnem notifikací rozřazených do jednotlivých agend. Dále si vyberte agendu, jejíž notifikace chcete vyřídit a klikněte na příslušnou položku.
+Notifikace se mohou vyskytovat z různých agend, pro které má uživatel oprávnění. Pro větší přehlednost a rychlejší orientaci si kliknete na ikonku zvonečku a následně se vám zobrazí rozbalovací seznam se souhrnem notifikací rozřazených do jednotlivých agend. Dále si vyberte agendu, jejíž notifikace chcete vyřídit a klikněte na příslušnou položku. Kliknutím se zobrazí Detail notifikace.
+
+.. image:: /Img/Notifikace2.PNG
