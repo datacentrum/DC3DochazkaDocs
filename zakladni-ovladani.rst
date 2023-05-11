@@ -198,8 +198,6 @@ Záhlaví každého sloupce většiny tabulek obsahuje dvojici šipek (směřuj�
 
 Pokud chcete seřadit záznamy dle hodnot obsažených v daném sloupci, kliknete na dvojici šipek. Při prvním kliknutí jsou záznamy seřazeny **vzestupně** (viz. obrázek), a to dle hodnot obsažených v daném sloupci a směr šipky se změní (směřuje nahoru). Při druhém kliknutí jsou záznamy seřazeny **sestupně**, a to dle hodnot obsažených v daném sloupci a směr šipky se změní (směřuje dolů).
 
-.. image:: /Img/Razeni3.PNG
-
 .. note:: Řazení záznamů podle obsahu vybraného sloupce probíhá vždy „nad“ všemi záznamy tabulky. 
 
 .. note:: Změna řazení zruší označené (vybrané) záznamy. 
