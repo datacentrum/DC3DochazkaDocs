@@ -15,3 +15,8 @@ V seznamu podřízených zaměstnanců vedle jména zaměstnance je uvedena info
 Ze stromu podřízenosti lze přejít na plán docházky osoby nebo na schválení docházky osoby. Pro přechod na plán docházky klikněte na šipku za jménem osoby a pak **Přejít na plán docházky osoby**. Pro přechod na schválení docházky klikněte na šipku za jménem osoby a pak **Přejít na schválení docházky osoby**.
 
 .. image:: /Img/StromPodrizenosti4.PNG
+
+Strom podřízenosti lze přípnout/odepnout k obrazovce pomocí špendlíku **(1)** v záhlaví Stromu podřízenosti. Zavřít strom podřízenosti umožňuje tlačítko **(2)** - zavřít.
+
+.. image:: /Img/StromPodrizenosti5.PNG
+
