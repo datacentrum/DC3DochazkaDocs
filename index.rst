@@ -20,4 +20,5 @@ DC 3 Docházka - Uživatelská dokumentace
    zalozeni-pruchodu
    vykaz-dochazky-prehled
    plan-dochazky-prehled
+   prehled-pritomnosti
    
