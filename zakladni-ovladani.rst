@@ -218,6 +218,12 @@ Export do souboru s formátem XLSX můžete provést pro vybrané záznamy Expor
 
 .. note:: Pokud máte problém s otevřením souboru ve starší verzi programu Excel, doporučujeme exportovat data do formátu CSV.
 
+- **Export do CSV**
+
+.. image:: /Img/ExportDoCsv1.PNG
+
+Export do souboru s univerzálním formátem CSV můžete provést pro vybrané záznamy Export do CSV (výběr) nebo pro všechny záznamy Export do CSV (vše). Soubor obsahuje v prvním řádku záhlaví tabulky (názvy sloupců).  Jednotlivé hodnoty (obsahy buněk) jsou v řádcích odděleny středníkem (standardním oddělovačem pro excel).
+
 Notifikace
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Většina agend aplikace obsahuje procesy workflow nebo jiné funkčnosti, které vyžadují jejich vyřízení nebo jiný uživatelský zásah. Pro usnadnění orientace jsou takové úkoly, na které má uživatel oprávnění ke zpracování, souhrnně zobrazeny v **Notifikacích**. Záhlaví aplikace obsahuje ikonu notifikací v podobě zvonečku, která je doplněna číslem informujícím o jejich počtu.
