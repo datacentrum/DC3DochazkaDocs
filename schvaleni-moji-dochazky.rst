@@ -76,3 +76,6 @@ V tabulce lze ignorovat upozornění. Vyberte upozornění v tabulce **(1)** a k
 Schválit docházku zaměstnance lze kliknutím na tlačítko **Schválit (4)**. Kliknutím se zobrazí dialog pro potvrzení. Potvrzením dojde ke změně stavu na Připraveno pro mzdy.
 
 .. note:: V případě, že docházka obsahuje chyby, docházku pracovníka nelze schválit!
+
+Odeslání do mezd
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
