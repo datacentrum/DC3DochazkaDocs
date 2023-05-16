@@ -79,3 +79,4 @@ Schválit docházku zaměstnance lze kliknutím na tlačítko **Schválit (4)**.
 
 Odeslání do mezd
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. note:: TODO: Doplnit
