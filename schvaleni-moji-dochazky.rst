@@ -3,7 +3,7 @@ Schválení mojí docházky
 
 .. note:: Schvalování docházky osoby provádí vedoucí zaměstnanec. Pro podřízeného zaměstnance je obrazovka Schválení docházky dostupná pouze pro náhled.
 
-Schválení docházky provádí vedoucí zaměstnanec na obrazovce Schválení docházky. Pro zobrazení obrazovky postupijte takto:
+Schválení docházky provádí vedoucí zaměstnanec na obrazovce Schválení docházky. Pro zobrazení obrazovky postupujte takto:
 
 - V hlavním menu aplikace vyberte Docházka **(1)** -> Schválení docházky **(2)**.
 
