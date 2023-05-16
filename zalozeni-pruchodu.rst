@@ -1,7 +1,7 @@
 
 Založení průchodu
 ======================
-Přihlášený uživatel si může založit průchod. V hlavním menu aplikace vyberte odkaz Docházka (1) -> klikněte na Založení průchodu (2).
+Přihlášený uživatel si může založit průchod. V hlavním menu aplikace vyberte odkaz Docházka **(1)** -> klikněte na Založení průchodu **(2)**.
 
 .. image:: /Img/Menu1.PNG
 
