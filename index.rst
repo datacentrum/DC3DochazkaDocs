@@ -22,4 +22,6 @@ DC 3 Docházka - Uživatelská dokumentace
    plan-dochazky-prehled
    prehled-pritomnosti
    rozvrh-smen
+   nova-osoba
+   faq
    
