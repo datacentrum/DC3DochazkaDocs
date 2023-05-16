@@ -2,6 +2,7 @@
 Můj plán docházky
 ============================
 
+.. _zobrazeni_planovaciho_kalendare:
 Zobrazení plánovacího kalendáře
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -45,6 +46,7 @@ Každy přihlašený uživatel může zobrazit vlastní plánovací kalednář s
 
 - Uživatel si může změnit zobrazení kalendáře. Kliknutím na Měsíc/Týden/Den/Agenda **(5)** lze změnit zobrazení kalendáře.
 
+.. _prehled_dochazkovych_udalosti:
 Přehled docházkových událostí
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Každý přihlašený uživatel může zobrazit přehled všech svých docházkových událostí formou tabulky. Na obrazovce Plán docházkových událostí vyberte založku **Přehled událostí(1)**.  Kliknutím na záložku **Přehled událostí (1)** se zobrazí přehled všech docházkových událostí. Jednotlivé stavy událostí jsou od sebe barevně odlišeny.
@@ -69,7 +71,7 @@ Každý přihlašený uživatel může zobrazit přehled všech svých docházko
 
 Panel zůstatků
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-V planovácím kalendáři docházkových události je dostupná tabulka zůstatků. Postup zobrazení planovácího kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. 
+V planovácím kalendáři docházkových události je dostupná tabulka zůstatků. Postup zobrazení planovácího kalendáře je vysvětlen v kapitole :ref:`zobrazeni_planovaciho_kalendare`. 
 
 .. image:: /Img/Zustatky3.PNG
 
@@ -93,7 +95,7 @@ Zůstatky čerpání události plánu docházky lze zobrazit kliknutím na ikonu
 
 Založení nové události
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Založit novou událost lze v kalendáři docházkových událostí. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na tlačítko **+ Nová událost (1)**. 
+Založit novou událost lze v kalendáři docházkových událostí. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`zobrazeni_planovaciho_kalendare`. V kalendáři docházkových událostí klikněte na tlačítko **+ Nová událost (1)**. 
 
 .. image:: /Img/Kalendar3.PNG
 
@@ -125,7 +127,7 @@ Ve formuláři vyplňte:
 
 Generování události
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Generovat události plánu docházky lze v kalendáři docházkových událostí. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na šipku za tlačítkem + Nová událost **(1)** a vyberte **Generovat události (2)**.
+Generovat události plánu docházky lze v kalendáři docházkových událostí. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`zobrazeni_planovaciho_kalendare`. V kalendáři docházkových událostí klikněte na šipku za tlačítkem + Nová událost **(1)** a vyberte **Generovat události (2)**.
 
 .. image:: /Img/Kalendar5.PNG
 
@@ -157,7 +159,7 @@ Ve formuláři vyplňte:
 
 Popis stavů událostí
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Každá docházková událost má jeden ze čtyř stavů:
+Každá docházková událost má jeden z pěti stavů:
 
 1. Plán (v kalendáři docházkových událostí je zobrazená modrou barvou). Událost je pouze plánovaná uživatelem, vedoucímu nebyla zatím odeslána žádost o schválení.
 
@@ -167,11 +169,11 @@ Každá docházková událost má jeden ze čtyř stavů:
 
 4. Zamítnuto (v kalendáři docházkových událostí je zobrazená červenou barvou). Událost, kterou zamítl nadřízený
 
-*5.Žádost o zrušení schválení odeslána*
+5.Žádost o zrušení schválení odeslána (v kalendáři docházkových událostí je zobrazená fialovou barvou).  U takto označené události již byla odeslána žádost o zrušení schválení a čeká se na rozhodnutí vedoucího (např. zrušení schválené dovolené).
 
 Odeslání žádosti ke schválení
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-V kalendáři docházkových událostí lze odeslat žádost o schválení události. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na událost ve stavu "Plán" **(1)** - v kalendáři je zobrazená modrou barvou.
+V kalendáři docházkových událostí lze odeslat žádost o schválení události. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`zobrazeni_planovaciho_kalendare`. V kalendáři docházkových událostí klikněte na událost ve stavu "Plán" **(1)** - v kalendáři je zobrazená modrou barvou.
 
 .. image:: /Img/Kalendar4.PNG
 
@@ -183,7 +185,7 @@ Pro odeslání žádosti ke schválení klikněte na tlačítko **Odeslat žádo
 
 Samoschvalitelné události
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Některé události plánu docházky nevyžadují schválení vedoucího, např. nemoc nebo osobní překážka v práci. Tyto události zaměstnanec může schválit sám v kalendáři docházkových událostí. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na událost "Nemoc" ve stavu "Plán" **(1)** - v kalendáři je zobrazená modrou barvou.
+Některé události plánu docházky nevyžadují schválení vedoucího, např. nemoc nebo osobní překážka v práci. Tyto události zaměstnanec může schválit sám v kalendáři docházkových událostí. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`zobrazeni_planovaciho_kalendare`. V kalendáři docházkových událostí klikněte na událost "Nemoc" ve stavu "Plán" **(1)** - v kalendáři je zobrazená modrou barvou.
 
 .. image:: /Img/Kalendar6.PNG
 
@@ -195,7 +197,7 @@ Pro schválení události klikněte na tlačítko **Schválit událost**. Kliknu
 
 Smazání události
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-V kalendáři docházkových událostí lze smazat událost. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`plan_dochazky_osoby`. V kalendáři docházkových událostí klikněte na událost, kterou potřebujete odstranit **(1)**. 
+V kalendáři docházkových událostí lze smazat událost. Posup zobrazení kalendáře je vysvětlen v kapitole :ref:`zobrazeni_planovaciho_kalendare`. V kalendáři docházkových událostí klikněte na událost, kterou potřebujete odstranit **(1)**. 
 
 .. note:: Odstranit docházkovou událost lze pouze ve stavu „Plán“, „Žádost odeslána“ nebo „Zamítnuto“.
 
