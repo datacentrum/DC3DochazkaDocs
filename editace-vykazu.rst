@@ -6,7 +6,7 @@ Editace výkazu docházky
 
 Pro editaci výkazu docházky postupujte takto:
 
-- V přehledu osob výkazu docházky vyberte požadovaného zaměstnance. Postup zobrazení tabulky je vysvětlen v kapitole :ref:`tabulka_mesicniho_vykazu`. Kliknutím na jméno osoby se zobrazí měsíční výkaz docházky osoby.
+- V přehledu osob výkazu docházky vyberte požadovaného zaměstnance. Postup zobrazení tabulky je vysvětlen v kapitole :doc:`Výkaz docházky (přehledová tabulka) <vykaz-dochazky-prehled>. Kliknutím na jméno osoby se zobrazí měsíční výkaz docházky osoby.
 
 .. image:: /Img/Vykaz5.PNG
 
