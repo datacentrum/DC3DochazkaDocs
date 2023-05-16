@@ -16,4 +16,8 @@ Kliknutím na jméno zaměstnance v přehledové tabulce **(3)** se zobrazí mě
 
 .. image:: /Img/Prehled2.PNG
 
-Z přehledu osob výkazu docházky lze přejít na plán docházky osoby nebo na schválení docházky osoby. Pro přechod na plán docházky klikněte na šipku za jménem osoby a pak **Přejít na plán docházky osoby**. Pro přechod na schválení docházky klikněte na šipku za jménem osoby a pak **Přejít na schválení docházky osoby**.
+Z přehledu osob výkazu docházky lze přejít na plán docházky osoby nebo na schválení docházky osoby:
+
+- Pro přechod na plán docházky klikněte na šipku za jménem osoby a pak **Přejít na plán docházky osoby**. 
+
+- Pro přechod na schválení docházky klikněte na šipku za jménem osoby a pak **Přejít na schválení docházky osoby**.
