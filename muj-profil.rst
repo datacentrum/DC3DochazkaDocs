@@ -58,6 +58,10 @@ Pokud heslo ke svému účtu znáte a chcete ho změnit, postupujte takto:
 
 .. note:: Zapamatujte si nové heslo a nikdy nikomu nesdělujte přihlašovací údaje k vašemu uživatelskému účtu.
 
+Nastavení zástupu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. note:: TODO: Doplnit
+
 Odhlášení z aplikace
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Pro odhlášení z aplikace postupujte takto:
