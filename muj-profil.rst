@@ -85,6 +85,8 @@ Pro nastavení zástupu postupujte takto:
 
 .. image:: /Img/Nastroje8.PNG
 
+5. Kliknutím na tlačítko **Upravit (8)** lze zástupce nebo plátnost upravit. Kliknutím se zobrazí formulář Detail zástupce. Postup pro editaci je stejný jako pro založení zástupce.
+
 Odhlášení z aplikace
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Pro odhlášení z aplikace postupujte takto:
