@@ -81,6 +81,8 @@ Pro nastavení zástupu postupujte takto:
 
 .. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
 
+.. note:: Zástupce bude mít stejná oprávnění jako uživatel, kterého zastupuje!
+
 4. Pro odstranění zástupce vyberte zástupce v tabulce **(5)** a klikněte na **Nástroje (6)** a pak **Odstranit (7)**.
 
 .. image:: /Img/Nastroje8.PNG
