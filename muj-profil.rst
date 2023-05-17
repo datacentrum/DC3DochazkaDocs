@@ -60,7 +60,30 @@ Pokud heslo ke svému účtu znáte a chcete ho změnit, postupujte takto:
 
 Nastavení zástupu
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: TODO: Doplnit
+
+.. note:: Vedoucí zaměstnanec může nastavit zástupce (nebo více zástupců) na určitou dobu, např. po dobu nepřítomnosti během dovolené.
+
+Zástup může nastavit přihlašený uživatel. Přihlaste se do aplikace pomocí Vaších přihlašovacích údajů. Postup přihlášení je vysvětlen v kapitole :doc:`Přihlášení do aplikace <prihlaseni>`.
+
+Pro nastavení zástupu postupujte takto:
+
+1.  Na horní liště klikněte na Vaše jméno nebo šipku vpravo od jména **(1)**.
+
+.. image:: /Img/NastaveniZastupcu1.PNG
+
+2. Z rozbalovacího seznamu vyberte **Nastavení zástupců (2)**. Kliknutím na **Nastavení zástupců** se zobrazí obrazovka pro nastavení zástupců
+
+.. image:: /Img/NastaveniZastupcu2.PNG
+
+3. Pro přidání zástupce klikněte na tlačítko **+Přidat zástupce (3)**. Kliknutím se zobrazí formulář Detail zástupce, kde je nutné vybrat zástupce, přidat poznámku (nepoviný údaj) a vybrat platnost od/do - datum kdy bude zástupce nastaven. Uložit zástupce lze pomocí tlačítka **Uložit (4)**. Nový zástupce se zobrazí v tabulce Zástupci. Kliknutím na tlačítko Storno se vrátite zpět k tabulce Zástupci, ale nový zástupce nebude uložen.
+
+.. image:: /Img/NastaveniZastupcu3.PNG
+
+.. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
+
+4. Pro odstranění zástupce vyberte zástupce v tabulce **(5)** a klikněte na **Nástroje (6)** a pak **Odstranit (7)**.
+
+.. image:: /Img/Nastroje8.PNG
 
 Odhlášení z aplikace
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
