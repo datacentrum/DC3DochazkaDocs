@@ -3,6 +3,9 @@ Schválení mojí docházky
 
 .. note:: Schvalování docházky osoby provádí vedoucí zaměstnanec. Pro podřízeného zaměstnance je obrazovka Schválení docházky dostupná pouze pro náhled.
 
+.. obrazovka_schvaleni_dochazky:
+Zobrazeni obrazovky Schválení docházky
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Schválení docházky provádí vedoucí zaměstnanec na obrazovce Schválení docházky. Pro zobrazení obrazovky postupujte takto:
 
 - V hlavním menu aplikace vyberte Docházka **(1)** -> Schválení docházky **(2)**.
@@ -79,4 +82,28 @@ Schválit docházku zaměstnance lze kliknutím na tlačítko **Schválit (4)**.
 
 Odeslání do mezd
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-.. note:: TODO: Doplnit
+
+.. note:: Odeslání docházky do mezd povádí uživatel s nastaveným oprávněním, které umožňuje odeslání do mezd.
+
+.. note:: Odeslat do mezd lze pouze schválenou docházku!
+
+Odeslání docházky do mezd lze provest na obrazovce Schválení docházky -> přehledová tabulka: Přehled osob schválení docházky.
+Zobrazení obrazovky je vysvětleno v kapitole :ref:`obrazovka_schvaleni_dochazky`.
+
+.. image:: /Img/SchvaleniDochazky5.PNG
+
+Pro odeslání do mezd klikněte na tlačítko **Nástroje (1)** a pak **Odeslat do mezd (2)**. Zobrazí se formulář Odeslat docházku do mezd.
+
+.. image:: /Img/OdeslatDoMezd1.PNG
+
+Ve formuláři vyplňte:
+
+- Odeslat pouze vybrané osoby (Ano / Ne). Odeslání do mezd označených zaměstnanců (lze označit v tabulce Přehled osob schválení docházky).
+
+- Vedoucí - vyberte vedoucího zaměstnance (lze vyhledat podle jména, příjmení nebo osobního čísla).
+
+- Organizace - organizace ke které má osoba vztah definovaný. Pokud není vyplněna organizace, musí být vyplněna osoba vztažná nebo partner.
+
+- Zařazení 1,2 - zařazení zaměstnance
+
+
