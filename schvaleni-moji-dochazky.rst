@@ -106,4 +106,8 @@ Ve formuláři vyplňte:
 
 - Zařazení 1,2 - zařazení zaměstnance
 
+Dole je zobrazen počet osob k odeslání a počet neodeslaných osob. Kliknutím na tlačítko **Odeslat do mezd** docházka bude odeslána do mezd. Kliknutím na tlačítko Storno se vrátite zpět do přehledu osob schválení docházky, ale docházka do mezd nebude odeslána.
+
+
+
 
