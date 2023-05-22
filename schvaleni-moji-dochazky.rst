@@ -92,7 +92,11 @@ Zobrazení obrazovky je vysvětleno v kapitole :ref:`obrazovka_schvaleni_dochazk
 
 .. image:: /Img/SchvaleniDochazky5.PNG
 
-Pro odeslání do mezd klikněte na tlačítko **Nástroje (1)** a pak **Odeslat do mezd (2)**. Zobrazí se formulář Odeslat docházku do mezd.
+Pro odeslání do mezd klikněte na tlačítko **Nástroje (1)** a pak **Odeslat do mezd (2)**.
+
+.. image:: /Img/NastrojeMzdy1.PNG
+
+Zobrazí se formulář Odeslat docházku do mezd.
 
 .. image:: /Img/OdeslatDoMezd1.PNG
 
@@ -112,4 +116,10 @@ Z přehledové tabulky Přehled osob schválení docházky lze zobrazit **Histor
 
 .. image:: /Img/HistorieOdeslaniDoMezd1.PNG
 
-V přehledové tabulce Provedené odeslání docházky do mezd lze stornovat odeslání docházky do mezd. Pro storno odeslání vyberte z tabulky řádek, který chcete strornovat **(4)**, klikněte na tlačítko **Nástroje (5)** a pak **Storno odeslání do mezd (6)** .
+V přehledové tabulce Provedené odeslání docházky do mezd lze stornovat odeslání docházky do mezd. Pro storno odeslání vyberte z tabulky řádek, který chcete strornovat **(5)**, klikněte na tlačítko **Nástroje (6)** a pak **Storno odeslání do mezd (7)**.
+
+Storno odeslání docházky do mezd lze také provést v tabulce Přehled osob schválení docházky. Pro storno odeslání vyberte z tabulky řádek, který chcete strornovat, klikněte na tlačítko **Nástroje (1)** a pak **Storno odeslání do mezd (4)**.
+
+.. image:: /Img/SchvaleniDochazky5.PNG
+.. image:: /Img/NastrojeMzdy1.PNG
+
