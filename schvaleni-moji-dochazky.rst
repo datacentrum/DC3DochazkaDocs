@@ -85,7 +85,7 @@ Odeslání do mezd
 
 .. note:: Odeslání docházky do mezd povádí uživatel s nastaveným oprávněním, které umožňuje odeslání do mezd.
 
-.. note:: Odeslat do mezd lze pouze schválenou docházku!
+.. note:: Odeslat do mezd lze pouze schválenou docházku! V tabulce vedle jména osoby je uveden oranžový štítek: Připraveno pro mzdy.
 
 Odeslání docházky do mezd lze provest na obrazovce Schválení docházky -> přehledová tabulka: Přehled osob schválení docházky.
 Zobrazení obrazovky je vysvětleno v kapitole :ref:`obrazovka_schvaleni_dochazky`.
@@ -107,6 +107,8 @@ Ve formuláři vyplňte:
 - Zařazení 1,2 - zařazení zaměstnance
 
 Dole je zobrazen počet osob k odeslání a počet neodeslaných osob. Kliknutím na tlačítko **Odeslat do mezd** docházka bude odeslána do mezd. Kliknutím na tlačítko Storno se vrátite zpět do přehledu osob schválení docházky, ale docházka do mezd nebude odeslána.
+
+Z přehledové tabulky Přehled osob schválení docházky lze zobrazit **Historii odeslání docházky do mezd**. Pro zobrazeni klikněte na tlačítko **Nástroje (1)** a pak **Historie odeslání do mezd (3)**
 
 
 
