@@ -108,8 +108,8 @@ Ve formuláři vyplňte:
 
 Dole je zobrazen počet osob k odeslání a počet neodeslaných osob. Kliknutím na tlačítko **Odeslat do mezd** docházka bude odeslána do mezd. Kliknutím na tlačítko Storno se vrátite zpět do přehledu osob schválení docházky, ale docházka do mezd nebude odeslána.
 
-Z přehledové tabulky Přehled osob schválení docházky lze zobrazit **Historii odeslání docházky do mezd**. Pro zobrazeni klikněte na tlačítko **Nástroje (1)** a pak **Historie odeslání do mezd (3)**
+Z přehledové tabulky Přehled osob schválení docházky lze zobrazit **Historii odeslání docházky do mezd**. Pro zobrazeni klikněte na tlačítko **Nástroje (1)** a pak **Historie odeslání do mezd (3)**.
 
+.. image:: /Img/HistorieOdeslaniDoMezd1.PNG
 
-
-
+V přehledové tabulce Provedené odeslání docházky do mezd lze stornovat odeslání docházky do mezd. Pro storno odeslání vyberte z tabulky řádek, který chcete strornovat **(4)**, klikněte na tlačítko **Nástroje (5)** a pak **Storno odeslání do mezd (6)** .
