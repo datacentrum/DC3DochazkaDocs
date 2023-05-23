@@ -6,8 +6,7 @@ Založení nového zaměstnance
   :local:
   :depth: 2
   
-.. warning:: TODO: Napsat že následující kapitoly jsou relevantní pouze pokud se osoby do docházky zadávají ručně a neprobíhá jejich synchronizace se HR systémem.
-  
+.. note:: Následující kapitoly jsou relevantní pouze pokud se osoby do docházky zadávají ručně a neprobíhá jejich synchronizace se HR systémem.
   
 Základní údaje
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
