@@ -89,6 +89,10 @@ Pro nastavení zástupu postupujte takto:
 
 5. Kliknutím na tlačítko **Upravit (8)** lze zástupce nebo plátnost upravit. Kliknutím se zobrazí formulář Detail zástupce. Postup pro editaci je stejný jako pro založení zástupce.
 
+Po nastavení zástupce se v aplikaci zobrazí řádek s informaci o tom, že zástupce je nastaven.
+
+.. image:: /Img/ZastupNastaven1.PNG
+
 Odhlášení z aplikace
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Pro odhlášení z aplikace postupujte takto:
