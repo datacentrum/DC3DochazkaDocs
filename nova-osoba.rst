@@ -6,10 +6,34 @@ Založení nového zaměstnance
   :local:
   :depth: 2
   
-.. note:: Následující kapitoly jsou relevantní pouze pokud se osoby do docházky zadávají ručně a neprobíhá jejich synchronizace se HR systémem.
+.. note:: Následující kapitoly jsou relevantní pouze pokud se osoby do docházky zadávají ručně a neprobíhá jejich synchronizace s HR systémem.
   
 Základní údaje
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Založit novou osobu umožňuje průvodce pro založení nové osoby. Zobrazení průvodce se provede z hlavního menu aplikace -> odkaz Osoby **(1)** -> kliknutím na Osoby **(2)**.
+
+.. image:: /Img/NovaOsoba1.PNG
+
+Zobrazí se obrazovka Osoby s přehledem vztahu osob. V záhlaví tabulky klikněte na tlačítko **+Nová osoba (3)**.
+
+.. image:: /Img/NovaOsoba2.PNG
+
+Kliknutím se zobrazí průvodce pro založení nové osoby:
+
+1. V prvním kroku zadejte Jméno a Příjmení (povinné údaje) a klikněte na tlačítko **Další**. Kliknutím na tlačítko Storno se vrátite zpět na přehled vztahů osob, ale nová osoba nebude uložena.
+
+.. image:: /Img/ZalozeniOsoby1.PNG
+
+2. Ve druhém kroku zadejte e-mailovou adresu osoby a klikněte na tlačítko **Další**. Kliknutím na tlačítko Storno se vrátite zpět na přehled vztahů osob, ale nová osoba nebude uložena. Kliknutím na šipku zpět **(4)** se vrátite o krok zpět k zadání jména a příjmení.
+
+.. image:: /Img/ZalozeniOsoby2.PNG
+
+3. Ve třetím kroku je nutno vybrat z číselníku typ vztahu (např. pracovněprávní vztah), organizaci, zadat datum nástupu, vybraz z číselníku typ vztahu (např. hlavní pracovní poměr), zadat osobní číslo osoby (poličko Číslo PPV) a zaškrtnout poličko **Zpracování docházky (5)**. Pro uložení osoby klikněte na tlačítko **Dokončit**. Kliknutím na tlačítko Storno se vrátite zpět na přehled vztahů osob, ale nová osoba nebude uložena. Kliknutím na šipku zpět **(6)** se vrátite o krok zpět k zadání jména a příjmení.
+
+.. image:: /Img/ZalozeniOsoby3.PNG
+
+
+
 .. warning:: TODO:  Napsat jak se spustí průvodce pro založení nové osoby (Osoby -> Nová osoba) a že pro docházku jsou potřebné údaje: Jméno, Příjmení, Email, Osobní číslo, Datum nástupu, Vybrat typ vztahu osoby (Pracovní poměr) 
 
 Údaje o pracovním poměru
