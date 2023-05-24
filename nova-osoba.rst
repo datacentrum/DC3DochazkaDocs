@@ -28,9 +28,11 @@ Kliknutím se zobrazí průvodce pro založení nové osoby:
 
 .. image:: /Img/ZalozeniOsoby2.PNG
 
-3. Ve třetím kroku je nutno vybrat z číselníku typ vztahu (např. pracovněprávní vztah), organizaci, zadat datum nástupu, vybraz z číselníku typ vztahu (např. hlavní pracovní poměr), zadat osobní číslo osoby (poličko Číslo PPV) a zaškrtnout poličko **Zpracování docházky (5)**. Pro uložení osoby klikněte na tlačítko **Dokončit**. Kliknutím na tlačítko Storno se vrátite zpět na přehled vztahů osob, ale nová osoba nebude uložena. Kliknutím na šipku zpět **(6)** se vrátite o krok zpět k zadání jména a příjmení.
+3. Ve třetím kroku je nutno vybrat z číselníku typ vztahu (např. pracovněprávní vztah), organizaci, zadat datum nástupu, vybraz z číselníku typ vztahu (např. hlavní pracovní poměr), zadat číslo vztahu, osobní číslo osoby (poličko Číslo PPV) a zaškrtnout poličko **Zpracování docházky (5)**. Pro uložení osoby klikněte na tlačítko **Dokončit**. Kliknutím na tlačítko Storno se vrátite zpět na přehled vztahů osob, ale nová osoba nebude uložena. Kliknutím na šipku zpět **(6)** se vrátite o krok zpět k zadání e-mailové adresy.
 
 .. image:: /Img/ZalozeniOsoby3.PNG
+
+.. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
 
 
 
