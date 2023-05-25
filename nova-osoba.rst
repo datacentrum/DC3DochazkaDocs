@@ -36,7 +36,7 @@ Kliknutím se zobrazí průvodce pro založení nové osoby:
 
 Údaje o pracovním poměru
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Údaje o pracovním poměru lze zobrazit z detailu osoby. Pro zobrazení postupijte takto:
+Údaje o pracovním poměru lze zobrazit z detailu osoby. Pro zobrazení postupujte takto:
 
 1. Na obrazovce Osoby s přehledem vztahů osob klikněte na jméno osoby u které chcete zobrazit údaje o racovním poměru.
 
