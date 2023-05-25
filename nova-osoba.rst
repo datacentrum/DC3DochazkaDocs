@@ -36,6 +36,15 @@ Kliknutím se zobrazí průvodce pro založení nové osoby:
 
 Údaje o pracovním poměru
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Údaje o pracovním poměru lze zobrazit z detailu osoby. Pro zobrazení postupijte takto:
+
+1. Na obrazovce Osoby s přehledem vztahů osob klikněte na jméno osoby u které chcete zobrazit údaje o racovním poměru.
+
+.. image:: /Img/UdajeOPM1.PNG
+
+2. 
+
+
 .. warning:: TODO:  Popsat políčka Datum nástupu, Datum výstupu, Checkbox zpracování docházky, Zařazení vztahu osoby, Vynětí
 
 Úvazek
