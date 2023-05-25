@@ -62,6 +62,8 @@ Kliknutím se zobrazí průvodce pro založení nové osoby:
 
 - Zapisovat průchody pro tento vztah osoby **(6)** - přepínač (nabývá hodnoty Ano/ Ne), který určuje, jestli budou zapisovány průchody osoby.
 
+- Pro uložení změn klikněte na tlačítko **Uložit**
+
 
 
 .. warning:: TODO:  Popsat políčka Datum nástupu, Datum výstupu, Checkbox zpracování docházky, Zařazení vztahu osoby, Vynětí
