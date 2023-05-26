@@ -64,7 +64,11 @@ Kliknutím se zobrazí průvodce pro založení nové osoby:
 
 - Pro uložení změn klikněte na tlačítko **Uložit**
 
-5. V přehledové tabulce Zařazení vztahu osoby lze přidat nové zařázení. Klikněte na tlačítko **+Nové zařazení (7)**. Zobrazí se formulář pro přidání zařazení vztahu osoby. Ve formuláři vyplňte zařazení, zkratku zařazení, vyberte vedoucího a zadejte datum platnosti zažazení vztahu osoby. Pro uložení klikněte na tlačíko **Uložit zařazení**. Kliknutím na tlačítko Storno se vrátite zpět na přehled zařazení vztahu osob, ale nové zařazení nebude uložene. 
+5. V přehledové tabulce Zařazení vztahu osoby lze přidat nové zařázení. Klikněte na tlačítko **+Nové zařazení (7)**. Zobrazí se formulář pro přidání zařazení vztahu osoby. 
+
+.. image:: /Img/UdajeOPM5.PNG
+
+Ve formuláři vyplňte zařazení, zkratku zařazení, vyberte vedoucího a zadejte datum platnosti zažazení vztahu osoby. Pro uložení klikněte na tlačíko **Uložit zařazení**. Kliknutím na tlačítko Storno se vrátite zpět na přehled zařazení vztahu osob, ale nové zařazení nebude uložene. 
 
 .. image:: /Img/DetailZarazeniVO1.PNG
 
@@ -72,11 +76,21 @@ Kliknutím se zobrazí průvodce pro založení nové osoby:
 
 - Pro odstranění zařazení vztahu vyberte zařazení v tabulce **(9)**, klikněte na **Nástroje (10)** a pak **Odstranit**.
 
-.. image:: /Img/UdajeOPM5.PNG
-
 .. image:: /Img/NastrojeOsoby1.PNG
 
-5. V přehledové tabulce Vynětí PPV osoby lze přidat vynětí pracovněprávního vztahu. 
+6. V přehledové tabulce Vynětí PPV osoby lze přidat vynětí pracovněprávního vztahu. Klikněte na tlačítko **+Přidat vynětí PPV (1)**. Zobrazí se formulář pro přidání vynětí pracovněprávního vztahu. 
+
+.. image:: /Img/UdajeOPM6.PNG
+
+Ve formuláři vyplňte důvod vynětí (např. mateřská dovolená, rodičovská dovolená) a datům platnosti vynětí pracovněprávního vztahu. Pro uložení klikněte na tlačíko **Uložit**. Kliknutím na tlačítko Storno se vrátite zpět na přehled vynětí PPV osoby, ale nové vynětí nebude uložene. 
+
+.. image:: /Img/DetailVynetiPPV1.PNG
+
+- Upravit vynětí pracovněprávního vztahu osoby umožňuje tlačítko **Upravit (2)**. Kliknutím se zobrazí formulář pro úpravu vynětí PPV osoby. Postup je stejný jako při založení vynětí PPV osoby.
+
+- Pro odstranění vynětí PPV osoby vyberte vynětí v tabulce **(3)**, klikněte na **Nástroje (4)** a pak **Odstranit**.
+
+.. image:: /Img/NastrojeOsoby1.PNG
 
 
 
