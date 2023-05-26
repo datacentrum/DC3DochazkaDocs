@@ -68,9 +68,14 @@ Kliknutím se zobrazí průvodce pro založení nové osoby:
 
 - Upravit zařazení vztahu osoby umožňuje tlačítko **Upravit (8)**. Kliknutím se zobrazí formulář pro úpravu zařazení vztahu osoby. Postup je stejný jako při založení zařazení vztahu osoby.
 
-- Odstranit zařazení vztahu lze kliknutím na **Nástroje (9)** a pak **Odstranit (10)**.
+- Pro odstranění zařazení vztahu vyberte zařazení v tabulce **(9)**, klikněte na **Nástroje (10)** a pak **Odstranit**.
 
 .. image:: /Img/UdajeOPM5.PNG
+
+.. image:: /Img/NastrojeOsoby1.PNG
+
+5. V přehledové tabulce Zařazení vztahu osoby lze přidat nové zařázení. 
+
 
 
 .. warning:: TODO:  Popsat políčka Datum nástupu, Datum výstupu, Checkbox zpracování docházky, Zařazení vztahu osoby, Vynětí
