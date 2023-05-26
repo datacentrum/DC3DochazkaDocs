@@ -92,10 +92,6 @@ Ve formuláři vyplňte důvod vynětí (např. mateřská dovolená, rodičovsk
 
 .. image:: /Img/NastrojeOsoby1.PNG
 
-
-
-.. warning:: TODO:  Popsat políčka Datum nástupu, Datum výstupu, Checkbox zpracování docházky, Zařazení vztahu osoby, Vynětí
-
 Úvazek
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. warning:: TODO: Popsat že pro zpracování docházky je potřeba, aby byl vyplněn úvazek (např. 40h týdně)
