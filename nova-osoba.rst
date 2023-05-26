@@ -64,6 +64,13 @@ Kliknutím se zobrazí průvodce pro založení nové osoby:
 
 - Pro uložení změn klikněte na tlačítko **Uložit**
 
+5. V přehledové tabulce Zařazení vztahu osoby lze přidat nové zařázení. Klikněte na tlačítko **+Nové zařazení (7)**. Zobrazí se formulář pro přidání zařazení vztahu osoby. Ve formuláři vyplňte zařazení, zkratku zařazení, vyberte vedoucího a zadejte datum platnosti zažazení vztahu osoby. Pro uložení klikněte na tlačíko **Uložit zařazení**. Kliknutím na tlačítko Storno se vrátite zpět na přehled zařazení vztahu osob, ale nové zařazení nebude uložene. 
+
+- Upravit zařazení vztahu osoby umožňuje tlačítko **Upravit (8)**. Kliknutím se zobrazí formulář pro úpravu zařazení vztahu osoby. Postup je stejný jako při založení zařazení vztahu osoby.
+
+- Odstranit zařazení vztahu lze kliknutím na **Nástroje (9)** a pak **Odstranit (10)**.
+
+.. image:: /Img/UdajeOPM5.PNG
 
 
 .. warning:: TODO:  Popsat políčka Datum nástupu, Datum výstupu, Checkbox zpracování docházky, Zařazení vztahu osoby, Vynětí
