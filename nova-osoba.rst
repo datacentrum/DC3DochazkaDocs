@@ -112,6 +112,7 @@ Pro zpracování docházky je potřeba, aby byl vyplněn úvazek. Doplnit údaje
 
 4. Na 
 
+
 .. warning:: TODO: Popsat že pro zpracování docházky je potřeba, aby byl vyplněn úvazek (např. 40h týdně)
 
 Přiřazení kalendáře
