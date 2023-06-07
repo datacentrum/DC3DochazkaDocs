@@ -108,8 +108,9 @@ Pro zpracování docházky je potřeba, aby byl vyplněn úvazek. Doplnit údaje
 
 .. image:: /Img/Uvazky1.PNG
 
+4. Na záložce Úvazky je tabulka s přehledem úvazků pracovně právního vztahu. V tabulce lze přidat nový úvazek. Klikněte na tlačítko **+Přidat úvazek (3)**. Zobrazí se formulář pro přidání úvazku pracovně právnvího vztahu osoby. Ve formuláři vyplňte Úvazek (hodnota skutečného denního úvazku v hodinách), Úvazek plný (hodnota plného denního úvazku v hodinách), Úvazek týdenní (hodnota týdenního úvazku v hodinách), Úvazek týdenní plný (hodnota plného týdenního úvazku v hodinách), Počet dnů úvazku týdne (počet dnů úvazku týdně pro vztah osoby), Platnost od/do (platnost úvazku).
 
-4. 
+.. image:: /Img/NovyUvazek1.PNG
 
 
 .. warning:: TODO: Popsat že pro zpracování docházky je potřeba, aby byl vyplněn úvazek (např. 40h týdně)
