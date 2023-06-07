@@ -108,10 +108,15 @@ Pro zpracování docházky je potřeba, aby byl vyplněn úvazek. Doplnit údaje
 
 .. image:: /Img/Uvazky1.PNG
 
-4. Na záložce Úvazky je tabulka s přehledem úvazků pracovně právního vztahu. V tabulce lze přidat nový úvazek. Klikněte na tlačítko **+Přidat úvazek (3)**. Zobrazí se formulář pro přidání úvazku pracovně právnvího vztahu osoby. Ve formuláři vyplňte Úvazek (hodnota skutečného denního úvazku v hodinách), Úvazek plný (hodnota plného denního úvazku v hodinách), Úvazek týdenní (hodnota týdenního úvazku v hodinách), Úvazek týdenní plný (hodnota plného týdenního úvazku v hodinách), Počet dnů úvazku týdne (počet dnů úvazku týdně pro vztah osoby), Platnost od/do (platnost úvazku). Pro uložení klikněte na tlačíko **Uložit úvazek**. Kliknutím na tlačítko Storno se vrátite zpět na přehled úvazků PPV osoby, ale nový úvazek nebude uložen. 
+4. Na záložce Úvazky je tabulka s přehledem úvazků pracovněprávního vztahu. V tabulce lze přidat nový úvazek. Klikněte na tlačítko **+Přidat úvazek (3)**. Zobrazí se formulář pro přidání úvazku pracovněprávnvího vztahu osoby. Ve formuláři vyplňte Úvazek (hodnota skutečného denního úvazku v hodinách), Úvazek plný (hodnota plného denního úvazku v hodinách), Úvazek týdenní (hodnota týdenního úvazku v hodinách), Úvazek týdenní plný (hodnota plného týdenního úvazku v hodinách), Počet dnů úvazku týdne (počet dnů úvazku týdně pro vztah osoby), Platnost od/do (platnost úvazku). Pro uložení klikněte na tlačíko **Uložit úvazek**. Kliknutím na tlačítko Storno se vrátite zpět na přehled úvazků PPV osoby, ale nový úvazek nebude uložen. 
 
 .. image:: /Img/NovyUvazek1.PNG
 
+- Upravit úvazek pracovněprávního vztahu osoby umožňuje tlačítko **Upravit (4)**. Kliknutím se zobrazí formulář pro úpravu úvazku. Postup je stejný jako při založení úvazku PPV osoby.
+
+- Pro odstranění úvazku pracovněprávního vztahu osoby vyberte úvazek v tabulce **(5)**, klikněte na **Nástroje (6)** a pak **Odstranit**.
+
+.. image:: /Img/NastrojeOsoby1.PNG
 
 .. warning:: TODO: Popsat že pro zpracování docházky je potřeba, aby byl vyplněn úvazek (např. 40h týdně)
 
