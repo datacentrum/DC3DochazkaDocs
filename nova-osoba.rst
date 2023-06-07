@@ -100,6 +100,17 @@ Pro zpracování docházky je potřeba, aby byl vyplněn úvazek. Doplnit údaje
 
 .. image:: /Img/UdajeOPM1.PNG
 
+2. V detailu osoby klikněte na záložku **Vztahy osoby (1)**. Zobrazí se tabulka s přehledem vztahů osoby
+
+.. image:: /Img/UdajeOPM2.PNG
+
+3. Vyberte vztah osoby **(2)**. Kliknutím se zobrazí detail vztahu osoby, který obsahuje 7 záložek: Základní údaje, Úvazky, Docházka, Nároky / zůstatky docházkových událostí, Dokumenty, Organigram / Údaje v organigramu, Poznámky.
+
+.. image:: /Img/UdajeOPM3.PNG
+
+.. image:: /Img/UdajeOPM4.PNG
+
+4. Na 
 
 .. warning:: TODO: Popsat že pro zpracování docházky je potřeba, aby byl vyplněn úvazek (např. 40h týdně)
 
