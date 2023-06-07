@@ -94,6 +94,13 @@ Ve formuláři vyplňte důvod vynětí (např. mateřská dovolená, rodičovsk
 
 Úvazek
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Pro zpracování docházky je potřeba, aby byl vyplněn úvazek. Doplnit údaje o úvazku lze z detailu osoby. Pro zobrazení postupujte takto:
+
+1. Na obrazovce Osoby s přehledem vztahů osob klikněte na jméno osoby u které chcete zobrazit úvazek. Kliknutím se zobrazí Detail osoby - záložka základní údaje.
+
+.. image:: /Img/UdajeOPM1.PNG
+
+
 .. warning:: TODO: Popsat že pro zpracování docházky je potřeba, aby byl vyplněn úvazek (např. 40h týdně)
 
 Přiřazení kalendáře
