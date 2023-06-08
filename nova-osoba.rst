@@ -118,10 +118,26 @@ Pro zpracování docházky je potřeba, aby byl vyplněn úvazek. Doplnit údaje
 
 .. image:: /Img/NastrojeOsoby1.PNG
 
-.. warning:: TODO: Popsat že pro zpracování docházky je potřeba, aby byl vyplněn úvazek (např. 40h týdně)
-
 Přiřazení kalendáře
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Pro zpracování docházky je potřeba, aby byl přiřazen kalendář. Přiřadit kalendář lze z detailu osoby. Pro zobrazení postupujte takto:
+
+1. Na obrazovce Osoby s přehledem vztahů osob klikněte na jméno osoby u které chcete zobrazit (nebo přiřadit) kalendář. Kliknutím se zobrazí Detail osoby - záložka základní údaje.
+
+.. image:: /Img/UdajeOPM1.PNG
+
+2. V detailu osoby klikněte na záložku **Vztahy osoby (1)**. Zobrazí se tabulka s přehledem vztahů osoby
+
+.. image:: /Img/UdajeOPM2.PNG
+
+3. Vyberte vztah osoby **(2)**. Kliknutím se zobrazí detail vztahu osoby, který obsahuje 7 záložek: Základní údaje, Úvazky, Docházka, Nároky / zůstatky docházkových událostí, Dokumenty, Organigram / Údaje v organigramu, Poznámky. Vyberte záložku Úvazky.
+
+.. image:: /Img/DochazkaKalendar1.PNG
+
+
+
+
+
 .. warning:: TODO: Popsat že pro zpracování docházky je potřeba, aby byl přiřazen kalendář.
 
 Nastavení zůstatků dovolené
