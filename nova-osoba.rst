@@ -138,6 +138,11 @@ Pro zpracování docházky je potřeba, aby byl přiřazen kalendář. Přiřadi
 
 .. image:: /Img/NovyKalendar1.PNG
 
+- Upravit přiřazení pracovního kalendáře umožňuje tlačítko **Upravit (4)**. Kliknutím se zobrazí formulář pro úpravu přiřazení pracovního kalendáře. Postup je stejný jako při přiřazení nového pracovního kalendáře.
+
+- Pro odstranění pracovního kalendáře vyberte kalendář v tabulce **(5)**, klikněte na **Nástroje (6)** a pak **Odstranit**.
+
+.. image:: /Img/NastrojeOsoby1.PNG
 
 
 .. warning:: TODO: Popsat že pro zpracování docházky je potřeba, aby byl přiřazen kalendář.
