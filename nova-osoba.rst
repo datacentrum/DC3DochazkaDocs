@@ -148,9 +148,6 @@ Pro zpracování docházky je potřeba, aby byl přiřazen kalendář. Přiřadi
 
 .. image:: /Img/NastrojeOsoby1.PNG
 
-
-.. warning:: TODO: Popsat že pro zpracování docházky je potřeba, aby byl přiřazen kalendář.
-
 Nastavení zůstatků dovolené
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. warning:: TODO: Popsat že pro zpracování docházky je potřeba nastavit zůstatek dovolené.
