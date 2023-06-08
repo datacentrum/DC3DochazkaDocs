@@ -130,11 +130,13 @@ Pro zpracování docházky je potřeba, aby byl přiřazen kalendář. Přiřadi
 
 .. image:: /Img/UdajeOPM2.PNG
 
-3. Vyberte vztah osoby **(2)**. Kliknutím se zobrazí detail vztahu osoby, který obsahuje 7 záložek: Základní údaje, Úvazky, Docházka, Nároky / zůstatky docházkových událostí, Dokumenty, Organigram / Údaje v organigramu, Poznámky. Vyberte záložku Úvazky.
+3. Vyberte vztah osoby **(2)**. Kliknutím se zobrazí detail vztahu osoby, který obsahuje 7 záložek: Základní údaje, Úvazky, Docházka, Nároky / zůstatky docházkových událostí, Dokumenty, Organigram / Údaje v organigramu, Poznámky. Vyberte záložku Docházka.
 
 .. image:: /Img/DochazkaKalendar1.PNG
 
+4. Na záložce Docházka je tabulka s přehledem pracovních kalendářů, parametry vztahu osoby a povolení typů událostí plánu docházky. V tabulce Pracovní kalendář lze přiřadit kalendář. Klikněte na tlačítko **+Přiřadit kalendář (3)**. Zobrazí se formulář pro přiřazení pracovního kalendáře. Ve formuláři vyberte pracovní kalendář ze seznamu a zadejte datům platnosti kalendáře. Pro uložení klikněte na tlačíko **Uložit**. Kliknutím na tlačítko Storno se vrátite zpět na přehled pracovních kalendářů osoby, ale nový kalendář nebude přiřazen.
 
+.. image:: /Img/NovyKalendar1.PNG
 
 
 
