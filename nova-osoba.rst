@@ -178,7 +178,9 @@ V tabulce Zůstatky čerpání docházkové události lze nastavit zůstatky dov
 
 .. image:: /Img/DetailZustatku1.PNG
 
+- Pro odstranění nároku čerpání (např.odstranění dovolené) vyberte nárok čerpání v tabulce **(5)**, klikněte na **Nástroje (6)** a pak **Odstranit**.
 
+.. image:: /Img/NastrojeOsoby1.PNG
 
 
 
