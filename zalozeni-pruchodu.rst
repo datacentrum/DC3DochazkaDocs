@@ -34,7 +34,7 @@ Založení příchodu
 
 Založení odchodu
 ^^^^^^^^^^^^^^^^^^^^^^
-- Pro založení normálního odchodu klikněte na tlačítko **Normální odchod (6)**.
+- Pro založení normálního odchodu klikněte na tlačítko **Normální odchod (7)**.
 - Pro založení služebního odchodu klikněte na šipku **(8)** a pak **Služební odchod (11)**.
 
 .. image:: /Img/PrichodOdchod1.PNG
