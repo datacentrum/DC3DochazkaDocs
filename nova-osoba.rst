@@ -164,15 +164,18 @@ Pro zpracování docházky je potřeba nastavit zůstatek dovolené. Nastavit z�
 
 .. image:: /Img/ZustatekDovolene1.PNG
 
-4. Na záložce Nároky/zůstatky docházkových událostí je tabulka s přehledem nároků čerpání docházkových událostí. V tabulce lze přidat nárok na dovolenou. Klikněte na tlačítko **+Přidat nárok (3)**. Zobrazí se obrazovka Nový nárok čerpání pro přidání nároku čerpání docházkové údálosti (např. dovolené). Na obrazovce vyberte z rozbalovacího seznamu nárok čerpání (např. dovolená), zadejte datům platnosti od/do nároku čerpání, vyberte typ čerpání nároku (dny nebo doba) a vyplňte počet dnů nebo hodin. ro uložení klikněte na tlačíko **Uložit**. Kliknutím na tlačítko Zpět se vrátite zpět na přehled nároků čerpáníale, ale nový nárok nebude uložen.
+4. Na záložce Nároky/zůstatky docházkových událostí je tabulka s přehledem nároků čerpání docházkových událostí. V tabulce lze přidat nárok na dovolenou. Klikněte na tlačítko **+Přidat nárok (3)**. Zobrazí se obrazovka Nový nárok čerpání pro přidání nároku čerpání docházkové údálosti (např. dovolené). Na obrazovce vyberte z rozbalovacího seznamu nárok čerpání (např. dovolená), zadejte datům platnosti od/do nároku čerpání, vyberte typ čerpání nároku (dny nebo doba) a vyplňte počet dnů nebo hodin. Pro uložení klikněte na tlačíko **Uložit**. Kliknutím na tlačítko Zpět se vrátite zpět na přehled nároků čerpáníale, ale nový nárok nebude uložen.
 
 .. image:: /Img/ZustatekDovolene2.PNG
 
-- Upravit nárok lze kliknutím na nárok v čerpání v tabulce **(4)**. Po kliknutí se zobrazí obrazovka Detail nároku čerpání docházkové události, kde lze nárok upravit. V tabulce Zůstatky čerpání docházkové události lze nastavit zůstatky dovolené k vybranému měsíci.
+- Upravit nárok lze kliknutím na nárok čerpání v tabulce **(4)**. Po kliknutí se zobrazí obrazovka Detail nároku čerpání docházkové události, kde lze nárok upravit. 
 
 .. image:: /Img/ZustatekDovolene3.PNG
 
+V tabulce Zůstatky čerpání docházkové události lze nastavit zůstatky dovolené k vybranému měsíci. Pro nastavení zůstatků klikněte na tlačítko **Upravit**. Kliknutím se zobrazí detail zůstatku čerpání, kde lze zůstatek upravit. Pro uložení klikněte na tlačíko **Uložit**. Kliknutím na tlačítko Storno se vrátite zpět na přehled zůstatků, ale změny zůstatku nebudou uložené.
+
 .. image:: /Img/ZustatekDovolene4.PNG
+
 
 
 Přihlašovací účet
