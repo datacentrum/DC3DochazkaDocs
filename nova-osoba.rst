@@ -176,6 +176,10 @@ V tabulce Zůstatky čerpání docházkové události lze nastavit zůstatky dov
 
 .. image:: /Img/ZustatekDovolene4.PNG
 
+.. image:: /Img/DetailZustatku1.PNG
+
+
+
 
 
 Přihlašovací účet
