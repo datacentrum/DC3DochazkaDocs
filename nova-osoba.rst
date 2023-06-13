@@ -134,10 +134,6 @@ Pro zpracování docházky je potřeba, aby byl přiřazen kalendář. Přiřadi
 
 .. image:: /Img/DochazkaKalendar1.PNG
 
-.. image:: /Img/DochazkaKalendar2.PNG
-
-.. image:: /Img/DochazkaKalendar3.PNG
-
 4. Na záložce Docházka je tabulka s přehledem pracovních kalendářů, parametry vztahu osoby a povolení typů událostí plánu docházky. V tabulce Pracovní kalendář lze přiřadit kalendář. Klikněte na tlačítko **+Přiřadit kalendář (3)**. Zobrazí se formulář pro přiřazení pracovního kalendáře. Ve formuláři vyberte pracovní kalendář ze seznamu a zadejte datům platnosti kalendáře. Pro uložení klikněte na tlačíko **Uložit**. Kliknutím na tlačítko Storno se vrátite zpět na přehled pracovních kalendářů osoby, ale nový kalendář nebude přiřazen.
 
 .. image:: /Img/NovyKalendar1.PNG
