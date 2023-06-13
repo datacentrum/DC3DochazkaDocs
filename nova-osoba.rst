@@ -168,7 +168,7 @@ Pro zpracování docházky je potřeba nastavit zůstatek dovolené. Nastavit z�
 
 .. image:: /Img/ZustatekDovolene2.PNG
 
-
+- Upravit nárok čerpání lze kliknutím na nárok v čerpání v tabulce **(4)**. Po kliknutí se zobrazí obrazovka Detail nároku čerpání docházkové události, kde lze nárok upravit. V tabulce Zůstatky čerpání docházkové události lze nastavit zůstatky dovolené k vybranému měsíci.
 
 
 
