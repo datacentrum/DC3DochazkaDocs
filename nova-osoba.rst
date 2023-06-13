@@ -198,7 +198,7 @@ Založení přihlašovacího účtu (případně změnu) lze provést z detailu 
 
 .. image:: /Img/ZalozeniUzivatele1.PNG
 
-4. Založit přihlašovací účet umožňuje tlačítko **+Nový přihlašovací účet**. Kliknutím se zobrazí formulář pro přidání přihlašovacího účtu.
+4. Založit přihlašovací účet umožňuje tlačítko **+Nový přihlašovací účet (3)**. Kliknutím se zobrazí formulář pro přidání přihlašovacího účtu.
 
 .. image:: /Img/NovyPrihlasovaciUcet1.PNG
 
@@ -206,4 +206,6 @@ Založení přihlašovacího účtu (případně změnu) lze provést z detailu 
 
 .. image:: /Img/NovyPrihlasovaciUcet2.PNG
 
-.. warning:: TODO: Popsat kde lze osobě přidat přihlašovací účet
+.. image:: /Img/NovyPrihlasovaciUcet3.PNG
+
+
