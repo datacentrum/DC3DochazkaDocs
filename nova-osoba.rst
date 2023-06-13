@@ -180,7 +180,30 @@ V tabulce Zůstatky čerpání docházkové události lze nastavit zůstatky dov
 
 .. image:: /Img/NastrojeOsoby1.PNG
 
-
 Přihlašovací účet
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Založení přihlašovacího účtu (případně změnu) lze provést z detailu osoby. Pro zobrazení postupujte takto:
+
+1. Na obrazovce Osoby s přehledem vztahů osob klikněte na jméno osoby u které chcete přidat přihlašovací účet. Kliknutím se zobrazí Detail osoby - záložka základní údaje.
+
+.. note:: V posledním sloupci tabulky je zobrazen stav - např. osoba, uživatel. Stav **Osoba** znamená, že se jedná o osobu, která nemá přihlašovací účet. Stav **Uživatel** znamená, že se jedná o uživatele se založeným přihlašovacím účtem.
+
+.. image:: /Img/PrehledVztahuOsob1.PNG
+
+2. V detailu osoby klikněte na záložku **Přihlašovací účty (1)**. Zobrazí se obrazovka pro přidání přihlašovacího účtu.
+
+.. image:: /Img/PrihlasovaciUčet1.PNG
+
+3. Na obrazovce Přihlašovací účty klikněte na tlačítko **Založit uživatele**. Zobrazí se dialog s potvrzením. Klikněte na tlačítko **Pokračovat**.
+
+.. image:: /Img/ZalozeniUzivatele1.PNG
+
+4. Založit přihlašovací účet umožňuje tlačítko **+Nový přihlašovací účet**. Kliknutím se zobrazí formulář pro přidání přihlašovacího účtu.
+
+.. image:: /Img/NovyPrihlasovaciUcet1.PNG
+
+5. Ve formuláři vyberte **Přihlášení jménem a heslem**. V dalším kroku zadejte přihlašovací jméno, heslo a potvrzení hesla. Pro uložení klikněte na tlačítko **Založit**. Kliknutím na tlačítko Storno se vrátite zpět na přehled přihlašovacích účtů, ale nový přihlašovací účet nebude uložen. 
+
+.. image:: /Img/NovyPrihlasovaciUcet2.PNG
+
 .. warning:: TODO: Popsat kde lze osobě přidat přihlašovací účet
