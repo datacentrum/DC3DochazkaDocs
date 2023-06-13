@@ -194,7 +194,7 @@ Založení přihlašovacího účtu (případně změnu) lze provést z detailu 
 
 .. image:: /Img/PrihlasovaciUčet1.PNG
 
-3. Na obrazovce Přihlašovací účty klikněte na tlačítko **Založit uživatele**. Zobrazí se dialog s potvrzením. Klikněte na tlačítko **Pokračovat**.
+3. Na obrazovce Přihlašovací účty klikněte na tlačítko **Založit uživatele (2)**. Zobrazí se dialog s potvrzením. Klikněte na tlačítko **Pokračovat**.
 
 .. image:: /Img/ZalozeniUzivatele1.PNG
 
