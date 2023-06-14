@@ -216,13 +216,16 @@ Po uložení nový uživatelský učet se objeví v přehledové tabulce Přihla
 
 .. image:: /Img/PrihlasovaciUčet2.PNG
 
-- Přihlašovací účet lze uzamknout. Klikněte na **Akce (4)** a pak **Uzamknout**.
+- Přihlašovací účet lze **uzamknout**. Klikněte na **Akce (4)** a pak **Uzamknout**.
 
-- Obnovení hesla - tím si uživatel bude moci sám bezpečným způsobem nastavit nové heslo pro vstup do systému. Odesláním žádosti nebude zablokované stávající heslo přihlašovacího účtu. Žádost nebude mít nastavenou časovou platnost. Pro odeslání žádosti o obnovu hesla klikněte na  **Akce (4)** a pak **Obnova hesla**. Kliknutím se zobrazí dialog pro potvrzení - klikněte **Pokračovat**.
+- **Obnovení hesla** - tím si uživatel bude moci sám bezpečným způsobem nastavit nové heslo pro vstup do systému. Odesláním žádosti nebude zablokované stávající heslo přihlašovacího účtu. Žádost nebude mít nastavenou časovou platnost. Pro odeslání žádosti o obnovu hesla klikněte na  **Akce (4)** a pak **Obnova hesla**. Kliknutím se zobrazí dialog pro potvrzení - klikněte **Pokračovat**.
 
 .. image:: /Img/DialogObnovaHesla1.PNG
 
 .. note:: Odeslat žádost o obnovu hesla lze pouze uživatelu s uloženou platnou e-mailovou adresou.
 
+- Přihlašovací účet lze **upravit**. Klikněte na tlačítko **Upravit (5)**. Kliknutím se zobrazí formulář pro opravu přihlašovacího účtu. Postup pro opravu je stejný jako při založení přihlašovacího účtu.
 
+- Pro **odstranění** přihlašovacího účtu vyberte účet v tabulce **(6)**, klikněte na **Nástroje (7)** a pak **Odstranit**.
 
+.. image:: /Img/NastrojeOsoby1.PNG
