@@ -212,3 +212,12 @@ Založení přihlašovacího účtu (případně změnu) lze provést z detailu 
 
 .. note:: Ve výchozím nastavení musí být heslo dlouhé minimálně 8 znaků a obsahovat velké, malé písmeno, číslo a speciální znak (např. tečka atd.). Požadavky na sílu hesla lze individuálně upravovat.
 
+Po uložení nový uživatelský učet se objeví v přehledové tabulce Přihlašovací účty.
+
+.. image:: /Img/PrihlasovaciUčet2.PNG
+
+ - Přihlašovací účet lze uzamknout. Klikněte na **Akce (4)** a pak **Uzamknout**
+
+- Pro odeslání žádosti o obnovu hesla klikněte na  **Akce (4)** a pak **Obnova hesla**
+
+
