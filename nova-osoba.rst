@@ -202,9 +202,11 @@ Založení přihlašovacího účtu (případně změnu) lze provést z detailu 
 
 .. image:: /Img/NovyPrihlasovaciUcet1.PNG
 
-5. Ve formuláři vyberte **Přihlášení jménem a heslem**. V dalším kroku zadejte přihlašovací jméno, heslo a potvrzení hesla. Zadané heslo a potvrzení hesla si navzájem musí odpovídat. Pro uložení klikněte na tlačítko **Založit**. Kliknutím na tlačítko Storno se vrátite zpět na přehled přihlašovacích účtů, ale nový přihlašovací účet nebude uložen. 
+5. Ve formuláři vyberte **Přihlášení jménem a heslem**.
 
 .. image:: /Img/NovyPrihlasovaciUcet2.PNG
+
+6. V dalším kroku zadejte přihlašovací jméno, heslo a potvrzení hesla. Zadané heslo a potvrzení hesla si navzájem musí odpovídat. Pro uložení klikněte na tlačítko **Založit**. Kliknutím na tlačítko Storno se vrátite zpět na přehled přihlašovacích účtů, ale nový přihlašovací účet nebude uložen. 
 
 .. image:: /Img/NovyPrihlasovaciUcet3.PNG
 
