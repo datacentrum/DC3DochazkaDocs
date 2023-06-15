@@ -2,6 +2,10 @@
 Editace výkazu docházky
 ================================
 
+.. contents:: V této části:
+  :local:
+  :depth: 2
+
 .. note:: Editaci výkazu docházky provádí vedoucí zaměstnanec.
 
 Pro editaci výkazu docházky postupujte takto:
