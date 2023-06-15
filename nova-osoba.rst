@@ -112,6 +112,8 @@ Pro zpracování docházky je potřeba, aby byl vyplněn úvazek. Doplnit údaje
 
 .. image:: /Img/NovyUvazek1.PNG
 
+.. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
+
 - Upravit úvazek pracovněprávního vztahu osoby umožňuje tlačítko **Upravit (4)**. Kliknutím se zobrazí formulář pro úpravu úvazku. Postup je stejný jako při založení úvazku PPV osoby.
 
 - Pro odstranění úvazku pracovněprávního vztahu osoby vyberte úvazek v tabulce **(5)**, klikněte na **Nástroje (6)** a pak **Odstranit**.
@@ -138,6 +140,8 @@ Pro zpracování docházky je potřeba, aby byl přiřazen kalendář. Přiřadi
 
 .. image:: /Img/NovyKalendar1.PNG
 
+.. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
+
 - Upravit přiřazení pracovního kalendáře umožňuje tlačítko **Upravit (4)**. Kliknutím se zobrazí formulář pro úpravu přiřazení pracovního kalendáře. Postup je stejný jako při přiřazení nového pracovního kalendáře.
 
 - Pro odstranění pracovního kalendáře vyberte kalendář v tabulce **(5)**, klikněte na **Nástroje (6)** a pak **Odstranit**.
@@ -163,6 +167,8 @@ Pro zpracování docházky je potřeba nastavit zůstatek dovolené. Nastavit z�
 4. Na záložce Nároky/zůstatky docházkových událostí je tabulka s přehledem nároků čerpání docházkových událostí. V tabulce lze přidat nárok na dovolenou. Klikněte na tlačítko **+Přidat nárok (3)**. Zobrazí se obrazovka Nový nárok čerpání pro přidání nároku čerpání docházkové údálosti (např. dovolené). Na obrazovce vyberte z rozbalovacího seznamu nárok čerpání (např. dovolená), zadejte datům platnosti od/do nároku čerpání, vyberte typ čerpání nároku (dny nebo doba) a vyplňte počet dnů nebo hodin. Pro uložení klikněte na tlačíko **Uložit**. Kliknutím na tlačítko Zpět se vrátite zpět na přehled nároků čerpání ale, ale nový nárok nebude uložen.
 
 .. image:: /Img/ZustatekDovolene2.PNG
+
+.. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
 
 - Upravit nárok lze kliknutím na nárok čerpání v tabulce **(4)**. Po kliknutí se zobrazí obrazovka Detail nároku čerpání docházkové události, kde lze nárok upravit. 
 
@@ -209,6 +215,8 @@ Založení přihlašovacího účtu (případně změnu) lze provést z detailu 
 6. V dalším kroku zadejte přihlašovací jméno, heslo a potvrzení hesla. Zadané heslo a potvrzení hesla si navzájem musí odpovídat. Pro uložení klikněte na tlačítko **Založit**. Kliknutím na tlačítko Storno se vrátite zpět na přehled přihlašovacích účtů, ale nový přihlašovací účet nebude uložen. 
 
 .. image:: /Img/NovyPrihlasovaciUcet3.PNG
+
+.. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
 
 .. note:: Ve výchozím nastavení musí být heslo dlouhé minimálně 8 znaků a obsahovat velké, malé písmeno, číslo a speciální znak (např. tečka atd.). Požadavky na sílu hesla lze individuálně upravovat.
 
