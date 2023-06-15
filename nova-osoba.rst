@@ -216,8 +216,6 @@ Založení přihlašovacího účtu (případně změnu) lze provést z detailu 
 
 .. image:: /Img/NovyPrihlasovaciUcet3.PNG
 
-.. note:: Nadpis s hvězdičkou je povinný údaj. Pro uložení je nutno vyplnit všechny povinné údaje.
-
 .. note:: Ve výchozím nastavení musí být heslo dlouhé minimálně 8 znaků a obsahovat velké, malé písmeno, číslo a speciální znak (např. tečka atd.). Požadavky na sílu hesla lze individuálně upravovat.
 
 Po uložení nový uživatelský učet se objeví v přehledové tabulce Přihlašovací účty.
