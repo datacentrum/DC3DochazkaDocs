@@ -186,7 +186,7 @@ Založení přihlašovacího účtu (případně změnu) lze provést z detailu 
 
 1. Na obrazovce Osoby s přehledem vztahů osob klikněte na jméno osoby u které chcete přidat přihlašovací účet. Kliknutím se zobrazí Detail osoby - záložka základní údaje.
 
-.. note:: V posledním sloupci tabulky je zobrazen stav - např. osoba, uživatel. Stav **Osoba** znamená, že se jedná o osobu, která nemá přihlašovací účet. Stav **Uživatel** znamená, že se jedná o uživatele se založeným přihlašovacím účtem.
+.. note:: V posledním sloupci tabulky je zobrazen stav - např. osoba, uživatel. Stav **Osoba** znamená, že se jedná o osobu, která nemá přihlašovací účet. Stav **Uživatel** znamená, že se jedná o uživatele se založeným přihlašovacím účtem (nebo uživatelu lze přihlašovací účet přidat).
 
 .. image:: /Img/PrehledVztahuOsob1.PNG
 
