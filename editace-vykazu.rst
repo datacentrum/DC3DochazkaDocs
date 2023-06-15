@@ -8,6 +8,8 @@ Editace výkazu docházky
 
 .. note:: Editaci výkazu docházky provádí vedoucí zaměstnanec.
 
+Editace výkazu docházky
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Pro editaci výkazu docházky postupujte takto:
 
 - V přehledu osob výkazu docházky vyberte požadovaného zaměstnance. Postup zobrazení tabulky je vysvětlen v kapitole :doc:`Výkaz docházky (přehledová tabulka) <vykaz-dochazky-prehled>`. Kliknutím na jméno osoby se zobrazí měsíční výkaz docházky osoby.
@@ -42,6 +44,8 @@ Ve formuláři Docházkový průchod vyplňte:
 
 Kliknutím na tlačítko **Uložit průchod** lze uložit změny v docházkovém průchodu. Kliknutím na tlačítko **Storno** se vrátite k detailu dne, ale změny v průchodu nebudou uložené.
 
+Založení nového průchodu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Založit nový průchod lze kliknutím na tlačítko **+ Přidat průchod (3)**. Kliknutím se zobrazí formulář Docházkový průchod. Postup pro vyplnění je stejný jako pro editaci průchodu.
 
 - Pro odstranění průchodu: vyberte průchod **(4)**, klikněte na tlačítko **Nástroje (5)** a pak **Odstranit (6)**
