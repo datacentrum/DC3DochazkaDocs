@@ -20,8 +20,8 @@ Kliknutím na **Datum (1)** se zobrazí detail dne, který obsahuje: průchody, 
 
 .. image:: /Img/DetailDne4.PNG
 
-Editace průchodu
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Založení, editace a odstranění průchodu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Pro editaci průchodu klikněte na tlačítko **Upravit (2)**. Kliknutím se zobrazí Docházkový průchod.
 
 .. image:: /Img/Pruchody1.PNG
@@ -44,8 +44,6 @@ Ve formuláři Docházkový průchod vyplňte:
 
 Kliknutím na tlačítko **Uložit průchod** lze uložit změny v docházkovém průchodu. Kliknutím na tlačítko **Storno** se vrátite k detailu dne, ale změny v průchodu nebudou uložené.
 
-Založení, odstranění průchodu
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Založit nový průchod lze kliknutím na tlačítko **+ Přidat průchod (3)**. Kliknutím se zobrazí formulář Docházkový průchod. Postup pro vyplnění je stejný jako pro editaci průchodu.
 
 - Pro odstranění průchodu: vyberte průchod **(4)**, klikněte na tlačítko **Nástroje (5)** a pak **Odstranit (6)**
