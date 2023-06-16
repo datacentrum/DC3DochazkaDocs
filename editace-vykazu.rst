@@ -8,8 +8,6 @@ Editace výkazu docházky
 
 .. note:: Editaci výkazu docházky provádí vedoucí zaměstnanec.
 
-Editace výkazu docházky
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Pro editaci výkazu docházky postupujte takto:
 
 - V přehledu osob výkazu docházky vyberte požadovaného zaměstnance. Postup zobrazení tabulky je vysvětlen v kapitole :doc:`Výkaz docházky (přehledová tabulka) <vykaz-dochazky-prehled>`. Kliknutím na jméno osoby se zobrazí měsíční výkaz docházky osoby.
@@ -22,6 +20,8 @@ Kliknutím na **Datum (1)** se zobrazí detail dne, který obsahuje: průchody, 
 
 .. image:: /Img/DetailDne4.PNG
 
+Editace průchodu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Pro editaci průchodu klikněte na tlačítko **Upravit (2)**. Kliknutím se zobrazí Docházkový průchod.
 
 .. image:: /Img/Pruchody1.PNG
@@ -44,7 +44,7 @@ Ve formuláři Docházkový průchod vyplňte:
 
 Kliknutím na tlačítko **Uložit průchod** lze uložit změny v docházkovém průchodu. Kliknutím na tlačítko **Storno** se vrátite k detailu dne, ale změny v průchodu nebudou uložené.
 
-Založení nového průchodu
+Založení, odstranění průchodu
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Založit nový průchod lze kliknutím na tlačítko **+ Přidat průchod (3)**. Kliknutím se zobrazí formulář Docházkový průchod. Postup pro vyplnění je stejný jako pro editaci průchodu.
 
@@ -52,6 +52,8 @@ Založení nového průchodu
 
 .. image:: /Img/Nastroje1.PNG
 
+Přidání, úprava a odstranění docházkové události
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 V tabulce Intervaly lze přidat novou událost nebo událost odstranit. Pro přidání události klikněte na tlačítko **+ Přidat událost (1)**
 
 .. image:: /Img/Intervaly1.PNG
@@ -84,6 +86,8 @@ Pro odstranění události vyberte událost **(3)** a klikněte na **Nástroje (
 
 .. image:: /Img/Nastroje2.PNG
 
+Přidání, úprava a odstranění příplatku
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Tabulka Příplatky obsahuje přehled příplatků, na které zaměstnanec má nárok. Založit nový příplatek lze kliknutím na tlačítko **+ Nový příplatek (1)**.
 
 .. image:: /Img/Priplatky1.PNG
@@ -102,10 +106,14 @@ Pro odstranění příplatku vyberte příplatek **(3)** a klikněte na **Nástr
 
 .. image:: /Img/Nastroje4.PNG
 
+Saldo
+^^^^^^^^^^^^
 Tabulka Saldo obsahuje přehled salda zaměstnance za vybrané období. Modrou barvou je zobrazené kladné saldo. Červenou barvou je odlišené záporné saldo.
 
 .. image:: /Img/Saldo1.PNG
 
+Přidání, úprava a odstranění poznámky ke dni
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Tabulka Poznámky obsahuje poznámky ke dni. Založit novou poznámku lze kliknutím na tlačítko **+ Nová poznámka (1)**. 
 
 .. image:: /Img/Poznamky1.PNG
