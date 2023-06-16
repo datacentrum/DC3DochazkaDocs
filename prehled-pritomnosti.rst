@@ -2,7 +2,14 @@
 Přehled přítomnosti
 ======================
 
+.. contents:: V této části:
+  :local:
+  :depth: 2
+  
 .. note:: Přehled přítomnosti je obrazovka užitečná pro vedoucí pracovníky nebo pro zaměstnance, co mají oprávnění přistupovat na docházky dalších osob.
+
+Zobrazení obrazovky Přehled přítomnosti
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: /Img/Pritomnost1.PNG
 
