@@ -1,6 +1,10 @@
 Schválení mojí docházky
 =========================
 
+.. contents:: V této části:
+  :local:
+  :depth: 2
+
 .. note:: Schvalování docházky osoby provádí vedoucí zaměstnanec. Pro podřízeného zaměstnance je obrazovka Schválení docházky dostupná pouze pro náhled.
 
 .. _obrazovka_schvaleni_dochazky:
