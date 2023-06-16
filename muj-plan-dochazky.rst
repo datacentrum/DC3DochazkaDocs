@@ -2,6 +2,10 @@
 Můj plán docházky
 ============================
 
+.. contents:: V této části:
+  :local:
+  :depth: 2
+
 .. _zobrazeni_planovaciho_kalendare:
 Zobrazení plánovacího kalendáře
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
