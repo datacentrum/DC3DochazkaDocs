@@ -2,6 +2,10 @@
 Schvalování údalostí docházky
 ==================================
 
+.. contents:: V této části:
+  :local:
+  :depth: 2
+
 .. note:: Schvalování údalostí docházky provádí vedoucí zaměstnanec.
 
 Vedoucí zaměstnanec je o žádostech podřízených informován formou e-mailové notifikace.
