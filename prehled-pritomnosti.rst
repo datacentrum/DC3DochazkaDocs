@@ -25,6 +25,6 @@ Z Přehledu přítomnosti lze přejít na výkaz docházky osoby, plán docházk
 
 - Pro přechod na schválení docházky klikněte na šipku za jménem osoby a pak **Přejít na schválení docházky osoby**.
 
-V tabulce Přehled přítomnosti je vedle jména osoby uvedená informace o přítomnosti: červená tečka - osoba není přítomná; modrá tečka - osoba je přítomná; šedá tečka - přítomnost osoby není známá.
+V tabulce Přehled přítomnosti je vedle jména osoby uvedená informace o přítomnosti: **červená tečka** - osoba není přítomná; **modrá tečka** - osoba je přítomná; **šedá tečka** - přítomnost osoby není známá.
 
 .. image:: /Img/Pritomnost3.PNG
