@@ -10,10 +10,11 @@ Výkaz vlastní docházky je dostupný na obrazovce **Moje docházka**. Posup zo
 
 .. note:: Výkaz docházky (přehledová tabulka) je obrazovka užitečná pro vedoucí pracovníky nebo pro zaměstnance, co mají oprávnění přistupovat na docházky dalších osob.
 
-.. image:: /Img/Vykaz3.PNG
-
 Zobrazení přehledové tabulky - Výkaz docházky
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: /Img/Vykaz3.PNG
+
 Na Výkaz docházky (přehledová tabulka) se lze dostat z hlavního menu aplikace -> Docházka **(1)** -> Výkaz docházky **(2)**. 
 
 .. image:: /Img/Prehled1.PNG
