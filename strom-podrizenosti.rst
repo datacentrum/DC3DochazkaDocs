@@ -17,7 +17,7 @@ Zobrazení stromu podřízenosti
 
 Informace o přítomnosti osoby
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-V seznamu podřízených zaměstnanců vedle jména zaměstnance je uvedena informace o přítomnosti osoby: červená tečka - osoba není přítomná; modrá tečka - osoba je přítomná; šedá tečka - přítomnost osoby není známá. Při najetí myší na tečku vedle jména, se zobrazí detail přítomnosti.
+V seznamu podřízených zaměstnanců vedle jména zaměstnance je uvedena informace o přítomnosti osoby: **červená tečka** - osoba není přítomná; **modrá tečka** - osoba je přítomná; **šedá tečka** - přítomnost osoby není známá. Při najetí myší na tečku vedle jména, se zobrazí detail přítomnosti.
 
 .. image:: /Img/StromPodrizenosti3.PNG
 
