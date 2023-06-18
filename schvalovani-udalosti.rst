@@ -8,6 +8,8 @@ Schvalování údalostí docházky
 
 .. note:: Schvalování údalostí docházky provádí vedoucí zaměstnanec.
 
+Schválení údalostí docházky z e-mailu
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Vedoucí zaměstnanec je o žádostech podřízených informován formou e-mailové notifikace.
 
 .. image:: /Img/Email1.PNG
@@ -34,6 +36,8 @@ Přímo z e-mailu může vedoucí zaměstnanec provést přechod do aplikace kli
 
 .. image:: /Img/Akce1.PNG
 
+Schválení údalostí docházky z přehledu podřízených aměstnanců
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 **Další možnost schválení docházkové údalostí:**
 
 - Vyhledat svého podřízeného v seznamu podřízených a nechat si zobrazit jeho kalendář docházkových událostí. Hlavní menu aplikace obsahuje odkaz Docházka **(1)**. Při najetí myši na odkaz se zobrazí Plán docházky **(2)**.
