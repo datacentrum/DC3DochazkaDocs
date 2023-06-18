@@ -8,6 +8,8 @@ Výkaz vlastní docházky je dostupný na obrazovce **Moje docházka**. Posup zo
 
 .. image:: /Img/Vykaz3.PNG
 
+Zobrazení přehledové tabulky - Výkaz docházky
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Na Výkaz docházky (přehledová tabulka) se lze dostat z hlavního menu aplikace -> Docházka **(1)** -> Výkaz docházky **(2)**. 
 
 .. image:: /Img/Prehled1.PNG
