@@ -2,6 +2,10 @@
 Výkaz docházky (přehledová tabulka)
 ====================================
 
+.. contents:: V této části:
+  :local:
+  :depth: 2
+
 Výkaz vlastní docházky je dostupný na obrazovce **Moje docházka**. Posup zobrazení je vysvětlen v kapitole :ref:`moje_dochazka`.
 
 .. note:: Výkaz docházky (přehledová tabulka) je obrazovka užitečná pro vedoucí pracovníky nebo pro zaměstnance, co mají oprávnění přistupovat na docházky dalších osob.
