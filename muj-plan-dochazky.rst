@@ -171,7 +171,7 @@ Každá docházková událost má jeden z pěti stavů:
 
 3. **Schváleno** (v kalendáři docházkových událostí je zobrazená zelenou barvou). Událost, kterou schválil nadřízený.
 
-4. **Zamítnuto*** (v kalendáři docházkových událostí je zobrazená červenou barvou). Událost, kterou zamítl nadřízený
+4. **Zamítnuto** (v kalendáři docházkových událostí je zobrazená červenou barvou). Událost, kterou zamítl nadřízený
 
 5. **Žádost o zrušení schválení odeslána** (v kalendáři docházkových událostí je zobrazená fialovou barvou).  U takto označené události již byla odeslána žádost o zrušení schválení a čeká se na rozhodnutí vedoucího (např. zrušení schválené dovolené).
 
