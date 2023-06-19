@@ -28,6 +28,9 @@ Z přehledu osob rozvrhu směn lze přejít na výkaz docházky, plán docházky
 - Pro přechod na plán docházky klikněte na šipku za jménem osoby a pak Přejít na plán docházky osoby.
 - Pro přechod na schválení docházky klikněte na šipku za jménem osoby a pak Přejít na schválení docházky osoby.
 
+V tabulce Přehled přítomnosti je vedle jména osoby uvedená informace o přítomnosti: **červená tečka** - osoba není přítomná; **modrá tečka** - osoba je přítomná; **šedá tečka** - přítomnost osoby není známá. Při najetí myší na tečku vedle jména, se zobrazí detail přítomnosti.
+
+.. image:: /Img/OsobyRozvrhuSmen3.PNG
 
 Kalendář rozvržení směn podřízených
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
