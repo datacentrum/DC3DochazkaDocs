@@ -17,6 +17,15 @@ Na Přehled osob rozvrhu směn se lze dostat z hlavního menu aplikace -> Dochá
 
 .. image:: /Img/OsobyRozvrhuSmen1.PNG
 
+Kliknutím na jméno zaměstnance v přehledové tabulce (3) se zobrazí kalendář rozvržení směn vybrané osoby.
+
+.. image:: /Img/OsobyRozvrhuSmen1.PNG
+
+Z přehledu osob rozvrhu směn lze přejít na výkaz docházky, plán docházky nebo na schválení docházky osoby:
+
+- Pro přechod na plán docházky klikněte na šipku za jménem osoby a pak Přejít na plán docházky osoby.
+- Pro přechod na schválení docházky klikněte na šipku za jménem osoby a pak Přejít na schválení docházky osoby.
+
 
 Kalendář rozvržení směn podřízených
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
