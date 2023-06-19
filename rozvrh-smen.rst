@@ -23,6 +23,7 @@ Kliknutím na jméno zaměstnance v přehledové tabulce (3) se zobrazí kalend�
 
 Z přehledu osob rozvrhu směn lze přejít na výkaz docházky, plán docházky nebo na schválení docházky osoby:
 
+- Pro přechod na výkaz docházky klikněte na šipku za jménem osoby a pak Přejít na výkaz docházky osoby.
 - Pro přechod na plán docházky klikněte na šipku za jménem osoby a pak Přejít na plán docházky osoby.
 - Pro přechod na schválení docházky klikněte na šipku za jménem osoby a pak Přejít na schválení docházky osoby.
 
