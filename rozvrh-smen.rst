@@ -58,9 +58,14 @@ Založení směny
 ^^^^^^^^^^^^^^^^^^^^^^^
 Založení směny lze provést v kalendáři rozvržení směn podřízených. Postup zobrazení kalendáře rozvržení směn je vysvětlen v kapitole :ref:`kalendar_rozvrzeni_smen`.
 
+.. image:: /Img/KalendarSmen2.PNG
+
+V kalendáři vyberte den ke kterému potřebujete založit směnu **(1)** a klikněte na tlačítko **Nová směna (2)**. Kliknutím se zobrazí formulář Detail směny, který obsahuje 2 záložky: Základní údaje, Přestavky. Na záložce Základní údaje vyplňte údaje o směně: Název směny, Základní pracovní doba od/do, Volitelná pracovní doba od/do, Začátek směny, Konec směny, Přesčasová směna (ano/ne).
+
 .. image:: /Img/RozvrhDetailSmeny1.PNG
 
-V kalendáři vyberte den ke kterému potřebujete založit směnu **(1)** a klikněte na tlačítko **Nová směna (2)**
+- Kliknutím na tlačítko **Uložit** nová směna bude uložena a zobrazí se v kalendáři rozvržení směn.
+- Kliknutím na tlačítko **Storno** se vrátíte do kalendáře rozvržení směn, ale nová směna nebude uložena.
 
 
 Detail směn
