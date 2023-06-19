@@ -43,7 +43,7 @@ Zobrazí se obrazovka Rozvrh směn, která má 2 záložky: Přehled osob a Kale
 
 .. image:: /Img/KalendarSmen1.PNG
 
-
+- V kalendáři se automatický zobrazí aktuání měsíc, ale kliknutím na šipku vprávo nebo vlevo **(4)** lze měsíc změnit.
 
 
 Založení směny
