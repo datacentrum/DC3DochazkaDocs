@@ -11,6 +11,14 @@ Rozvrh směn
 Přehled osob rozvrhu směn
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: /Img/RozvrhSmen1.PNG
+
+Na Přehled osob rozvrhu směn se lze dostat z hlavního menu aplikace -> Docházka **(1)** -> Rozvrh směn **(2)**.
+
+.. image:: /Img/OsobyRozvrhuSmen1.PNG
+
+
+
 Kalendář rozvržení směn podřízených
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
