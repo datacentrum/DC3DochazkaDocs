@@ -18,7 +18,6 @@ Na Přehled osob rozvrhu směn se lze dostat z hlavního menu aplikace -> Dochá
 .. image:: /Img/OsobyRozvrhuSmen1.PNG
 
 
-
 Kalendář rozvržení směn podřízených
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
