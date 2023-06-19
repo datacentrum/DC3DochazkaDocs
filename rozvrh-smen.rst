@@ -52,6 +52,8 @@ Zobrazí se obrazovka Rozvrh směn, která má 2 záložky: Přehled osob a Kale
 
 .. image:: /Img/RozvrhDetailSmeny1.PNG
 
+- Uživatel si může změnit zobrazení kalendáře. Kliknutím na Měsíc/Týden/Den **(7)** lze změnit zobrazení kalendáře.
+
 Založení směny
 ^^^^^^^^^^^^^^^^^^^^^^^
 
