@@ -50,7 +50,7 @@ Zobrazí se obrazovka Rozvrh směn, která má 2 záložky: Přehled osob a Kale
 
 - Kliknutím na směnu v kalendáři (6) lze zobrazit detail směny.
 
-.. image:: /Img/DetailSmeny1.PNG
+.. image:: /Img/RozvrhDetailSmeny1.PNG
 
 Založení směny
 ^^^^^^^^^^^^^^^^^^^^^^^
