@@ -32,9 +32,9 @@ V tabulce Přehled přítomnosti je vedle jména osoby uvedená informace o př�
 
 .. image:: /Img/OsobyRozvrhuSmen3.PNG
 
+.. _kalendar_rozvrzeni_smen:
 Kalendář rozvržení směn podřízených
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 Na Kalendář rozvržení směn podřízených se lze dostat z hlavního menu aplikace -> Docházka **(1)** -> Rozvrh směn **(2)**.
 
 .. image:: /Img/RozvrhSmen1.PNG
@@ -56,6 +56,7 @@ Zobrazí se obrazovka Rozvrh směn, která má 2 záložky: Přehled osob a Kale
 
 Založení směny
 ^^^^^^^^^^^^^^^^^^^^^^^
+Založení směny lze provést v kalendáři rozvržení směn podřízených. Postup zobrazení kalendáře rozvržení směn je vysvětlen v kapitole :ref:`kalendar_rozvrzeni_smen`.
 
 Detail směn
 ^^^^^^^^^^^^^^^^^^^^^^^
