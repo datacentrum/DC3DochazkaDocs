@@ -36,7 +36,7 @@ Přímo z e-mailu může vedoucí zaměstnanec provést přechod do aplikace kli
 
 .. image:: /Img/Akce1.PNG
 
-Schválení údalostí docházky z přehledu podřízených aměstnanců
+Schválení údalostí docházky z přehledu podřízených zaměstnanců
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 **Další možnost schválení docházkové údalostí:**
 
