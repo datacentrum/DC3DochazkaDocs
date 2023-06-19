@@ -58,5 +58,10 @@ Založení směny
 ^^^^^^^^^^^^^^^^^^^^^^^
 Založení směny lze provést v kalendáři rozvržení směn podřízených. Postup zobrazení kalendáře rozvržení směn je vysvětlen v kapitole :ref:`kalendar_rozvrzeni_smen`.
 
+.. image:: /Img/RozvrhDetailSmeny1.PNG
+
+V kalendáři vyberte den ke kterému potřebujete založit směnu **(1)** a klikněte na tlačítko **Nová směna (2)**
+
+
 Detail směn
 ^^^^^^^^^^^^^^^^^^^^^^^
