@@ -71,6 +71,8 @@ Na záložce Přestavky vyplňte údaje o přestávkach: Typ přestávky (automa
 - Kliknutím na tlačítko **Uložit** nová směna bude uložena a zobrazí se v kalendáři rozvržení směn.
 - Kliknutím na tlačítko **Storno** se vrátíte do kalendáře rozvržení směn, ale nová směna nebude uložena.
 
-
 Detail směn
 ^^^^^^^^^^^^^^^^^^^^^^^
+Zobrazit detail směny lze z kalendáře rozvržení směn podřízených. Postup zobrazení kalendáře rozvržení směn je vysvětlen v kapitole :ref:`kalendar_rozvrzeni_smen`.
+
+V kalendáři klikněte na směnu. Kliknutím se zobrazí detail vybrané směny, který obsahuje 2 záložky: Základní údaje, Přestavky.
