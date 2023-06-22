@@ -77,6 +77,8 @@ Zobrazit detail směny lze z kalendáře rozvržení směn podřízených. Postu
 
 .. image:: /Img/KalendarSmen3.PNG
 
-V kalendáři klikněte na směnu. Kliknutím se zobrazí detail vybrané směny, který obsahuje 2 záložky: Základní údaje, Přestavky.
+V kalendáři klikněte na směnu **(1)**. Kliknutím se zobrazí detail vybrané směny, který obsahuje 2 záložky: Základní údaje, Přestavky.
 
 .. image:: /Img/RozvrhDetailSmeny1.PNG
+
+Zobrazit detail směny lze pomoci tlačítka **Detail směn**. V kalendáři rozvržení směn vyberte den **(2)** a klikněte na tlačítko **Detail směn (3)**.
