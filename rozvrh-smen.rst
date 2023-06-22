@@ -64,6 +64,10 @@ V kalendáři vyberte den ke kterému potřebujete založit směnu **(1)** a kli
 
 .. image:: /Img/RozvrhDetailSmeny2.PNG
 
+Na záložce Přestavky vyplňte údaje o přestávkach: Typ přestávky (automaticka/pevná), Max. interval, Délka přestávky.
+
+.. image:: /Img/RozvrhDetailSmeny3.PNG
+
 - Kliknutím na tlačítko **Uložit** nová směna bude uložena a zobrazí se v kalendáři rozvržení směn.
 - Kliknutím na tlačítko **Storno** se vrátíte do kalendáře rozvržení směn, ale nová směna nebude uložena.
 
