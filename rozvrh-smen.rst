@@ -88,10 +88,10 @@ Odstranit směnu lze z kalendáře rozvržení směn podřízených. Postup zobr
 
 .. image:: /Img/KalendarSmen4.PNG
 
-- V kalendáři klikněte na směnu **(1)**. Kliknutím se zobrazí detail vybrané směny, který obsahuje 2 záložky: Základní údaje, Přestavky. Pro odstranění směny klikněte na tlačítko **Odstranit**. Zobrazí se dialog pro potvrzení: v dialogu klikněte **Odstranit**. Kliknutím směna bude smazaná. 
+- V kalendáři klikněte na směnu **(1)**. Kliknutím se zobrazí detail vybrané směny, který obsahuje 2 záložky: Základní údaje, Přestavky. Pro odstranění směny klikněte na tlačítko **Odstranit**. Zobrazí se dialog pro potvrzení: v dialogu klikněte na **Odstranit**. Kliknutím směna bude smazaná. 
 
 .. image:: /Img/RozvrhDetailSmeny1.PNG
 
-- Odstranit směnu lze také pomoci tlačítka **Nástroje**. V kalendáři rozvržení směn vyberte den **(2)**, klikněte na tlačítko **Nástroje (3)** a pak **Odstranit směny**. Zobrazí se dialog pro potvrzení: v dialogu klikněte **Odstranit**. Kliknutím směna bude smazaná.
+- Odstranit směnu lze také pomoci tlačítka **Nástroje**. V kalendáři rozvržení směn vyberte den **(2)**, klikněte na tlačítko **Nástroje (3)** a pak **Odstranit směny**. Zobrazí se dialog pro potvrzení: v dialogu klikněte na tlačítko **Odstranit**. Kliknutím směna bude smazaná.
 
 .. image:: /Img/NastrojeSmeny1.PNG
