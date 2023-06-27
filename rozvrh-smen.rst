@@ -84,4 +84,6 @@ Zobrazit detail směny lze z kalendáře rozvržení směn podřízených. Postu
 
 Smazání směny
 ^^^^^^^^^^^^^^^^^^^^^^^
+Odstranit směnu lze z kalendáře rozvržení směn podřízených. Postup zobrazení kalendáře rozvržení směn je vysvětlen v kapitole :ref:`kalendar_rozvrzeni_smen`.
 
+.. image:: /Img/KalendarSmen4.PNG
