@@ -78,7 +78,7 @@ Zobrazit detail směny lze z kalendáře rozvržení směn podřízených. Postu
 .. image:: /Img/KalendarSmen3.PNG
 
 - V kalendáři klikněte na směnu **(1)**. Kliknutím se zobrazí detail vybrané směny, který obsahuje 2 záložky: Základní údaje, Přestavky.
-- Zobrazit detail směny lze pomoci tlačítka **Detail směn**. V kalendáři rozvržení směn vyberte den **(2)** a klikněte na tlačítko **Detail směn (3)**.
+- Zobrazit detail směny lze také pomoci tlačítka **Detail směn**. V kalendáři rozvržení směn vyberte den **(2)** a klikněte na tlačítko **Detail směn (3)**.
 
 .. image:: /Img/RozvrhDetailSmeny1.PNG
 
@@ -87,3 +87,11 @@ Smazání směny
 Odstranit směnu lze z kalendáře rozvržení směn podřízených. Postup zobrazení kalendáře rozvržení směn je vysvětlen v kapitole :ref:`kalendar_rozvrzeni_smen`.
 
 .. image:: /Img/KalendarSmen4.PNG
+
+- V kalendáři klikněte na směnu **(1)**. Kliknutím se zobrazí detail vybrané směny, který obsahuje 2 záložky: Základní údaje, Přestavky. Pro odstranění směny klikněte na tlačítko **Odstranit**. Zobrazí se dialog pro potvrzení: v dialogu klikněte **Odstranit**. Kliknutím směna bude smazaná. 
+
+.. image:: /Img/RozvrhDetailSmeny1.PNG
+
+- Odstranit směnu lze také pomoci tlačítka **Nástroje**. V kalendáři rozvržení směn vyberte den **(2)**, klikněte na tlačítko **Nástroje (3)** a pak **Odstranit směny**. Zobrazí se dialog pro potvrzení: v dialogu klikněte **Odstranit**. Kliknutím směna bude smazaná.
+
+.. image:: /Img/NastrojeSmeny1.PNG
