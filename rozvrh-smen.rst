@@ -82,4 +82,6 @@ Zobrazit detail směny lze z kalendáře rozvržení směn podřízených. Postu
 
 .. image:: /Img/RozvrhDetailSmeny1.PNG
 
+Smazání směny
+^^^^^^^^^^^^^^^^^^^^^^^
 
